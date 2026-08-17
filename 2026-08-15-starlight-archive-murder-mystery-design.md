@@ -75,9 +75,9 @@ The mystery presents three distinct, competing investigative theories that playe
 ### Intentional Grammar Clue in the Curator's Note (Gap G)
 
 In Evidence Item 10, the Curator's handwritten note reads:
-> *"Tonight, I will prove who tampered with the brass **LOCK** before midnight. If you were hoping to cover your tracks, you **WAS** sorely mistaken. Everything that was **TAMPERED** with in the gallery archives will be brought to light."*
+> *"Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to light."*
 
-- **Intentional Design Clue:** The grammatical anomaly *"you WAS sorely mistaken"* was deliberately planted by John. It serves as an intentional signal to the Circle that the letter contains a hidden message. When the laser-cut decryption mask is overlaid, it isolates: **“ITEM RB-1147 LOCK WAS TAMPERED”**.
+- **Intentional Design Clue:** The grammatical anomaly *"you was sorely mistaken"* was deliberately planted by John. It serves as an intentional signal to the Circle that the letter contains a hidden message. When the laser-cut decryption mask is overlaid, it isolates: **“Item RB-1147 lock was tampered”**.
 
 ---
 

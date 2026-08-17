@@ -82,13 +82,14 @@ I will not allow this institution to be compromised. At 12:00 AM, before Catalog
 
 **Physical Setup:** Official archive administrative log sheet.
 
-| Role Title | Key Clearance Type | Courtyard Window Access? | Vault Case RB-1147 Clearance? | Chemical Kit Access? |
-| :--- | :--- | :--- | :--- | :--- |
-| **Keeper of Keys (Raelin)** | **Master Brass Key Ring (#000)** | **YES (Master Physical Clearance)** | **YES (Official Conservator)** | **YES (Full Kit — Jars A–E; CATCH Certified)** |
-| Rare Book Specialist (Charlotte) | Holding Area Keycard (#005) | NO | NO (Holding Area Only) | YES (Full Kit — Jars A–E; CATCH Certified) |
-| Order Keeper (Claire) | Administrative Card (#002) | NO (Doors Only) | NO | NO |
-| Puzzle Tinker (Ellie) | Workbench Pass (#008) | NO | NO | NO |
-| All Other Guests / Members | Public Reading Pass | NO | NO | NO |
+| Role Title & Name | Assigned Key / Card Type | Courtyard Window Access | Vault Case RB-1147 Clearance | Chemical Kit Access (Jars A–E) |
+| :--- | :--- | :---: | :---: | :---: |
+| Order Keeper (Claire) | Administrative Card (#002) | No (Doors Only) | No | No |
+| Rare Book Specialist (Charlotte) | Holding Area Keycard (#005) | No | No (Holding Area Only) | Yes (CATCH Certified) |
+| Puzzle Tinker (Ellie) | Workbench Pass (#008) | No | No | No |
+| Aesthetic Curator (Lucy) | Display Lighting Key (#011) | No | No | No |
+| Keeper of Keys (Raelin) | Master Brass Key Ring (#000) | Yes (Mechanical Master) | Yes (Official Conservator) | Yes (CATCH Certified) |
+| General Members / Guests | Standard Reading / Guest Pass | No | No | No |
 
 ---
 
@@ -176,23 +177,23 @@ Cause of death is acute dermal absorption (skin contact) via a lethal archival f
 
 ### **Evidence Item 10: Curator's Secret Letter & Laser-Cut Overlay Mask (P3)**
 
-**Physical Setup:** Print the letter below on parchment paper. Cut a 5"×7" 3mm wooden or dark acrylic **Decryption Mask** on your xTool P3 with 4 cutout window slots. When overlaid, only the bolded uppercase words show through.
+**Physical Setup:** Print the letter below on parchment paper. Cut a 5"×7" 3mm wooden or dark acrylic **Decryption Mask** on your xTool P3 with 4 cutout window slots. When overlaid, only the target words show through.
 
 ```text
 To the members of the Starlight Circle,
 
-As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred. We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated ITEM RB-1147 to mask their unlogged entry into the vault.
+As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred. We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated Item RB-1147 to mask their unlogged entry into the vault.
 
-Tonight, I will prove who tampered with the brass LOCK before midnight. If you were hoping to cover your tracks, you WAS sorely mistaken. Everything that was TAMPERED with in the gallery archives will be brought to light.
+Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to light.
 
 — The Curator
 ```
 
-*(Note for Hosts: The ungrammatical phrase "you WAS sorely mistaken" was deliberately planted by John as an intentional anomaly to signal a hidden cipher!)*
+*(Note for Hosts: The ungrammatical phrase "you was sorely mistaken" was deliberately planted by John as an intentional anomaly to signal a hidden cipher!)*
 
 **Revealed Message when Overlay Mask is Placed on Note:**
 ```
-“ITEM RB-1147 LOCK WAS TAMPERED”
+“Item RB-1147 lock was tampered”
 ```
 
 ---
