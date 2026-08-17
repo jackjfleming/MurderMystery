@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Starlight Archives — 1926 Menagerie Invoice</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap');
+
+  @page {
+    size: letter portrait;
+    margin: 0.5in;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'EB Garamond', Georgia, serif;
+    color: #1c1917;
+    background: #ffffff;
+    font-size: 12pt;
+    line-height: 1.35;
+  }
+
+  .invoice-container {
+    height: 9.8in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.4in;
+    background: #fdfaf3;
+    border: 3px double #78350f;
+    position: relative;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  }
+
+  .invoice-container::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border: 1px solid #b45309;
+    pointer-events: none;
+  }
+
+  .header {
+    text-align: center;
+    border-bottom: 2px solid #78350f;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+  }
+
+  .business-name {
+    font-family: 'Cinzel', serif;
+    font-size: 18pt;
+    font-weight: 900;
+    color: #78350f;
+    letter-spacing: 2px;
+  }
+
+  .business-tagline {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 11pt;
+    color: #92400e;
+    margin: 2px 0;
+  }
+
+  .business-address {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 8.5pt;
+    color: #57534e;
+  }
+
+  .meta-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 16px;
+    background: #fef3c7;
+    border: 1px solid #fde68a;
+    padding: 10px 14px;
+    border-radius: 4px;
+    font-size: 10pt;
+    margin-bottom: 14px;
+  }
+
+  .meta-item strong {
+    font-family: 'Cinzel', serif;
+    color: #78350f;
+  }
+
+  table.invoice-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 14px;
+    font-size: 11pt;
+  }
+
+  table.invoice-table th, table.invoice-table td {
+    border: 1px solid #d6d3d1;
+    padding: 8px 10px;
+    text-align: left;
+  }
+
+  table.invoice-table th {
+    background: #f5f5f4;
+    font-family: 'Cinzel', serif;
+    font-size: 10pt;
+    font-weight: 700;
+    color: #44403c;
+  }
+
+  .stamp-paid {
+    display: inline-block;
+    border: 3px solid #b91c1c;
+    color: #b91c1c;
+    font-family: 'Cinzel', serif;
+    font-weight: 900;
+    font-size: 14pt;
+    padding: 3px 14px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    transform: rotate(-5deg);
+  }
+
+  .annotation-box {
+    background: #fffbeb;
+    border: 1.5px solid #d97706;
+    padding: 12px 16px;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+
+  .annotation-title {
+    font-family: 'Cinzel', serif;
+    font-size: 10pt;
+    font-weight: 800;
+    color: #92400e;
+    margin-bottom: 4px;
+    letter-spacing: 1px;
+    border-bottom: 1px dashed #d97706;
+    padding-bottom: 2px;
+  }
+
+  .annotation-text {
+    font-style: italic;
+    color: #451a03;
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  @media screen {
+    body { background: #4a5568; padding: 20px; }
+    .invoice-container {
+      background: #fdfaf3;
+      margin: 0 auto;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      width: 8.5in;
+      height: 11in;
+      padding: 0.5in;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="invoice-container">
+  <div>
+    <div class="header">
+      <div class="business-name">BARNABY’S MENAGERIE & EXOTIC ANIMALS</div>
+      <div class="business-tagline">Purveyors of Fine Beasts, Curiosities & Zoological Specimens</div>
+      <div class="business-address">74 Cobblestone Lane, North Quarter • Order Ref: #1926-FF-037</div>
+    </div>
+
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+      <div class="stamp-paid">PAID IN FULL (CASH)</div>
+      <div style="font-family:'JetBrains Mono',monospace; font-size:9pt; color:#78350f;"><strong>DATE OF SALE:</strong> OCTOBER 22, 1926</div>
+    </div>
+
+    <div class="meta-grid">
+      <div class="meta-item"><strong>BILLED TO:</strong> Arthur (Apprentice Keykeeper)</div>
+      <div class="meta-item"><strong>DESTINATION:</strong> Rear Service Cellar / Coal Chute</div>
+      <div class="meta-item" style="grid-column: span 2;"><strong>SPECIAL INSTRUCTIONS:</strong> <em>"Crates must be labeled 'Archival Binding Glue & Vellum'. Deliver after dusk."</em></div>
+    </div>
+
+    <table class="invoice-table">
+      <thead>
+        <tr>
+          <th style="width: 50px; text-align:center;">QTY</th>
+          <th>ITEM DESCRIPTION</th>
+          <th style="width: 100px; text-align:right;">UNIT PRICE</th>
+          <th style="width: 100px; text-align:right;">TOTAL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align:center; font-weight:700;">37</td>
+          <td><strong>Domestic Ferrets</strong> (<em>Mustela putorius furo</em>)<br><small style="color:#57534e;">Notes: Highly active, agile burrowers, mischievous temperament.</small></td>
+          <td style="text-align:right;">$2.50</td>
+          <td style="text-align:right;">$92.50</td>
+        </tr>
+        <tr style="background:#fef2f2; color:#991b1b;">
+          <td style="text-align:center;">—</td>
+          <td><em>*** SPECIAL VOLUME BULK DISCOUNT APPLIED (-$0.75/ea) ***</em></td>
+          <td style="text-align:right;">-$0.75</td>
+          <td style="text-align:right;">-$27.75</td>
+        </tr>
+        <tr>
+          <td style="text-align:center; font-weight:700;">04</td>
+          <td><strong>Ventilated Cedar Transport Crates</strong> (Quick-Release Latches)</td>
+          <td style="text-align:right;">$1.50</td>
+          <td style="text-align:right;">$6.00</td>
+        </tr>
+        <tr style="background:#f5f5f4; font-weight:700; font-size:12pt;">
+          <td colspan="3" style="text-align:right; font-family:'Cinzel',serif;">TOTAL AMOUNT PAID:</td>
+          <td style="text-align:right; color:#78350f;">$70.75</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="annotation-box">
+      <div class="annotation-title">🔍 CURATOR'S AUDIT ANNOTATION (OCTOBER 24)</div>
+      <div class="annotation-text">
+        "Found misfiled behind the 1926 Annual Gala ledger. Raelin’s great-grandfather Arthur negotiated a volume bulk discount on thirty-seven live ferrets two days prior to the gala disaster. Julian Vance was completely innocent—Arthur planted the transport crates in Vance's locker to frame him and claim the hereditary Keeper of Keys title. The entire family legacy is a fraudulent cover-up. To be presented at midnight."<br>
+        <span style="float: right; font-weight: 700; font-style: normal;">— J. Curator</span>
+      </div>
+    </div>
+  </div>
+
+  <div style="font-family:'JetBrains Mono',monospace; font-size:8pt; color:#a8a29e; text-align:center; border-top:1px solid #e7e5e4; padding-top:4px;">
+    GRAND FINALE REVEAL PROP • STARLIGHT ARCHIVES MURDER MYSTERY
+  </div>
+</div>
+
+</body>
+</html>

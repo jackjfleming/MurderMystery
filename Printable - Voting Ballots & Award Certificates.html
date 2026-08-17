@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Starlight Archives — Printable Ballots & Awards</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&family=Great+Vibes&display=swap');
+
+  @page {
+    size: letter portrait;
+    margin: 0.4in;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'EB Garamond', Georgia, serif;
+    color: #1a1a1a;
+    background: #ffffff;
+    font-size: 11pt;
+    line-height: 1.3;
+  }
+
+  /* BALLOTS GRID (2x2 per page = 4 per page) */
+  .ballots-page {
+    page-break-after: always;
+    break-after: page;
+    height: 10in;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .ballot-card {
+    border: 2px dashed #475569;
+    padding: 12px 14px;
+    background: #faf8f5;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 9pt;
+  }
+
+  .ballot-header {
+    text-align: center;
+    border-bottom: 1.5px solid #2c3e50;
+    padding-bottom: 4px;
+    margin-bottom: 6px;
+  }
+
+  .ballot-title {
+    font-family: 'Cinzel', serif;
+    font-size: 11pt;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: 1px;
+  }
+
+  .ballot-input-line {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 8pt;
+  }
+
+  .ballot-q {
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    font-size: 8.5pt;
+    color: #1e293b;
+    margin-top: 4px;
+    margin-bottom: 2px;
+  }
+
+  .suspects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px 6px;
+    font-size: 7.8pt;
+    margin-bottom: 4px;
+  }
+
+  /* AWARDS (Landscape on portrait sheet or full frame) */
+  .award-page {
+    page-break-after: always;
+    break-after: page;
+    height: 10in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.5in;
+    background: #faf8f5;
+    border: 4px double #8b7355;
+    position: relative;
+    text-align: center;
+  }
+
+  .award-page::before {
+    content: "";
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 6px;
+    border: 1px solid #c5a880;
+    pointer-events: none;
+  }
+
+  .award-org {
+    font-family: 'Cinzel', serif;
+    font-size: 13pt;
+    letter-spacing: 4px;
+    color: #8b7355;
+    text-transform: uppercase;
+    margin-top: 10px;
+  }
+
+  .award-title {
+    font-family: 'Cinzel', serif;
+    font-size: 26pt;
+    font-weight: 900;
+    color: #1e293b;
+    letter-spacing: 2px;
+    margin: 15px 0 10px 0;
+    text-transform: uppercase;
+  }
+
+  .award-subtitle {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 14pt;
+    color: #64748b;
+  }
+
+  .award-recipient-line {
+    width: 80%;
+    margin: 30px auto 10px auto;
+    border-bottom: 2px solid #1e293b;
+    height: 35px;
+  }
+
+  .award-desc {
+    font-family: 'EB Garamond', serif;
+    font-size: 13pt;
+    color: #334155;
+    max-width: 85%;
+    margin: 20px auto;
+    line-height: 1.4;
+  }
+
+  .award-sigs {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+
+  .sig-line {
+    width: 2.2in;
+    border-top: 1px solid #1e293b;
+    padding-top: 4px;
+    font-family: 'Cinzel', serif;
+    font-size: 9pt;
+    color: #475569;
+  }
+
+  @media screen {
+    body { background: #4a5568; padding: 20px; }
+    .ballots-page, .award-page {
+      background: #ffffff;
+      margin: 0 auto 30px auto;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      width: 8.5in;
+      height: 11in;
+      padding: 0.5in;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- BALLOTS: PAGE 1 (4 Ballots) -->
+<div class="ballots-page">
+  <!-- Ballot 1 -->
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line">
+        <span>GUEST: ___________________</span>
+        <span>ROLE: ___________________</span>
+      </div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div>
+        <div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div>
+        <div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div>
+        <div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div>
+        <div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div>
+        <div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div>
+        <div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div>
+        <div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div>
+        <div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+
+  <!-- Ballot 2 -->
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line">
+        <span>GUEST: ___________________</span>
+        <span>ROLE: ___________________</span>
+      </div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div>
+        <div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div>
+        <div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div>
+        <div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div>
+        <div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div>
+        <div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div>
+        <div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div>
+        <div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div>
+        <div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+
+  <!-- Ballot 3 -->
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line">
+        <span>GUEST: ___________________</span>
+        <span>ROLE: ___________________</span>
+      </div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div>
+        <div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div>
+        <div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div>
+        <div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div>
+        <div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div>
+        <div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div>
+        <div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div>
+        <div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div>
+        <div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+
+  <!-- Ballot 4 -->
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line">
+        <span>GUEST: ___________________</span>
+        <span>ROLE: ___________________</span>
+      </div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div>
+        <div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div>
+        <div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div>
+        <div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div>
+        <div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div>
+        <div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div>
+        <div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div>
+        <div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div>
+        <div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px; margin-top:2px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+</div>
+
+<!-- BALLOTS: PAGE 2 (Duplicate for 8 total, print twice for 16) -->
+<div class="ballots-page">
+  <!-- Repeat same 4 ballots for seamless print count -->
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line"><span>GUEST: ___________________</span><span>ROLE: ___________________</span></div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div><div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div><div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div><div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div><div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div><div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div><div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div><div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div><div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line"><span>GUEST: ___________________</span><span>ROLE: ___________________</span></div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div><div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div><div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div><div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div><div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div><div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div><div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div><div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div><div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line"><span>GUEST: ___________________</span><span>ROLE: ___________________</span></div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div><div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div><div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div><div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div><div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div><div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div><div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div><div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div><div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+  <div class="ballot-card">
+    <div>
+      <div class="ballot-header">
+        <div class="ballot-title">THE STARLIGHT ARCHIVES</div>
+        <div style="font-size: 7.5pt; color:#64748b; font-family:'JetBrains Mono',monospace;">OFFICIAL INVESTIGATION BALLOT</div>
+      </div>
+      <div class="ballot-input-line"><span>GUEST: ___________________</span><span>ROLE: ___________________</span></div>
+      <div class="ballot-q">1. WHO KILLED THE CURATOR? (Check ONE):</div>
+      <div class="suspects-grid">
+        <div>[ ] Raelin (Keeper of Keys)</div><div>[ ] Gianna (Amateur Sleuth)</div>
+        <div>[ ] Claire (Order Keeper)</div><div>[ ] Hope (Literary Prodigy)</div>
+        <div>[ ] Sarah (Photographer)</div><div>[ ] Georgia (Archivist of Secrets)</div>
+        <div>[ ] Brooklyn (Publisher)</div><div>[ ] Kaitlin (Silent Strategist)</div>
+        <div>[ ] Charlotte (Rare Book Spec.)</div><div>[ ] Maddie (Conservatory Reader)</div>
+        <div>[ ] Christina (Debater)</div><div>[ ] Ruthanne (Library Darling)</div>
+        <div>[ ] Victoria (The Annotator)</div><div>[ ] Lucy (Aesthetic Curator)</div>
+        <div>[ ] Ellie (Puzzle Tinker)</div><div>[ ] Valle (Unfortunate Witness)</div>
+      </div>
+      <div class="ballot-q">2. TRUE MURDER METHOD?</div>
+      <div style="font-size:7.5pt; margin-bottom:4px;">
+        [ ] Track A: Physical Stabbing / Craft blade arm wound<br>
+        [ ] Track B: Poisoned Drink / Herbal tea in desk cup<br>
+        [ ] Track C: Dermal Contact Poison / Organomercury toxin on Case RB-1147 lock
+      </div>
+      <div class="ballot-q">3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+      <div class="ballot-q">4. TIE-BREAKER: What secret was the killer hiding?</div>
+      <div style="border-bottom: 1px solid #cbd5e1; height: 12px;"></div>
+    </div>
+    <div style="font-size:7pt; color:#64748b; text-align:right; font-family:'JetBrains Mono',monospace;">FOLD & DROP IN BALLOT BOX</div>
+  </div>
+</div>
+
+<!-- AWARD 1: MASTER SLEUTH -->
+<div class="award-page">
+  <div class="award-org">The Starlight Archives • Honors of Excellence</div>
+  <div class="award-title">Master Sleuth Award</div>
+  <div class="award-subtitle">Presented to the Foremost Investigator of the Starlight Circle</div>
+  <div class="award-recipient-line"></div>
+  <div class="award-desc">
+    For flawlessly aligning the 6 Proof Pillars, seeing through the red herrings of the arm scratch and the poisoned tea, and correctly identifying the true killer, delivery method, and the scandalous 1926 ferret fraud!
+  </div>
+  <div class="award-sigs">
+    <div class="sig-line">Detective Jack<br><em>Lead Investigator</em></div>
+    <div style="font-family:'Cinzel',serif; font-size:10pt; color:#8b7355; padding-top:4px;">OCTOBER 24, 2026</div>
+    <div class="sig-line">Archivist Whitney<br><em>Director of Archives</em></div>
+  </div>
+</div>
+
+<!-- AWARD 2: BEST DRAMATIC PERFORMANCE -->
+<div class="award-page">
+  <div class="award-org">The Starlight Archives • Honors of Excellence</div>
+  <div class="award-title">Best Thespian Award</div>
+  <div class="award-subtitle">For Outstanding Dramatic Performance in the Archives</div>
+  <div class="award-recipient-line"></div>
+  <div class="award-desc">
+    For extraordinary commitment to their role, unmatched intensity during suspect interrogations, and keeping the entire Circle captivated through sheer theatrical brilliance!
+  </div>
+  <div class="award-sigs">
+    <div class="sig-line">Detective Jack<br><em>Lead Investigator</em></div>
+    <div style="font-family:'Cinzel',serif; font-size:10pt; color:#8b7355; padding-top:4px;">OCTOBER 24, 2026</div>
+    <div class="sig-line">Archivist Whitney<br><em>Director of Archives</em></div>
+  </div>
+</div>
+
+<!-- AWARD 3: BEST VINTAGE COSTUME -->
+<div class="award-page">
+  <div class="award-org">The Starlight Archives • Honors of Excellence</div>
+  <div class="award-title">Best Vintage Costume</div>
+  <div class="award-subtitle">For Sartorial Excellence & Dark Academia Elegance</div>
+  <div class="award-recipient-line"></div>
+  <div class="award-desc">
+    For immaculate adherence to the Dark Academia aesthetic, showcasing impeccable vintage style, mystery sophistication, and secret society semi-formal excellence!
+  </div>
+  <div class="award-sigs">
+    <div class="sig-line">Detective Jack<br><em>Lead Investigator</em></div>
+    <div style="font-family:'Cinzel',serif; font-size:10pt; color:#8b7355; padding-top:4px;">OCTOBER 24, 2026</div>
+    <div class="sig-line">Archivist Whitney<br><em>Director of Archives</em></div>
+  </div>
+</div>
+
+<!-- AWARD 4: MASTER OF DECEPTION -->
+<div class="award-page">
+  <div class="award-org">The Starlight Archives • Honors of Excellence</div>
+  <div class="award-title">Master of Deception</div>
+  <div class="award-subtitle">For Supreme Subterfuge & Poker-Faced Defense</div>
+  <div class="award-recipient-line"></div>
+  <div class="award-desc">
+    For defending the most absurd personal secret with unwavering conviction, baffling fellow sleuths, and deflecting suspicion with consummate ease!
+  </div>
+  <div class="award-sigs">
+    <div class="sig-line">Detective Jack<br><em>Lead Investigator</em></div>
+    <div style="font-family:'Cinzel',serif; font-size:10pt; color:#8b7355; padding-top:4px;">OCTOBER 24, 2026</div>
+    <div class="sig-line">Archivist Whitney<br><em>Director of Archives</em></div>
+  </div>
+</div>
+
+<!-- AWARD 5: CHAOS AGENT OF THE NIGHT -->
+<div class="award-page">
+  <div class="award-org">The Starlight Archives • Honors of Excellence</div>
+  <div class="award-title">Chaos Agent Award</div>
+  <div class="award-subtitle">For Delightful Mayhem & Wild Conspiracy Theories</div>
+  <div class="award-recipient-line"></div>
+  <div class="award-desc">
+    For fabricating the wildest conspiracy theories, pointing fingers at totally innocent guests, and ensuring the entire evening was filled with non-stop laughter and energy!
+  </div>
+  <div class="award-sigs">
+    <div class="sig-line">Detective Jack<br><em>Lead Investigator</em></div>
+    <div style="font-family:'Cinzel',serif; font-size:10pt; color:#8b7355; padding-top:4px;">OCTOBER 24, 2026</div>
+    <div class="sig-line">Archivist Whitney<br><em>Director of Archives</em></div>
+  </div>
+</div>
+
+</body>
+</html>

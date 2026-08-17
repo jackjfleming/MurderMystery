@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="5.0in" height="7.0in" version="1.1">
+  <title>Starlight Archive Murder Mystery - Laser Cut Overlay Cipher Stencil</title>
+  <desc>xTool P3 Laser Cut and Engrave Mask for Curator Secret Note Decryption</desc>
+
+  <!-- ========================================================================= -->
+  <!-- LAYER 1: ENGRAVING (BLACK #000000) - Ornamental Borders & Registration    -->
+  <!-- ========================================================================= -->
+  <g id="ENGRAVING_LAYER" stroke="#000000" fill="none" stroke-width="1.5">
+    <!-- Outer Decorative Border -->
+    <rect x="15" y="15" width="470" height="670" rx="10" ry="10" stroke-width="2.5" />
+    <rect x="25" y="25" width="450" height="650" rx="6" ry="6" stroke-dasharray="8,4" stroke-width="1.0" />
+
+    <!-- Corner Filigree Ornaments -->
+    <!-- Top-Left -->
+    <path d="M 35,55 C 45,55 55,45 55,35" stroke-width="2.0" />
+    <path d="M 35,65 C 55,65 65,55 65,35" stroke-width="1.0" />
+    <circle cx="45" cy="45" r="3" fill="#000000" />
+
+    <!-- Top-Right -->
+    <path d="M 465,55 C 455,55 445,45 445,35" stroke-width="2.0" />
+    <path d="M 465,65 C 445,65 435,55 435,35" stroke-width="1.0" />
+    <circle cx="455" cy="45" r="3" fill="#000000" />
+
+    <!-- Bottom-Left -->
+    <path d="M 35,645 C 45,645 55,655 55,665" stroke-width="2.0" />
+    <path d="M 35,635 C 55,635 65,645 65,665" stroke-width="1.0" />
+    <circle cx="45" cy="655" r="3" fill="#000000" />
+
+    <!-- Bottom-Right -->
+    <path d="M 465,645 C 455,645 445,655 445,665" stroke-width="2.0" />
+    <path d="M 465,635 C 445,635 435,645 435,665" stroke-width="1.0" />
+    <circle cx="455" cy="655" r="3" fill="#000000" />
+
+    <!-- Engraved Header Typography -->
+    <text x="250" y="60" font-family="Georgia, serif" font-size="14" font-weight="bold" letter-spacing="3" text-anchor="middle" fill="#000000" stroke="none">THE STARLIGHT ARCHIVES</text>
+    <text x="250" y="80" font-family="Georgia, serif" font-size="9" letter-spacing="2" text-anchor="middle" fill="#000000" stroke="none">EST. 1847 • OFFICIAL DECRYPTION MASK</text>
+    <line x1="120" y1="92" x2="380" y2="92" stroke-width="1.0" />
+
+    <!-- Engraved Alignment Guides & Labeling -->
+    <text x="250" y="625" font-family="Courier New, monospace" font-size="9" text-anchor="middle" fill="#000000" stroke="none">ALIGN CORNERS WITH CURATOR LETTER</text>
+    <text x="250" y="642" font-family="Courier New, monospace" font-size="8" text-anchor="middle" fill="#000000" stroke="none">xTool P3 PROTOTYPE • 3MM HARDWOOD / ACRYLIC</text>
+
+    <!-- Visual Registration Crosshairs -->
+    <line x1="45" y1="20" x2="45" y2="30" stroke-width="1" />
+    <line x1="40" y1="25" x2="50" y2="25" stroke-width="1" />
+    <line x1="455" y1="20" x2="455" y2="30" stroke-width="1" />
+    <line x1="450" y1="25" x2="460" y2="25" stroke-width="1" />
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- LAYER 2: CUTTING (RED #FF0000) - Cutout Slots for Decrypted Words         -->
+  <!-- ========================================================================= -->
+  <g id="CUT_LAYER" stroke="#FF0000" fill="none" stroke-width="1.0">
+    <!-- Slot 1: "ITEM RB-1147" (Line 4 of Note) -->
+    <!-- Positioned precisely over the target phrase coordinates -->
+    <rect x="235" y="248" width="165" height="38" rx="4" ry="4" />
+
+    <!-- Slot 2: "LOCK" (Line 6 of Note) -->
+    <rect x="180" y="340" width="85" height="38" rx="4" ry="4" />
+
+    <!-- Slot 3: "WAS" (Line 7 of Note) -->
+    <rect x="290" y="390" width="75" height="38" rx="4" ry="4" />
+
+    <!-- Slot 4: "TAMPERED" (Line 8 of Note) -->
+    <rect x="175" y="440" width="150" height="38" rx="4" ry="4" />
+
+    <!-- Outer Perimeter Cutline (5x7 inch rectangular cut) -->
+    <rect x="0" y="0" width="500" height="700" rx="8" ry="8" stroke-width="1.5" />
+  </g>
+</svg>
