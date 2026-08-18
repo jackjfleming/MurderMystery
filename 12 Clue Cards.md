@@ -12,7 +12,7 @@ This master tracker replaces static player clue cards with an active host manage
 1. **Evidence Item 1:** Electronic Terminal Access Record *(Shows 15-min unlogged prep window 23:30–23:45 and courtyard window sensor trigger at 23:44)*
 2. **Evidence Item 2:** Preliminary Incident Dossier *(Establishes victim profile, archway collapse, and the 3 initial tracks: arm scratch, desk tea cup, display lock)*
 3. **Evidence Item 3:** Curator's Handwritten Audit Notes *(Mentions investigation into unlogged access breaches and 1926 family secret)*
-4. **Evidence Item 4:** Key Clearance Register *(Table detailing access levels: only Master Key #000 opens courtyard window and vault display cases)*
+4. **Evidence Item 4:** Key & Access Authorization Register *(Master institutional facility register detailing RFID levels, vault cases, mechanical bypasses, and chemical/CATCH clearances across all 16 members)*
 5. **Physical Showcase:** Chemical Preservation Kit (Jars A–E on vintage wooden tray on evidence table)
 6. **Player Materials:** Round 1 Dialogue & Witness Slips
 

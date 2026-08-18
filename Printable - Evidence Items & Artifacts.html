@@ -1,495 +1,674 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<title>Starlight Archives — Printable Evidence Items & Artifacts</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&family=Courier+Prime:wght@400;700&family=Caveat:wght@600;700&display=swap');
+  <meta charset="UTF-8">
+  <title>Starlight Archives — Printable Evidence Items & Artifacts</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&family=Courier+Prime:wght@400;700&family=Caveat:wght@600;700&display=swap');
 
-  @page {
-    size: letter portrait;
-    margin: 0.4in;
-  }
-
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-
-  body {
-    font-family: 'EB Garamond', Georgia, serif;
-    color: #1a1a1a;
-    background: #ffffff;
-    font-size: 11pt;
-    line-height: 1.35;
-  }
-
-  .evidence-page {
-    page-break-after: always;
-    break-after: page;
-    height: 10in;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 0.35in;
-    background: #faf8f5;
-    border: 2px solid #334155;
-    position: relative;
-  }
-
-  .evidence-header {
-    border-bottom: 2px solid #1e293b;
-    padding-bottom: 6px;
-    margin-bottom: 12px;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-  }
-
-  .evidence-title {
-    font-family: 'Cinzel', serif;
-    font-size: 16pt;
-    font-weight: 800;
-    color: #0f172a;
-  }
-
-  .evidence-meta {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 9pt;
-    color: #475569;
-    text-transform: uppercase;
-  }
-
-  .evidence-body {
-    flex-grow: 1;
-  }
-
-  /* Retro Monospace Terminal Log */
-  .terminal-box {
-    background: #0f172a;
-    color: #38bdf8;
-    font-family: 'JetBrains Mono', monospace;
-    padding: 16px;
-    border-radius: 4px;
-    font-size: 9.5pt;
-    line-height: 1.45;
-    border: 1px solid #1e293b;
-    white-space: pre-wrap;
-  }
-
-  .terminal-alert { color: #f87171; font-weight: 700; }
-  .terminal-green { color: #4ade80; }
-
-  /* Manila Folder Style */
-  .dossier-report {
-    background: #fdf6e2;
-    border: 1px solid #d5c8b5;
-    padding: 18px;
-    border-radius: 4px;
-    box-shadow: inset 0 0 10px rgba(0,0,0,0.03);
-  }
-
-  .stamp-confidential {
-    display: inline-block;
-    border: 2px solid #b91c1c;
-    color: #b91c1c;
-    font-family: 'Cinzel', serif;
-    font-weight: 800;
-    font-size: 11pt;
-    padding: 2px 10px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    transform: rotate(-2deg);
-    margin-bottom: 10px;
-  }
-
-  .stamp-lab {
-    display: inline-block;
-    border: 2px solid #047857;
-    color: #047857;
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: 700;
-    font-size: 10pt;
-    padding: 2px 8px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 8px;
-  }
-
-  /* Tables */
-  table.custom-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-    font-size: 10.5pt;
-  }
-
-  table.custom-table th, table.custom-table td {
-    border: 1px solid #cbd5e1;
-    padding: 6px 10px;
-    text-align: left;
-  }
-
-  table.custom-table th {
-    background: #e2e8f0;
-    font-family: 'Cinzel', serif;
-    font-size: 9.5pt;
-    font-weight: 700;
-    color: #1e293b;
-  }
-
-  table.custom-table tr:nth-child(even) { background: #f8fafc; }
-
-  /* Curator 5x7 Letter Box */
-  .letter-5x7-container {
-    width: 5in;
-    height: 7in;
-    margin: 0.5in auto;
-    background: #fdfbf7;
-    border: 2px solid #8b7355;
-    padding: 0.4in;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-
-  .letter-content {
-    font-family: 'EB Garamond', Georgia, serif;
-    font-size: 13.5pt;
-    line-height: 1.5;
-    color: #2c2523;
-  }
-
-  .letter-target-word {
-    font-weight: 700;
-    letter-spacing: 0.5px;
-  }
-
-  .footer-note {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 8pt;
-    color: #64748b;
-    border-top: 1px solid #e2e8f0;
-    padding-top: 4px;
-    display: flex;
-    justify-content: space-between;
-  }
-
-  @media screen {
-    body { background: #4a5568; padding: 20px; }
-    .evidence-page {
-      background: #ffffff;
-      margin: 0 auto 30px auto;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-      width: 8.5in;
-      height: 11in;
-      padding: 0.5in;
+    @page {
+      size: letter portrait;
+      margin: 0.4in;
     }
-  }
-</style>
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'EB Garamond', Georgia, serif;
+      color: #1a1a1a;
+      background: #ffffff;
+      font-size: 11pt;
+      line-height: 1.35;
+    }
+
+    .evidence-page {
+      page-break-after: always;
+      break-after: page;
+      height: 10in;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 0.35in;
+      background: #faf8f5;
+      border: 2px solid #334155;
+      position: relative;
+    }
+
+    .evidence-header {
+      border-bottom: 2px solid #1e293b;
+      padding-bottom: 6px;
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+
+    .evidence-title {
+      font-family: 'Cinzel', serif;
+      font-size: 16pt;
+      font-weight: 800;
+      color: #0f172a;
+    }
+
+    .evidence-meta {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9pt;
+      color: #475569;
+      text-transform: uppercase;
+    }
+
+    .evidence-body {
+      flex-grow: 1;
+    }
+
+    /* Retro Monospace Terminal Log */
+    .terminal-box {
+      background: #0f172a;
+      color: #38bdf8;
+      font-family: 'JetBrains Mono', monospace;
+      padding: 16px;
+      border-radius: 4px;
+      font-size: 9.5pt;
+      line-height: 1.45;
+      border: 1px solid #1e293b;
+      white-space: pre-wrap;
+    }
+
+    .terminal-alert {
+      color: #f87171;
+      font-weight: 700;
+    }
+
+    .terminal-green {
+      color: #4ade80;
+    }
+
+    /* Manila Folder Style */
+    .dossier-report {
+      background: #fdf6e2;
+      border: 1px solid #d5c8b5;
+      padding: 18px;
+      border-radius: 4px;
+      box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.03);
+    }
+
+    .stamp-confidential {
+      display: inline-block;
+      border: 2px solid #b91c1c;
+      color: #b91c1c;
+      font-family: 'Cinzel', serif;
+      font-weight: 800;
+      font-size: 11pt;
+      padding: 2px 10px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      transform: rotate(-2deg);
+      margin-bottom: 10px;
+    }
+
+    .stamp-lab {
+      display: inline-block;
+      border: 2px solid #047857;
+      color: #047857;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 10pt;
+      padding: 2px 8px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 8px;
+    }
+
+    /* Tables */
+    table.custom-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      font-size: 10.5pt;
+    }
+
+    table.custom-table th,
+    table.custom-table td {
+      border: 1px solid #cbd5e1;
+      padding: 6px 10px;
+      text-align: left;
+    }
+
+    table.custom-table th {
+      background: #e2e8f0;
+      font-family: 'Cinzel', serif;
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #1e293b;
+    }
+
+    table.custom-table tr:nth-child(even) {
+      background: #f8fafc;
+    }
+
+    /* Curator 5x7 Letter Box */
+    .letter-5x7-container {
+      width: 5in;
+      height: 7in;
+      margin: 0.5in auto;
+      background: #fdfbf7;
+      border: 2px solid #8b7355;
+      padding: 0.4in;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .letter-content {
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 13.5pt;
+      line-height: 1.5;
+      color: #2c2523;
+    }
+
+    .letter-target-word {
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .footer-note {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 8pt;
+      color: #64748b;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 4px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    @media screen {
+      body {
+        background: #4a5568;
+        padding: 20px;
+      }
+
+      .evidence-page {
+        background: #ffffff;
+        margin: 0 auto 30px auto;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        width: 8.5in;
+        height: 11in;
+        padding: 0.5in;
+      }
+    }
+  </style>
 </head>
+
 <body>
 
-<!-- PAGE 1: STORY & SETTING + THE VICTIM PROFILE -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">The Starlight Archives • Story & Setting</div>
-      <div class="evidence-meta">Read This First • Evidence Table Setup</div>
-    </div>
+  <!-- PAGE 1: STORY & SETTING + THE VICTIM PROFILE -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">The Starlight Archives • Story & Setting</div>
+        <div class="evidence-meta">Read This First • Evidence Table Setup</div>
+      </div>
 
-    <div class="dossier-report" style="margin-bottom: 12px;">
-      <h3 style="font-family:'Cinzel',serif; color:#0f172a; margin-bottom:4px;">WELCOME TO THE STARLIGHT ARCHIVES</h3>
-      <p style="margin-bottom: 6px;">Tonight, you have gathered for an exclusive after-hours meeting of the <em>Starlight Circle</em>—a secret society of writers, scholars, archivists, and insiders who hold special clearance inside the Starlight Archives. At 12:00 AM, the archives' most restricted vault was scheduled to open to reveal Catalog Item RB-1147: The Starlight Ledger.</p>
-      <p style="margin-bottom: 6px;"><strong>THE LEAD-UP TO TONIGHT:</strong> Over the past week, the Curator (John) audited the archives' restricted movement logs and security archives. He discovered serious irregularities: unlogged entries into restricted areas, unauthorized access, defaced artifacts, and an embarrassing historical family scandal. John privately confronted multiple members, warning that his audit was complete and that every secret would be exposed during tonight’s 12:00 AM presentation.</p>
-      <p><strong>THE INCIDENT:</strong> Moments after guests gathered in the Main Reception Hall, the Curator entered clutching a coat sleeve tear and holding his arm in pain. Seconds later, in full view of everyone through the gallery archway, he reached out toward Display Case RB-1147, touched its brass lock handle, and dramatically collapsed to the floor—dead.</p>
-    </div>
+      <div class="dossier-report" style="margin-bottom: 12px;">
+        <h3 style="font-family:'Cinzel',serif; color:#0f172a; margin-bottom:4px;">WELCOME TO THE STARLIGHT ARCHIVES</h3>
+        <p style="margin-bottom: 6px;">Tonight, you have gathered for an exclusive after-hours meeting of the
+          <em>Starlight Circle</em>—a secret society of writers, scholars, archivists, and insiders who hold special
+          clearance inside the Starlight Archives. At 12:00 AM, the archives' most restricted vault was scheduled to
+          open to reveal Catalog Item RB-1147: The Starlight Ledger.</p>
+        <p style="margin-bottom: 6px;"><strong>THE LEAD-UP TO TONIGHT:</strong> Over the past week, the Curator (John)
+          audited the archives' restricted movement logs and security archives. He discovered serious irregularities:
+          unlogged entries into restricted areas, unauthorized access, defaced artifacts, and an embarrassing historical
+          family scandal. John privately confronted multiple members, warning that his audit was complete and that every
+          secret would be exposed during tonight’s 12:00 AM presentation.</p>
+        <p><strong>THE INCIDENT:</strong> Moments after guests gathered in the Main Reception Hall, the Curator entered
+          clutching a coat sleeve tear and holding his arm in pain. Seconds later, in full view of everyone through the
+          gallery archway, he reached out toward Display Case RB-1147, touched its brass lock handle, and dramatically
+          collapsed to the floor—dead.</p>
+      </div>
 
-    <div class="dossier-report">
-      <div class="stamp-confidential">VICTIM PROFILE: JOHN (THE CURATOR)</div>
-      <p style="margin-bottom: 4px;"><strong>Title / Role:</strong> Chief Curator, The Starlight Archives | <strong>Status:</strong> Deceased (Collapsed at Gallery Archway)</p>
-      <p style="margin-bottom: 6px;"><strong>Known Evidence Found On / Near The Victim:</strong></p>
-      <ul style="padding-left: 20px; font-size: 10pt; line-height: 1.4;">
-        <li><strong>On His Person:</strong> A minor coat sleeve tear and small surface scratch on his left forearm <em>(Preliminary findings: sustained during an argument earlier today)</em>.</li>
-        <li><strong>On His Desk:</strong> A ceramic tea cup with saucer smelling of tea and concentrated bitter almond infusion.</li>
-        <li><strong>At His Desk Safe:</strong> A confidential handwritten note left for the Starlight Circle, cryptically noting that Item RB-1147 was tampered with before midnight.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES INVESTIGATION KIT</span>
-    <span>TABLE DISPLAY SHEET • ROUND 1</span>
-  </div>
-</div>
-
-<!-- PAGE 2: EVIDENCE ITEM 1 (TERMINAL ACCESS RECORD) -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Item 1: Access Log Terminal Record</div>
-      <div class="evidence-meta">Round 1 Drop • Central Access Control Log</div>
-    </div>
-
-    <div class="terminal-box">================================================================================
-          STARLIGHT ARCHIVES CENTRAL ACCESS CONTROL — AUTOMATED LOG
-                     DATE: OCTOBER 24 | TIME WINDOW: 23:30 - 23:59
-================================================================================
-[23:30:12] MAIN ENTRANCE: C. Claire (Order Keeper) — CARD KEY #002 [LOGGED]
-[23:32:45] MAIN ENTRANCE: S. Sarah (Nocturnal Photographer) — GUEST PASS [LOGGED]
-[23:35:00] GUEST CHECK-IN OPENED: Front Desk Console Active (Georgia/Charlotte)
-[23:40:15] MAIN ENTRANCE: General Guest Arrivals Check-In Active [LOGGED]
---------------------------------------------------------------------------------
-[23:42:00] SYSTEM ALERT: Rare Books Gallery Main Doors — <span class="terminal-alert">LOCKED / LOCKED</span>
-[23:44:18] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
-           <span class="terminal-alert">>>> UNLOGGED MECHANICAL UNLATCH DETECTED <<<</span>
-           <span class="terminal-alert">>>> DURATION: 00:02:15 | ENTRY TYPE: PHYSICAL MASTER KEY <<<</span>
-[23:46:33] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
-           <span class="terminal-green">>>> LATCH SECURED / CLOSED <<<</span>
---------------------------------------------------------------------------------
-[23:50:00] GALLERY ARCHWAY: J. John (Curator) — MANUAL KEY ACCESS [LOGGED]
-[23:51:10] CRITICAL ALERT: Motion Sensor Gallery Case RB-1147 Interrupted
-[23:51:15] <span class="terminal-alert">OCCUPANT COLLAPSE DETECTED — RARE BOOKS GALLERY ARCHWAY</span>
-================================================================================</div>
-
-    <div style="margin-top: 14px; padding: 10px; background: #e2e8f0; border-radius: 4px; font-size: 10pt;">
-      <strong>🔍 Forensics Note for Sleuths:</strong> Electronic readers only track door card swipes. Opening the courtyard window with a physical mechanical master key bypassed the main entrance card readers entirely! Notice the unlogged window unlatch at <strong>23:44:18</strong>!
-    </div>
-  </div>
-
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEM #1</span>
-  </div>
-</div>
-
-<!-- PAGE 3: EVIDENCE ITEM 2 & ITEM 3 -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Items 2 & 3: Incident Dossier & Audit Notes</div>
-      <div class="evidence-meta">Round 1 Drop • Scene Findings</div>
-    </div>
-
-    <!-- Incident Dossier -->
-    <div class="dossier-report" style="margin-bottom: 14px;">
-      <div class="stamp-confidential">CONFIDENTIAL CASE FILE #2026-1024</div>
-      <p style="margin-bottom: 6px;"><strong>Victim:</strong> John (The Curator) | <strong>Incident Time:</strong> 23:51:15 HRS | <strong>Location:</strong> Rare Books Gallery Archway</p>
-      <p style="margin-bottom: 6px;"><strong>Scene Observations:</strong> The victim entered clutching a visible tear on his left coat sleeve and holding his forearm. He stepped to the gallery archway, touched the brass lock of Case RB-1147, and suffered immediate collapse.</p>
-      <div style="background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px; font-size:9.5pt;">
-        <strong>Three Competing Investigation Leads Identified at Scene:</strong><br>
-        1. <strong>TRACK A (Physical Trauma):</strong> Coat sleeve fabric tear and surface forearm scratch. Discarded craft blade recovered from hallway trash.<br>
-        2. <strong>TRACK B (Ingested Poison):</strong> One (1) full ceramic tea cup on desk smelling strongly of bitter almond and herbal infusion.<br>
-        3. <strong>TRACK C (Contact Surface Poison):</strong> Immediate collapse occurred upon physical contact with Case RB-1147's brass lock handle.
+      <div class="dossier-report">
+        <div class="stamp-confidential">VICTIM PROFILE: JOHN (THE CURATOR)</div>
+        <p style="margin-bottom: 4px;"><strong>Title / Role:</strong> Chief Curator, The Starlight Archives |
+          <strong>Status:</strong> Deceased (Collapsed at Gallery Archway)</p>
+        <p style="margin-bottom: 6px;"><strong>Known Evidence Found On / Near The Victim:</strong></p>
+        <ul style="padding-left: 20px; font-size: 10pt; line-height: 1.4;">
+          <li><strong>On His Person:</strong> A minor coat sleeve tear and small surface scratch on his left forearm
+            <em>(Preliminary findings: sustained during an argument earlier today)</em>.</li>
+          <li><strong>On His Desk:</strong> A ceramic tea cup with saucer smelling of tea and concentrated bitter almond
+            infusion.</li>
+          <li><strong>At His Desk Safe:</strong> A confidential handwritten note left for the Starlight Circle,
+            cryptically noting that Item RB-1147 was tampered with before midnight.</li>
+        </ul>
       </div>
     </div>
 
-    <!-- Curator Audit Notes -->
-    <div class="dossier-report" style="background:#fef9c3; border-color:#fde047;">
-      <h3 style="font-family:'Cinzel',serif; color:#713f12; margin-bottom:4px;">📜 CURATOR'S HANDWRITTEN AUDIT NOTES (OCTOBER 24)</h3>
-      <p style="font-style: italic; color:#422006; font-size: 11pt; line-height: 1.4;">
-        "For seven days, I have quietly cross-referenced the physical preservation registers against the digital terminal logs. The discrepancies are undeniable. Someone inside the Starlight Circle has been abusing master access clearance to enter the restricted vault without leaving an official digital record. A sealed historical archive dossier has been tampered with to conceal an embarrassing, fraudulent family secret from 1926 that would strip a prominent member of their hereditary title... I will read the unlogged access breach out loud and revoke this individual's keys permanently at 12:00 AM."<br>
-        <span style="font-weight: bold; float: right;">— J. Curator</span>
-      </p>
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES INVESTIGATION KIT</span>
+      <span>TABLE DISPLAY SHEET • ROUND 1</span>
     </div>
   </div>
 
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEMS #2 & #3</span>
-  </div>
-</div>
-
-<!-- PAGE 4: EVIDENCE ITEM 4 (KEY CLEARANCE REGISTER) -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Item 4: Key Clearance Register</div>
-      <div class="evidence-meta">Round 1 Drop • Administrative Security Logs</div>
-    </div>
-
-    <div class="dossier-report">
-      <p style="margin-bottom: 8px; font-family:'Cinzel',serif; font-size:10.5pt; font-weight:700; color:#1e293b;">
-        STARLIGHT ARCHIVES — MASTER KEY & CLEARANCE LEVEL REGISTER
-      </p>
-      <table class="custom-table">
-        <thead>
-          <tr>
-            <th>Role Title & Name</th>
-            <th>Assigned Key / Card Type</th>
-            <th style="text-align:center;">Courtyard Window Access</th>
-            <th style="text-align:center;">Vault Case RB-1147 Clearance</th>
-            <th style="text-align:center;">Chemical Kit Access (Jars A–E)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Order Keeper (Claire)</td>
-            <td>Administrative Card (#002)</td>
-            <td style="text-align:center;">No (Doors Only)</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-          </tr>
-          <tr>
-            <td>Rare Book Specialist (Charlotte)</td>
-            <td>Holding Area Keycard (#005)</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No (Holding Area Only)</td>
-            <td style="text-align:center;">Yes (CATCH Certified)</td>
-          </tr>
-          <tr>
-            <td>Puzzle Tinker (Ellie)</td>
-            <td>Workbench Pass (#008)</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-          </tr>
-          <tr>
-            <td>Aesthetic Curator (Lucy)</td>
-            <td>Display Lighting Key (#011)</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-          </tr>
-          <tr>
-            <td>Keeper of Keys (Raelin)</td>
-            <td>Master Brass Key Ring (#000)</td>
-            <td style="text-align:center;">Yes (Mechanical Master)</td>
-            <td style="text-align:center;">Yes (Official Conservator)</td>
-            <td style="text-align:center;">Yes (CATCH Certified)</td>
-          </tr>
-          <tr>
-            <td>General Members / Guests</td>
-            <td>Standard Reading / Guest Pass</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-            <td style="text-align:center;">No</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEM #4</span>
-  </div>
-</div>
-
-<!-- PAGE 5: EVIDENCE ITEM 9 (FORENSIC TOXICOLOGY REPORT) -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Item 9: Forensic Toxicology Report</div>
-      <div class="evidence-meta">Round 3 Drop • Regional Forensic Crime Lab</div>
-    </div>
-
-    <div class="dossier-report" style="background:#ffffff; border: 2px solid #047857;">
-      <div class="stamp-lab">CRIME LAB BIOCHEMICAL ANALYSIS • STATUS: COMPLETED</div>
-      <p style="margin-bottom: 8px; font-family:'JetBrains Mono',monospace; font-size:9.5pt;">CASE REF: STARLIGHT ARCHIVES INCIDENT | LAB FILE: #TOX-2026-881</p>
-
-      <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
-        <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">1. TRACK A (Left Forearm Scratch Swab Analysis):</h4>
-        <p style="font-size:10pt;">Swab analysis of the coat sleeve tear and forearm scratch revealed trace metal particles matching a craft cutter blade.<br>
-        <strong>>>> TEST RESULT: 100% CLEAN & NON-TOXIC.</strong><br>
-        <em>The scratch was a superficial wound sustained earlier today and played zero role in the victim's death. (Track A Eliminated).</em></p>
+  <!-- PAGE 2: EVIDENCE ITEM 1 (TERMINAL ACCESS RECORD) -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Item 1: Access Log Terminal Record</div>
+        <div class="evidence-meta">Round 1 Drop • Central Access Control Log</div>
       </div>
 
-      <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
-        <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">2. TRACK B (Desk Tea Cup #5 Analysis):</h4>
-        <p style="font-size:10pt;">Chemical testing confirmed lethal concentrations of botanical cyanide/almond toxin inside the tea cup.<br>
-        <strong>>>> TEST RESULT: 100% UNTASTED & FULL.</strong><br>
-        <em>Forensic medical records confirm the victim ceased consuming all caffeinated herbal teas 4 weeks prior on medical advice. Zero tea compounds or ingested toxins were detected in the digestive tract. (Track B Eliminated).</em></p>
+      <div class="terminal-box">================================================================================
+        STARLIGHT ARCHIVES CENTRAL ACCESS CONTROL — AUTOMATED LOG
+        DATE: OCTOBER 24 | TIME WINDOW: 23:30 - 23:59
+        ================================================================================
+        [23:30:12] MAIN ENTRANCE: C. Claire (Order Keeper) — CARD KEY #002 [LOGGED]
+        [23:32:45] MAIN ENTRANCE: S. Sarah (Nocturnal Photographer) — GUEST PASS [LOGGED]
+        [23:35:00] GUEST CHECK-IN OPENED: Front Desk Console Active (Georgia/Charlotte)
+        [23:40:15] MAIN ENTRANCE: General Guest Arrivals Check-In Active [LOGGED]
+        --------------------------------------------------------------------------------
+        [23:42:00] SYSTEM ALERT: Rare Books Gallery Main Doors — <span class="terminal-alert">LOCKED / LOCKED</span>
+        [23:44:18] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
+        <span class="terminal-alert">>>> UNLOGGED MECHANICAL UNLATCH DETECTED <<<< /span>
+            <span class="terminal-alert">>>> DURATION: 00:02:15 | ENTRY TYPE: PHYSICAL MASTER KEY <<<< /span>
+                [23:46:33] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
+                <span class="terminal-green">>>> LATCH SECURED / CLOSED <<<< /span>
+                    --------------------------------------------------------------------------------
+                    [23:50:00] GALLERY ARCHWAY: J. John (Curator) — MANUAL KEY ACCESS [LOGGED]
+                    [23:51:10] CRITICAL ALERT: Motion Sensor Gallery Case RB-1147 Interrupted
+                    [23:51:15] <span class="terminal-alert">OCCUPANT COLLAPSE DETECTED — RARE BOOKS GALLERY
+                      ARCHWAY</span>
+                    ================================================================================
       </div>
 
-      <div>
-        <h4 style="color:#047857; font-family:'Cinzel',serif;">3. TRACK C (Right Palm & Lock Swab Analysis):</h4>
-        <p style="font-size:10pt;">Swab analysis of the victim's right palm and the brass lock handle of Display Case RB-1147 confirmed heavy concentrations of an <strong>organomercury-based fumigation compound</strong>—a pale chartreuse archival preservation chemical.<br>
-        <strong>>>> COMPOUND PROFILE:</strong> Lethally toxic through prolonged dermal absorption. Restricted hazardous material requiring <strong>CATCH Certification</strong>.<br>
-        <strong>>>> CRITICAL LAB FINDING:</strong> This compound is <strong>NATURALLY UV-FLUORESCENT</strong>! Under 395nm UV blacklight, any contaminated liquid or surface will <strong>GLOW VIBRANT NEON GREEN</strong>!</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEM #9 (LAB TOXICOLOGY)</span>
-  </div>
-</div>
-
-<!-- PAGE 6: EVIDENCE ITEM 10 (CURATOR'S 5x7 SECRET LETTER) -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Item 10: Curator's Secret Letter</div>
-      <div class="evidence-meta">Round 3 Drop • Sized for 5" × 7" Laser-Cut Overlay Mask</div>
-    </div>
-
-    <!-- Sized 5" x 7" container matching xTool P3 mask -->
-    <div class="letter-5x7-container">
-      <div style="font-family:'Cinzel',serif; font-size:11pt; color:#8b7355; letter-spacing:2px; text-align:center; border-bottom:1px solid #d5c8b5; padding-bottom:4px; margin-bottom:10px;">
-        THE STARLIGHT ARCHIVES • FROM THE CURATOR'S DESK
-      </div>
-
-      <div class="letter-content">
-        To the members of the Starlight Circle,<br><br>
-        As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred. We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated Item RB-1147 to mask their unlogged entry into the vault.<br><br>
-        Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to light.<br><br>
-        <span style="float: right; font-style: italic;">— The Curator</span>
-      </div>
-
-      <div style="font-family:'JetBrains Mono',monospace; font-size:7.5pt; color:#8b7355; text-align:center; border-top:1px solid #d5c8b5; padding-top:4px;">
-        OVERLAY THE XTOOL P3 LASER-CUT MASK OVER THIS NOTE TO DECRYPT
-      </div>
-    </div>
-  </div>
-
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEM #10 (CIPHER LETTER)</span>
-  </div>
-</div>
-
-<!-- PAGE 7: EVIDENCE ITEM 11 & ITEM 12 -->
-<div class="evidence-page">
-  <div>
-    <div class="evidence-header">
-      <div class="evidence-title">Evidence Items 11 & 12: Duty Log & Trace Report</div>
-      <div class="evidence-meta">Round 3 Drop • Final Forensic Cross-Reference</div>
-    </div>
-
-    <!-- Conservation Duty Log -->
-    <div class="dossier-report" style="margin-bottom: 12px;">
-      <h3 style="font-family:'Cinzel',serif; color:#0f172a; margin-bottom:4px;">📜 EVIDENCE ITEM 11: CONSERVATION DUTY REGISTER</h3>
-      <p style="font-size:10pt; margin-bottom:4px;"><strong>Target Item:</strong> Catalog Item RB-1147 (The Starlight Ledger) | <strong>Location:</strong> Vault Case #1</p>
-      <div style="font-size:9.5pt; background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px;">
-        • <strong>Primary Conservator for RB-1147 (Vault Cases):</strong> <strong>RAELIN (Keeper of Keys)</strong><br>
-        &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
-        &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation Sealant)<br>
-        &nbsp;&nbsp;— Vault Case Authorization: <strong>YES</strong><br>
-        • <strong>Secondary Conservator (Holding Area Items ONLY):</strong> <strong>CHARLOTTE (Rare Book Specialist)</strong><br>
-        &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
-        &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation Sealant)<br>
-        &nbsp;&nbsp;— Vault Case Authorization: <strong>NO (Holding Area only)</strong><br>
-        • <strong>Prep Schedule Window:</strong> 23:30 – 23:45 HRS (15-Minute Unmonitored Gap)
+      <div style="margin-top: 14px; padding: 10px; background: #e2e8f0; border-radius: 4px; font-size: 10pt;">
+        <strong>🔍 Forensics Note for Sleuths:</strong> Electronic readers only track door card swipes. Opening the
+        courtyard window with a physical mechanical master key bypassed the main entrance card readers entirely! Notice
+        the unlogged window unlatch at <strong>23:44:18</strong>!
       </div>
     </div>
 
-    <!-- Toolkit Trace Report -->
-    <div class="dossier-report" style="background:#f0fdf4; border-color:#86efac;">
-      <h3 style="font-family:'Cinzel',serif; color:#166534; margin-bottom:4px;">🔬 EVIDENCE ITEM 12: MASTER TOOLKIT & TRACE ANALYSIS</h3>
-      <p style="font-size:9.5pt; color:#14532d; line-height:1.4;">
-        1. <strong>Discarded Master Key #000:</strong> Microscopic swab of Key #000 recovered from the courtyard hedges revealed brass dust particles matching the newly scraped lock tumblers of Display Case RB-1147!<br>
-        2. <strong>Chemical Kit UV Scan:</strong> Jar E (Archival Fumigation Sealant) and Raelin's applicator cloth <strong>GLOW NEON GREEN</strong> under UV light, matching the organomercury compound swabbed from John's palm and the RB-1147 lock!<br>
-        3. <strong>Charlotte Alibi Verification:</strong> Charlotte also holds CATCH certification, but she was verified at the intake desk with Georgia from 23:35 to 23:50 and does NOT hold Master Key #000!
-      </p>
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEM #1</span>
     </div>
   </div>
 
-  <div class="footer-note">
-    <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-    <span>EVIDENCE ITEMS #11 & #12</span>
+  <!-- PAGE 3: EVIDENCE ITEM 2 & ITEM 3 -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Items 2 & 3: Incident Dossier & Audit Notes</div>
+        <div class="evidence-meta">Round 1 Drop • Scene Findings</div>
+      </div>
+
+      <!-- Incident Dossier -->
+      <div class="dossier-report" style="margin-bottom: 14px;">
+        <div class="stamp-confidential">CONFIDENTIAL CASE FILE #2026-1024</div>
+        <p style="margin-bottom: 6px;"><strong>Victim:</strong> John (The Curator) | <strong>Incident Time:</strong>
+          23:51:15 HRS | <strong>Location:</strong> Rare Books Gallery Archway</p>
+        <p style="margin-bottom: 6px;"><strong>Scene Observations:</strong> The victim entered clutching a visible tear
+          on his left coat sleeve and holding his forearm. He stepped to the gallery archway, touched the brass lock of
+          Case RB-1147, and suffered immediate collapse.</p>
+        <div style="background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px; font-size:9.5pt;">
+          <strong>Three Competing Investigation Leads Identified at Scene:</strong><br>
+          1. <strong>TRACK A (Physical Trauma):</strong> Coat sleeve fabric tear and surface forearm scratch. Discarded
+          craft blade recovered from hallway trash.<br>
+          2. <strong>TRACK B (Ingested Poison):</strong> One (1) full ceramic tea cup on desk smelling strongly of
+          bitter almond and herbal infusion.<br>
+          3. <strong>TRACK C (Contact Surface Poison):</strong> Immediate collapse occurred upon physical contact with
+          Case RB-1147's brass lock handle.
+        </div>
+      </div>
+
+      <!-- Curator Audit Notes -->
+      <div class="dossier-report" style="background:#fef9c3; border-color:#fde047;">
+        <h3 style="font-family:'Cinzel',serif; color:#713f12; margin-bottom:4px;">📜 CURATOR'S HANDWRITTEN AUDIT NOTES
+          (OCTOBER 24)</h3>
+        <p style="font-style: italic; color:#422006; font-size: 11pt; line-height: 1.4;">
+          "For seven days, I have quietly cross-referenced the physical preservation registers against the digital
+          terminal logs. The discrepancies are undeniable. Someone inside the Starlight Circle has been abusing master
+          access clearance to enter the restricted vault without leaving an official digital record. A sealed historical
+          archive dossier has been tampered with to conceal an embarrassing, fraudulent family secret from 1926 that
+          would strip a prominent member of their hereditary title... I will read the unlogged access breach out loud
+          and revoke this individual's keys permanently at 12:00 AM."<br>
+          <span style="font-weight: bold; float: right;">— J. Curator</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEMS #2 & #3</span>
+    </div>
   </div>
-</div>
+
+  <!-- PAGE 4: EVIDENCE ITEM 4 (KEY CLEARANCE REGISTER) -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Item 4: Key & Access Authorization Register</div>
+        <div class="evidence-meta">Round 1 Drop • Operations & Preservation Security Logs</div>
+      </div>
+
+      <div class="dossier-report" style="padding: 12px 14px;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 6px;">
+          <span style="font-family:'Cinzel',serif; font-size:10pt; font-weight:700; color:#1e293b;">
+            THE STARLIGHT ARCHIVES — MASTER KEY & FACILITY CLEARANCE REGISTER
+          </span>
+          <span style="font-family:'JetBrains Mono',monospace; font-size:8pt; color:#64748b;">ANNUAL AUDIT STATUS:
+            CURRENT</span>
+        </div>
+
+        <table class="custom-table" style="font-size: 8pt; margin-top: 4px;">
+          <thead>
+            <tr style="background:#e2e8f0; font-size:7.5pt;">
+              <th style="padding: 3px 5px; width: 45px;">PASS ID</th>
+              <th style="padding: 3px 5px;">MEMBER / ROLE TITLE</th>
+              <th style="padding: 3px 5px; text-align:center;">PERIMETER & DOORS (RFID)</th>
+              <th style="padding: 3px 5px; text-align:center;">VAULTS & EXHIBIT CASES</th>
+              <th style="padding: 3px 5px; text-align:center;">ARCHITECTURAL BYPASS (MECH)</th>
+              <th style="padding: 3px 5px; text-align:center;">PRESERVATION LAB & HAZMAT</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#000</td>
+              <td style="padding: 2.5px 5px;"><strong>Raelin</strong> (Keeper of Keys)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 4 (Departmental)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Rare Manuscript Cases</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Master Brass Keyring</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Full Chemical / CATCH</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#001</td>
+              <td style="padding: 2.5px 5px;"><strong>John</strong> (Chief Curator - Deceased)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 5 (All Facility)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">All Rare Vaults</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Curator Master Bypass</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Full Chemical / CATCH</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#002</td>
+              <td style="padding: 2.5px 5px;"><strong>Claire</strong> (Order Keeper)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 4 (Admin & Offices)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Reading Rooms Only</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#003</td>
+              <td style="padding: 2.5px 5px;"><strong>Georgia</strong> (Archivist of Secrets)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 3 (Reception & Stacks)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Public Archive Stacks</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#004</td>
+              <td style="padding: 2.5px 5px;"><strong>Ruthanne</strong> (Library Darling)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Lounge & Stacks)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Reference Stacks</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#005</td>
+              <td style="padding: 2.5px 5px;"><strong>Charlotte</strong> (Rare Book Specialist)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 3 (Restoration Wing)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Holding Vaults & Prep</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Full Chemical / CATCH</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#007</td>
+              <td style="padding: 2.5px 5px;"><strong>Christina</strong> (Literary Debater)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Chamber & Stacks)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Debate Reading Stacks</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#008</td>
+              <td style="padding: 2.5px 5px;"><strong>Ellie</strong> (Puzzle Tinker)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 3 (Workshop & Halls)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Mechanical Lockers</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Workshop Latches & Vents</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Workshop Solvents (Basic)</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#009</td>
+              <td style="padding: 2.5px 5px;"><strong>Brooklyn</strong> (Historical Publisher)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Microfilm & Stacks)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Historical Study Stacks</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#011</td>
+              <td style="padding: 2.5px 5px;"><strong>Lucy</strong> (Aesthetic Curator)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Gallery & Lighting)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Gallery Exhibit Cases</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#012</td>
+              <td style="padding: 2.5px 5px;"><strong>Maddie</strong> (Conservatory Reader)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Botanical Lounge)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Botanical Archives</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#014</td>
+              <td style="padding: 2.5px 5px;"><strong>Victoria</strong> (The Annotator)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Manuscript Study)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Special Collections Room</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#016</td>
+              <td style="padding: 2.5px 5px;"><strong>Hope</strong> (Literary Prodigy)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 1 (General Library)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Public Stacks Only</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#018</td>
+              <td style="padding: 2.5px 5px;"><strong>Sarah</strong> (Nocturnal Photographer)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 2 (Darkroom & Gates)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Viewing Balconies</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Courtyard Garden Gates</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Photo Darkroom Chemicals</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#019</td>
+              <td style="padding: 2.5px 5px;"><strong>Kaitlin</strong> (Silent Strategist)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 1 (Study Carrels)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Private Carrels Only</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#021</td>
+              <td style="padding: 2.5px 5px;"><strong>Gianna</strong> (Amateur Sleuth)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 1 (General Library)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Public Reading Tables</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+            <tr>
+              <td style="font-family:'JetBrains Mono',monospace; padding: 2.5px 5px;">#022</td>
+              <td style="padding: 2.5px 5px;"><strong>Valle</strong> (Unfortunate Witness)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Level 1 (Main Hall)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">Main Reception Only</td>
+              <td style="text-align:center; padding: 2.5px 5px;">None (Electronic Only)</td>
+              <td style="text-align:center; padding: 2.5px 5px;">No Hazmat Clearance</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEM #4</span>
+    </div>
+  </div>
+
+  <!-- PAGE 5: EVIDENCE ITEM 9 (FORENSIC TOXICOLOGY REPORT) -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Item 9: Forensic Toxicology Report</div>
+        <div class="evidence-meta">Round 3 Drop • Regional Forensic Crime Lab</div>
+      </div>
+
+      <div class="dossier-report" style="background:#ffffff; border: 2px solid #047857;">
+        <div class="stamp-lab">CRIME LAB BIOCHEMICAL ANALYSIS • STATUS: COMPLETED</div>
+        <p style="margin-bottom: 8px; font-family:'JetBrains Mono',monospace; font-size:9.5pt;">CASE REF: STARLIGHT
+          ARCHIVES INCIDENT | LAB FILE: #TOX-2026-881</p>
+
+        <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
+          <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">1. TRACK A (Left Forearm Scratch Swab Analysis):</h4>
+          <p style="font-size:10pt;">Swab analysis of the coat sleeve tear and forearm scratch revealed trace metal
+            particles matching a craft cutter blade.<br>
+            <strong>>>> TEST RESULT: 100% CLEAN & NON-TOXIC.</strong><br>
+            <em>The scratch was a superficial wound sustained earlier today and played zero role in the victim's death.
+              (Track A Eliminated).</em>
+          </p>
+        </div>
+
+        <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
+          <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">2. TRACK B (Desk Tea Cup #5 Analysis):</h4>
+          <p style="font-size:10pt;">Chemical testing confirmed lethal concentrations of botanical cyanide/almond toxin
+            inside the tea cup.<br>
+            <strong>>>> TEST RESULT: 100% UNTASTED & FULL.</strong><br>
+            <em>Forensic medical records confirm the victim ceased consuming all caffeinated herbal teas 4 weeks prior
+              on medical advice. Zero tea compounds or ingested toxins were detected in the digestive tract. (Track B
+              Eliminated).</em>
+          </p>
+        </div>
+
+        <div>
+          <h4 style="color:#047857; font-family:'Cinzel',serif;">3. TRACK C (Right Palm & Lock Swab Analysis):</h4>
+          <p style="font-size:10pt;">Swab analysis of the victim's right palm and the brass lock handle of Display Case
+            RB-1147 confirmed heavy concentrations of an <strong>organomercury-based fumigation compound</strong>—a pale
+            chartreuse archival preservation chemical.<br>
+            <strong>>>> COMPOUND PROFILE:</strong> Lethally toxic through prolonged dermal absorption. Restricted
+            hazardous material requiring <strong>CATCH Certification</strong>.<br>
+            <strong>>>> CRITICAL LAB FINDING:</strong> This compound is <strong>NATURALLY UV-FLUORESCENT</strong>! Under
+            395nm UV blacklight, any contaminated liquid or surface will <strong>GLOW VIBRANT NEON GREEN</strong>!
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEM #9 (LAB TOXICOLOGY)</span>
+    </div>
+  </div>
+
+  <!-- PAGE 6: EVIDENCE ITEM 10 (CURATOR'S 5x7 SECRET LETTER) -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Item 10: Curator's Secret Letter</div>
+        <div class="evidence-meta">Round 3 Drop • Sized for 5" × 7" Laser-Cut Overlay Mask</div>
+      </div>
+
+      <!-- Sized 5" x 7" container matching xTool P3 mask -->
+      <div class="letter-5x7-container">
+        <div
+          style="font-family:'Cinzel',serif; font-size:11pt; color:#8b7355; letter-spacing:2px; text-align:center; border-bottom:1px solid #d5c8b5; padding-bottom:4px; margin-bottom:10px;">
+          THE STARLIGHT ARCHIVES • FROM THE CURATOR'S DESK
+        </div>
+
+        <div class="letter-content">
+          To the members of the Starlight Circle,<br><br>
+          As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred.
+          We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated Item RB-1147 to
+          mask their unlogged entry into the vault.<br><br>
+          Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your
+          tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to
+          light.<br><br>
+          <span style="float: right; font-style: italic;">— The Curator</span>
+        </div>
+
+        <div
+          style="font-family:'JetBrains Mono',monospace; font-size:7.5pt; color:#8b7355; text-align:center; border-top:1px solid #d5c8b5; padding-top:4px;">
+          OVERLAY THE XTOOL P3 LASER-CUT MASK OVER THIS NOTE TO DECRYPT
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEM #10 (CIPHER LETTER)</span>
+    </div>
+  </div>
+
+  <!-- PAGE 7: EVIDENCE ITEM 11 & ITEM 12 -->
+  <div class="evidence-page">
+    <div>
+      <div class="evidence-header">
+        <div class="evidence-title">Evidence Items 11 & 12: Duty Log & Trace Report</div>
+        <div class="evidence-meta">Round 3 Drop • Final Forensic Cross-Reference</div>
+      </div>
+
+      <!-- Conservation Duty Log -->
+      <div class="dossier-report" style="margin-bottom: 12px;">
+        <h3 style="font-family:'Cinzel',serif; color:#0f172a; margin-bottom:4px;">📜 EVIDENCE ITEM 11: CONSERVATION DUTY
+          REGISTER</h3>
+        <p style="font-size:10pt; margin-bottom:4px;"><strong>Target Item:</strong> Catalog Item RB-1147 (The Starlight
+          Ledger) | <strong>Location:</strong> Vault Case #1</p>
+        <div style="font-size:9.5pt; background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px;">
+          • <strong>Primary Conservator for RB-1147 (Vault Cases):</strong> <strong>RAELIN (Keeper of Keys)</strong><br>
+          &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
+          &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation
+          Sealant)<br>
+          &nbsp;&nbsp;— Vault Case Authorization: <strong>YES</strong><br>
+          • <strong>Secondary Conservator (Holding Area Items ONLY):</strong> <strong>CHARLOTTE (Rare Book
+            Specialist)</strong><br>
+          &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
+          &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation
+          Sealant)<br>
+          &nbsp;&nbsp;— Vault Case Authorization: <strong>NO (Holding Area only)</strong><br>
+          • <strong>Prep Schedule Window:</strong> 23:30 – 23:45 HRS (15-Minute Unmonitored Gap)
+        </div>
+      </div>
+
+      <!-- Toolkit Trace Report -->
+      <div class="dossier-report" style="background:#f0fdf4; border-color:#86efac;">
+        <h3 style="font-family:'Cinzel',serif; color:#166534; margin-bottom:4px;">🔬 EVIDENCE ITEM 12: MASTER TOOLKIT &
+          TRACE ANALYSIS</h3>
+        <p style="font-size:9.5pt; color:#14532d; line-height:1.4;">
+          1. <strong>Discarded Master Key #000:</strong> Microscopic swab of Key #000 recovered from the courtyard
+          hedges revealed brass dust particles matching the newly scraped lock tumblers of Display Case RB-1147!<br>
+          2. <strong>Chemical Kit UV Scan:</strong> Jar E (Archival Fumigation Sealant) and Raelin's applicator cloth
+          <strong>GLOW NEON GREEN</strong> under UV light, matching the organomercury compound swabbed from John's palm
+          and the RB-1147 lock!<br>
+          3. <strong>Charlotte Alibi Verification:</strong> Charlotte also holds CATCH certification, but she was
+          verified at the intake desk with Georgia from 23:35 to 23:50 and does NOT hold Master Key #000!
+        </p>
+      </div>
+    </div>
+
+    <div class="footer-note">
+      <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
+      <span>EVIDENCE ITEMS #11 & #12</span>
+    </div>
+  </div>
 
 </body>
+
 </html>

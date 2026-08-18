@@ -1,0 +1,5 @@
+# Chrome temporary profile directory
+.chrome-temp/
+
+# macOS system files
+.DS_Store

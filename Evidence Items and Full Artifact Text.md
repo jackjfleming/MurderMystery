@@ -78,18 +78,32 @@ I will not allow this institution to be compromised. At 12:00 AM, before Catalog
 
 ---
 
-### **Evidence Item 4: Key Clearance Register**
+### **Evidence Item 4: Key & Access Authorization Register**
 
 **Physical Setup:** Official archive administrative log sheet.
 
-| Role Title & Name | Assigned Key / Card Type | Courtyard Window Access | Vault Case RB-1147 Clearance | Chemical Kit Access (Jars A–E) |
-| :--- | :--- | :---: | :---: | :---: |
-| Order Keeper (Claire) | Administrative Card (#002) | No (Doors Only) | No | No |
-| Rare Book Specialist (Charlotte) | Holding Area Keycard (#005) | No | No (Holding Area Only) | Yes (CATCH Certified) |
-| Puzzle Tinker (Ellie) | Workbench Pass (#008) | No | No | No |
-| Aesthetic Curator (Lucy) | Display Lighting Key (#011) | No | No | No |
-| Keeper of Keys (Raelin) | Master Brass Key Ring (#000) | Yes (Mechanical Master) | Yes (Official Conservator) | Yes (CATCH Certified) |
-| General Members / Guests | Standard Reading / Guest Pass | No | No | No |
+**THE STARLIGHT ARCHIVES — MASTER KEY & FACILITY CLEARANCE REGISTER**  
+*Department of Operations & Archival Preservation | Annual Audit Status: Current*
+
+| Pass ID | Member / Role Title | Perimeter & Doors (RFID) | Vaults & Exhibit Cases | Architectural Bypass (Mech) | Preservation Lab & Hazmat |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| **#001** | **John** (Chief Curator - Deceased) | Level 5 (All Facility) | All Rare Vaults | Curator Master Bypass | Full Chemical / CATCH |
+| **#000** | **Raelin** (Keeper of Keys) | Level 4 (Departmental) | Rare Manuscript Cases | Master Brass Keyring | Full Chemical / CATCH |
+| **#002** | **Claire** (Order Keeper) | Level 4 (Admin & Offices) | Reading Rooms Only | None (Electronic Only) | No Hazmat Clearance |
+| **#003** | **Georgia** (Archivist of Secrets) | Level 3 (Reception & Stacks) | Public Archive Stacks | None (Electronic Only) | No Hazmat Clearance |
+| **#004** | **Ruthanne** (Library Darling) | Level 2 (Lounge & Stacks) | Reference Stacks | None (Electronic Only) | No Hazmat Clearance |
+| **#005** | **Charlotte** (Rare Book Specialist) | Level 3 (Restoration Wing) | Holding Vaults & Prep | None (Electronic Only) | Full Chemical / CATCH |
+| **#007** | **Christina** (Literary Debater) | Level 2 (Chamber & Stacks) | Debate Reading Stacks | None (Electronic Only) | No Hazmat Clearance |
+| **#008** | **Ellie** (Puzzle Tinker) | Level 3 (Workshop & Halls) | Mechanical Lockers | Workshop Latches & Vents | Workshop Solvents (Basic) |
+| **#009** | **Brooklyn** (Historical Publisher) | Level 2 (Microfilm & Stacks) | Historical Study Stacks | None (Electronic Only) | No Hazmat Clearance |
+| **#011** | **Lucy** (Aesthetic Curator) | Level 2 (Gallery & Lighting) | Gallery Exhibit Cases | None (Electronic Only) | No Hazmat Clearance |
+| **#012** | **Maddie** (Conservatory Reader) | Level 2 (Botanical Lounge) | Botanical Archives | None (Electronic Only) | No Hazmat Clearance |
+| **#014** | **Victoria** (The Annotator) | Level 2 (Manuscript Study) | Special Collections Room | None (Electronic Only) | No Hazmat Clearance |
+| **#016** | **Hope** (Literary Prodigy) | Level 1 (General Library) | Public Stacks Only | None (Electronic Only) | No Hazmat Clearance |
+| **#018** | **Sarah** (Nocturnal Photographer) | Level 2 (Darkroom & Gates) | Viewing Balconies | Courtyard Garden Gates | Photo Darkroom Chemicals |
+| **#019** | **Kaitlin** (Silent Strategist) | Level 1 (Study Carrels) | Private Carrels Only | None (Electronic Only) | No Hazmat Clearance |
+| **#021** | **Gianna** (Amateur Sleuth) | Level 1 (General Library) | Public Reading Tables | None (Electronic Only) | No Hazmat Clearance |
+| **#022** | **Valle** (Unfortunate Witness) | Level 1 (Main Hall) | Main Reception Only | None (Electronic Only) | No Hazmat Clearance |
 
 ---
 

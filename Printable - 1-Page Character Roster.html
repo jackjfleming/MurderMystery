@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Starlight Archives — Official Society Character Roster</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=JetBrains+Mono:wght@400;600&display=swap');
+
+  @page {
+    size: letter portrait;
+    margin: 0.3in;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: 'EB Garamond', Georgia, serif;
+    color: #1a1a1a;
+    background: #ffffff;
+    font-size: 8.8pt;
+    line-height: 1.25;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .roster-page {
+    width: 100%;
+    height: 10.4in;
+    max-height: 10.4in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.22in;
+    border: 3px double #2c3e50;
+    position: relative;
+    background: #faf8f5;
+    overflow: hidden;
+  }
+
+  /* Decorative inner vintage border */
+  .roster-page::before {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    border: 1px solid #8b7355;
+    pointer-events: none;
+  }
+
+  /* Header Section */
+  .header {
+    text-align: center;
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 5px;
+    margin-bottom: 6px;
+  }
+
+  .header-institution {
+    font-family: 'Cinzel', serif;
+    font-size: 8.5pt;
+    letter-spacing: 3px;
+    color: #6b5536;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .header-title {
+    font-family: 'Cinzel', serif;
+    font-size: 17pt;
+    font-weight: 900;
+    color: #0f172a;
+    letter-spacing: 1.5px;
+    margin: 1px 0;
+  }
+
+  .header-subtitle {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 9.5pt;
+    color: #334155;
+    margin-bottom: 4px;
+  }
+
+  .intro-box {
+    background: #eee8dc;
+    border: 1px solid #d5c8b5;
+    border-radius: 3px;
+    padding: 4px 8px;
+    font-size: 8.2pt;
+    line-height: 1.25;
+    color: #27272a;
+    text-align: center;
+  }
+
+  .intro-box strong {
+    color: #1e293b;
+    font-family: 'Cinzel', serif;
+    font-size: 8.2pt;
+    letter-spacing: 0.5px;
+  }
+
+  /* 2-Column Grid for 16 Characters */
+  .characters-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px 8px;
+    flex-grow: 1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .char-card {
+    background: #ffffff;
+    border: 1px solid #d1c7b7;
+    border-left: 3px solid #2c3e50;
+    border-radius: 2px;
+    padding: 4px 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  }
+
+  .char-top {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+    margin-bottom: 2px;
+    border-bottom: 1px dashed #e2d9cc;
+    padding-bottom: 2px;
+    flex-wrap: wrap;
+  }
+
+  .char-name {
+    font-family: 'Cinzel', serif;
+    font-size: 9.8pt;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: 0.5px;
+  }
+
+  .char-sep {
+    font-family: 'Cinzel', serif;
+    font-size: 9pt;
+    color: #64748b;
+    font-weight: 600;
+  }
+
+  .char-title {
+    font-family: 'Cinzel', serif;
+    font-size: 8.8pt;
+    font-weight: 700;
+    color: #1e3a8a;
+    letter-spacing: 0.3px;
+  }
+
+  .char-desc {
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 8.4pt;
+    color: #27272a;
+    line-height: 1.2;
+  }
+
+  /* Footer Section */
+  .footer {
+    border-top: 1.5px solid #2c3e50;
+    padding-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 8pt;
+    background: #eee8dc;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: 1px solid #d5c8b5;
+  }
+
+  .footer-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: #1e293b;
+  }
+
+  .footer-item strong {
+    font-family: 'Cinzel', serif;
+    font-size: 8pt;
+    letter-spacing: 0.5px;
+    color: #0f172a;
+  }
+</style>
+</head>
+<body>
+
+<div class="roster-page">
+  <!-- Header -->
+  <div class="header">
+    <div class="header-institution">✦ The Starlight Archives • Starlight Circle ✦</div>
+    <h1 class="header-title">OFFICIAL SOCIETY CHARACTER ROSTER</h1>
+    <div class="header-subtitle">Advance Guest Guide &amp; Character Assignments for the Restricted Vault Gathering</div>
+    <div class="intro-box">
+      <strong>WELCOME TO THE STARLIGHT ARCHIVES:</strong> You are cordially invited to an exclusive after-hours gathering of the <em>Starlight Circle</em>. Below are your assigned character roles and personalities for the evening. Review your persona and get to know your fellow circle members before arriving! Full confidential character packets will be distributed at the event.
+    </div>
+  </div>
+
+  <!-- 16 Character Cards (2 columns x 8 rows) -->
+  <div class="characters-grid">
+    
+    <!-- 1. RAELIN -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">RAELIN</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Keeper of Keys</span>
+      </div>
+      <div class="char-desc">The trusted keeper of the archive's master keys, visitor sign-in logs, and restricted vault doors. Detail-oriented, watchful, and fiercely protective of who gets access.</div>
+    </div>
+
+    <!-- 2. CLAIRE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">CLAIRE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Order Keeper</span>
+      </div>
+      <div class="char-desc">The archive’s strict rule enforcer who keeps order, manages schedules, and tracks conduct files for the Starlight Circle. Super organized, by-the-book, and notices every broken rule.</div>
+    </div>
+
+    <!-- 3. SARAH -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">SARAH</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Nocturnal Photographer</span>
+      </div>
+      <div class="char-desc">The archive’s official after-hours photographer who captures rare books, historic architecture, and late-night secret meetings. Creative, observant, and never seen without a camera.</div>
+    </div>
+
+    <!-- 4. BROOKLYN -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">BROOKLYN</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Underground Publisher</span>
+      </div>
+      <div class="char-desc">An independent writer and publisher of underground mini-magazines and secret newsletters. Rebellious, witty, and always hunting down juicy rumors and club drama.</div>
+    </div>
+
+    <!-- 5. CHARLOTTE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">CHARLOTTE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Rare Book Specialist</span>
+      </div>
+      <div class="char-desc">A book-loving scholar who tracks down, inspects, and catalogs priceless ancient books for the archive's private collections. Sharp-eyed, studious, and obsessed with old mysteries.</div>
+    </div>
+
+    <!-- 6. CHRISTINA -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">CHRISTINA</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Silver-Tongued Debater</span>
+      </div>
+      <div class="char-desc">The Circle’s smoothest speaker and master debater. Charismatic, quick on her feet, and capable of talking her way into—or out of—any situation.</div>
+    </div>
+
+    <!-- 7. VICTORIA -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">VICTORIA</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">The Annotator</span>
+      </div>
+      <div class="char-desc">A patient researcher fascinated by handwritten notes and doodles scribbled in the margins of centuries-old books. Thoughtful, observant, and drawn to the personal secrets left behind by past readers.</div>
+    </div>
+
+    <!-- 8. ELLIE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">ELLIE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Puzzle Tinker</span>
+      </div>
+      <div class="char-desc">A clever tinkerer who specializes in antique brass locks, hidden puzzle boxes, and secret coded locks. Curious, hands-on, and loves cracking complex mechanisms.</div>
+    </div>
+
+    <!-- 9. GIANNA -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">GIANNA</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Amateur Sleuth</span>
+      </div>
+      <div class="char-desc">A curious and perceptive archive regular with a knack for chasing down rumors and solving real-world mysteries. Quick-witted, persistent, and always taking notes.</div>
+    </div>
+
+    <!-- 10. HOPE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">HOPE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Literary Prodigy</span>
+      </div>
+      <div class="char-desc">A celebrated young author and poet famous in the Circle for her gripping historical stories and dramatic poetry. Creative, ambitious, and deeply inspired by classic literature.</div>
+    </div>
+
+    <!-- 11. GEORGIA -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">GEORGIA</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Archivist of Secrets</span>
+      </div>
+      <div class="char-desc">The friendly desk archivist who organizes the library card catalogs, records, and front-door check-ins. Welcoming, organized, and knows where every single item is hidden.</div>
+    </div>
+
+    <!-- 12. KAITLIN -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">KAITLIN</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Silent Strategist</span>
+      </div>
+      <div class="char-desc">A quiet, sharp mastermind who works behind the scenes to influence club rules, group votes, and secret decisions. Calm, strategic, and never misses what’s happening in the room.</div>
+    </div>
+
+    <!-- 13. MADDIE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">MADDIE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Conservatory Reader</span>
+      </div>
+      <div class="char-desc">A devoted lover of classic books, quiet reading traditions, and protecting peaceful study nooks in the library. Passionate, book-smart, and protective of the archives' quiet spaces.</div>
+    </div>
+
+    <!-- 14. RUTHANNE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">RUTHANNE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Library Darling</span>
+      </div>
+      <div class="char-desc">A cheerful archive volunteer and club favorite celebrated for organizing charity book drives and welcoming guests. Outgoing, friendly, and popular with everyone in the Circle.</div>
+    </div>
+
+    <!-- 15. LUCY -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">LUCY</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Aesthetic Curator</span>
+      </div>
+      <div class="char-desc">The creative stylist who designs the library’s visual vibe, antique room displays, and moody lighting for special events. Artistic, trendy, and focused on making everything look aesthetic.</div>
+    </div>
+
+    <!-- 16. VALE -->
+    <div class="char-card">
+      <div class="char-top">
+        <span class="char-name">VALE</span>
+        <span class="char-sep">–</span>
+        <span class="char-title">Unfortunate Witness</span>
+      </div>
+      <div class="char-desc">A helpful archive assistant who helps set up rooms, move historic documents, and manage library supplies. Hardworking, observant, and quietly notices everything happening around her.</div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-item">
+      <span>👗</span> <strong>DRESS CODE:</strong> Vintage Library/Semi-Formal
+    </div>
+    <div class="footer-item">
+      <span>🕯️</span> <strong>HOST:</strong> John the Curator
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
