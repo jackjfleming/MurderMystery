@@ -20,7 +20,7 @@ This master tracker replaces static player clue cards with an active host manage
 
 ### 👁️ Player Witness Observations Circulating in Round 1
 * **Maddie:** Admits arguing with John earlier today, but testifies John entered the building alive, shouting, and on his own two feet.
-* **Valle:** Confirms John was clutching his forearm when he stepped through the front doors, but did not collapse until his right palm touched the brass lock.
+* **Vale:** Confirms John was clutching his forearm when he stepped through the front doors, but did not collapse until his right palm touched the brass lock.
 * **Claire:** Confirms she logged card keys at the front door and notes physical master keys can open window latches without electronic logs.
 * **Georgia:** Confirms Charlotte was seated right beside her at the intake desk from 23:35 straight through to 23:50.
 * **Kaitlin:** Saw shadows moving in the courtyard garden during the prep window.
@@ -58,7 +58,7 @@ This master tracker replaces static player clue cards with an active host manage
   * **Maddie:** Saw **Victoria** carrying precision craft cutters earlier today in the corridor.
   * **Victoria:** Defends herself, stating the scratch was a minor tussle and that John was fine when he entered.
 * **Track C / Courtyard Window Sightings:**
-  * **Valle & Kaitlin:** Both testify that they saw **Sarah** outside in the courtyard garden taking photos through the glass from the path, and that **Sarah never opened or climbed through the window**.
+  * **Vale & Kaitlin:** Both testify that they saw **Sarah** outside in the courtyard garden taking photos through the glass from the path, and that **Sarah never opened or climbed through the window**.
 * **UV Spine Discovery:**
   * **Ruthanne:** Prompts guests to scan the book spines with blacklights, unscrambling **D-E-R-M-A-L**.
 
@@ -67,12 +67,12 @@ This master tracker replaces static player clue cards with an active host manage
 ### 🎯 Round 2 Host Milestone Checklist
 - [ ] **Are suspects on Track B (Hope, Lucy, Christina) being cross-examined about their tea desk proximity?**
 - [ ] **Is Track A (Victoria & Maddie) being actively investigated without spoiling the lab result?**
-- [ ] **Have players used Valle & Kaitlin's witness statements to clear Sarah of entering the room?**
+- [ ] **Have players used Vale & Kaitlin's witness statements to clear Sarah of entering the room?**
 - [ ] **Have players unscrambled D-E-R-M-A-L on the book spines using the UV flashlights?**
 
 > **💡 Host Whisper Prompts (If players need direction):**  
 > * *"Ask Gianna what she smelled in the breakroom, or ask Georgia who was standing near John's desk!"*  
-> * *"Has anyone asked Valle or Kaitlin what they saw out in the courtyard garden?"*  
+> * *"Has anyone asked Vale or Kaitlin what they saw out in the courtyard garden?"*  
 > * *"Try shining your UV flashlights on the spines of those hardcover books on the side table!"*
 
 ---
@@ -100,7 +100,7 @@ This master tracker replaces static player clue cards with an active host manage
 * **Dual CATCH Conservator Resolution:**
   * **Charlotte:** Argues she returned Master Key #000 at 5:00 PM, only holds Keycard #005 tonight, and was seated at the intake desk the whole time.
   * **Claire & Georgia:** Both testify that Charlotte was seated at the intake desk with them continuously from 23:35 to 23:50 (Charlotte exonerated on timeline).
-  * **Kaitlin & Valle:** Point out that only **Raelin** possessed Master Key #000 tonight and has an unaccounted 15-minute prep gap.
+  * **Kaitlin & Vale:** Point out that only **Raelin** possessed Master Key #000 tonight and has an unaccounted 15-minute prep gap.
   * **Ellie:** Confirms Case RB-1147 tumblers and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern, not pick wires or wax mold copies.
 
 ---

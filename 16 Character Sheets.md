@@ -257,7 +257,7 @@ the blade tip into the hallway trash!
 🎯 YOUR INVESTIGATION OBJECTIVES:
 1. Prove the arm scratch was a superficial accident and completely non-toxic.
 2. Demonstrate that you were reading in the main hall with witnesses before arrival.
-3. Help the circle uncover the true delivery method on the gallery lock.
+3. Help the circle investigate the other competing tracks (the tea cup and display case) to clear yourself of the arm scratch.
 
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
@@ -474,7 +474,7 @@ frustration, accidentally ripping the sleeve fabric!
 🎯 YOUR INVESTIGATION OBJECTIVES:
 1. Prove your hallway argument was purely verbal and non-toxic.
 2. Testify that John entered the building alive, alert, shouting, and walking.
-3. Direct attention to the physical chemical poison applied to the gallery lock.
+3. Direct attention toward what happened at the gallery archway where John collapsed, rather than your hallway argument.
 
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
@@ -511,7 +511,7 @@ and photoshopped two zeros onto the donation receipt! John pulled the original!
 🎯 YOUR INVESTIGATION OBJECTIVES:
 1. Protect your squeaky-clean reputation and keep your fake book drive secret.
 2. Emphasize that you carry zero access keys and have no chemical training.
-3. Encourage guests to use the UV blacklights on the evidence table props!
+3. Talk with other guests to compare alibis and find out who had unmonitored access before the party started.
 
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
@@ -562,7 +562,7 @@ Amazon Prime shipping barcode was still stuck to the back of the picture frame!
 ================================================================================
                     THE STARLIGHT ARCHIVES — GUEST DOSSIER
 ================================================================================
-NAME: VALLE                                     CLEARANCE: Assistant Pass
+NAME: VALE                                      CLEARANCE: Assistant Pass
 TITLE: Unfortunate Witness                      SPECIALTY: Vault Logistics & Intake
 ================================================================================
 

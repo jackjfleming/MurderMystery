@@ -48,7 +48,7 @@
 - Create: `Starlight Archive Murder Mystery - 03 16 Character Dossiers.md`
 
 - [x] **Step 1: Write `Starlight Archive Murder Mystery - 03 16 Character Dossiers.md`**
-  Create full character sheets for all 16 suspects (Raelin, Claire, Sarah, Brooklyn, Charlotte, Christina, Victoria, Ellie, Gianna, Hope, Georgia, Kaitlin, Maddie, Ruthanne, Lucy, Valle):
+  Create full character sheets for all 16 suspects (Raelin, Claire, Sarah, Brooklyn, Charlotte, Christina, Victoria, Ellie, Gianna, Hope, Georgia, Kaitlin, Maddie, Ruthanne, Lucy, Vale):
   - Vintage Semi-Formal costume recommendations for each role.
   - Role description, backstory, secret, and objective.
   - Ensure Raelin's secret details the 1926 pet shop 37 ferrets receipt!

@@ -130,7 +130,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "The gallery archway provides a direct, open view of Case RB-1147, but the gallery's side doors were locked tight."
 --------------------------------------------------------------------------------
-📜 VALLE — Unfortunate Witness | ROUND 1 SLIP
+📜 VALE — Unfortunate Witness | ROUND 1 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
 "I was near the hallway door right as John entered—he was clutching his arm before he even touched the display!"
@@ -268,7 +268,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "I saw Christina near the terminal console by the desk around 23:40, looking agitated."
 --------------------------------------------------------------------------------
-📜 VALLE — Unfortunate Witness | ROUND 2 SLIP
+📜 VALE — Unfortunate Witness | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
 "I saw someone moving near the courtyard window sill right before the front doors were unlocked for guests!"
@@ -406,7 +406,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "My frame solvents and paint glues didn't match the lab toxicology—only the organomercury compound in Jar E matched the lock swab."
 --------------------------------------------------------------------------------
-📜 VALLE — Unfortunate Witness | ROUND 3 SLIP
+📜 VALE — Unfortunate Witness | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
 "Cross-reference who was near that window with who has official handling authority for Item RB-1147!"

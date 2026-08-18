@@ -53,7 +53,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | :--- | :--- | :--- | :--- |
 | **1. Motive** | YES | John threatened to confiscate her camera gear over unauthorized photos. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew John was patrolling restricted archways. | Character Backstory |
-| **3. Physical Access** | **NO** | Lurked outside in courtyard; lacks master key access to enter inside. | Courtyard Lens Cap (#7) / Witness Statements (Valle & Kaitlin) |
+| **3. Physical Access** | **NO** | Lurked outside in courtyard; lacks master key access to enter inside. | Courtyard Lens Cap (#7) / Witness Statements (Vale & Kaitlin) |
 | **4. Mechanical Capability** | **NO** | Uses darkroom developer chemicals, not organic dermal contact toxins. | Character Role / Conservation Log (#11) |
 | **5. Verified Time Window** | YES | Unaccounted for ("setting up flash gear"). | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Camera lens cap recovered from exterior courtyard window sill. | Physical Prop (#7) / Witness Observations |
@@ -242,7 +242,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 
 ---
 
-### **16. VALLE — Unfortunate Witness**
+### **16. VALE — Unfortunate Witness**
 
 | Pillar Category | Incriminated? | How They Are Incriminated | Revelation Vehicle to Group |
 | :--- | :--- | :--- | :--- |
@@ -253,4 +253,4 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **5. Verified Time Window** | YES | Near hallway entrance right as John arrived. | Character Script |
 | **6. Physical Trace Evidence** | **NO** | Zero physical trace evidence found at scene. | Toxicology Report (#9) |
 
-**EXONERATION FACTOR:** Valle acts as a crucial witness catalyst clue provider. She has no key clearance or chemical capability, and her statement points toward the courtyard window sill!
+**EXONERATION FACTOR:** Vale acts as a crucial witness catalyst clue provider. She has no key clearance or chemical capability, and her statement points toward the courtyard window sill!

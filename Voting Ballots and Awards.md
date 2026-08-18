@@ -22,7 +22,7 @@ GUEST NAME: ____________________________  CHARACTER: ___________________________
    [ ] Charlotte (Rare Book Specialist)   [ ] Maddie (Conservatory Reader)
    [ ] Christina (Silver-Tongued Debater) [ ] Ruthanne (Library Darling)
    [ ] Victoria (The Annotator)           [ ] Lucy (Aesthetic Curator)
-   [ ] Ellie (Puzzle Tinker)              [ ] Valle (Unfortunate Witness)
+   [ ] Ellie (Puzzle Tinker)              [ ] Vale (Unfortunate Witness)
 
 2. WHAT WAS THE TRUE MURDER METHOD? (Check ONE):
    [ ] Track A: Physical Stabbing / Bleeding out from craft tool arm wound

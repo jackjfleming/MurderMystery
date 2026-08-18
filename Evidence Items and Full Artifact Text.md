@@ -103,7 +103,7 @@ I will not allow this institution to be compromised. At 12:00 AM, before Catalog
 | **#018** | **Sarah** (Nocturnal Photographer) | Level 2 (Darkroom & Gates) | Viewing Balconies | Courtyard Garden Gates | Photo Darkroom Chemicals |
 | **#019** | **Kaitlin** (Silent Strategist) | Level 1 (Study Carrels) | Private Carrels Only | None (Electronic Only) | No Hazmat Clearance |
 | **#021** | **Gianna** (Amateur Sleuth) | Level 1 (General Library) | Public Reading Tables | None (Electronic Only) | No Hazmat Clearance |
-| **#022** | **Valle** (Unfortunate Witness) | Level 1 (Main Hall) | Main Reception Only | None (Electronic Only) | No Hazmat Clearance |
+| **#022** | **Vale** (Unfortunate Witness) | Level 1 (Main Hall) | Main Reception Only | None (Electronic Only) | No Hazmat Clearance |
 
 ---
 
