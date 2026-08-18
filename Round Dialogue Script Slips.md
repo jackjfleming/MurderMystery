@@ -151,7 +151,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 RAELIN — Keeper of Keys | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Charlotte and I both have CATCH certification for hazardous chemical preservation, but Item RB-1147 was locked in its case before anyone arrived."
+"Charlotte and I both have CATCH chemical certification, and Charlotte even borrowed Master Key #000 earlier this afternoon for holding inventory. But Item RB-1147 was locked in its case before anyone arrived."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "The chemical jars on the display table contain authentic archival solvents and fumigants—only CATCH-certified conservators are authorized to use them."
@@ -183,7 +183,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 CHARLOTTE — Rare Book Specialist | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Yes, I'm CATCH-certified and have Chemical Kit access, but my conservation duties are for Holding Area items, not the gallery vault! Plus, I was at the intake desk with Georgia the entire prep window!"
+"Yes, I borrowed Master Key #000 from Raelin earlier this afternoon for deep holding inventory, but I returned it to her at 5:00 PM! Plus, I was at the intake desk with Georgia the entire prep window!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "I can confirm Georgia was with me the entire 15-minute prep gap—we were logging guest arrivals together at the intake console."
@@ -321,10 +321,10 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 CHARLOTTE — Rare Book Specialist | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Having CATCH chemical certification doesn't make me a killer! Check the logs—I was at the front desk with Georgia, and I don't hold the Master Key to the courtyard window or vault display cases!"
+"Borrowing the master key earlier today doesn't make me a killer! Check the logs—the unlatched window happened at 23:44 while I was at the intake desk with Georgia, and the key in the hedges was Raelin's original ring!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Only the Master Brass Key Ring (#000) can physically unlatch the courtyard gallery window or unlock vault cases. I only hold Keycard #005 for the Holding Area."
+"Only the Master Brass Key Ring (#000) can physically unlatch the courtyard gallery window or unlock vault cases. I returned that key at 5:00 PM and only hold Keycard #005 tonight."
 --------------------------------------------------------------------------------
 📜 CHRISTINA — Silver-Tongued Debater | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -348,7 +348,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "The scratched pick wire by the window latch was from my research earlier this week, not the murder!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The newly scraped tumblers on Case RB-1147 were turned with an actual Master Key (#000), not pick wires or lock tools!"
+"The newly scraped tumblers on Case RB-1147 and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern—not pick wires, and definitely not an amateur wax mold copy!"
 --------------------------------------------------------------------------------
 📜 GIANNA — Amateur Sleuth | ROUND 3 SLIP
 --------------------------------------------------------------------------------

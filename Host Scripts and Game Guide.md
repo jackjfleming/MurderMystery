@@ -84,8 +84,9 @@ The real murder weapon was waiting for him at the gallery display lock."
 **PART 3: The Truth Unraveled (Track C)**  
 "The toxicology report confirmed the lethal dose was an organomercury-based archival fumigation compound—a legitimate preservation chemical used to protect rare manuscripts from bookworm and mold—coated directly onto the brass lock of Catalog Item RB-1147.  
 When we shined our UV blacklights on the Chemical Preservation Kit, **Jar E—the Archival Fumigation & Anti-Pest Sealant**—glowed bright neon green!  
-Now, TWO people in this circle had CATCH certification and Chemical Kit access: Charlotte, the Rare Book Specialist, and Raelin, the Keeper of Keys. Both knew that Jar E was lethally toxic through skin contact. But Charlotte was verified at the intake desk with Georgia during the entire 15-minute prep window, and she only holds a Holding Area keycard—she lacks Master Key #000 to unlatch the courtyard window or open vault cases!  
-Only ONE CATCH-certified person held Master Key #000 AND had an unaccounted 15-minute prep gap to slip through the courtyard window, coat the brass lock with Jar E, and toss the key into the bushes.  
+Now, TWO people in this circle had CATCH chemical certification and Chemical Kit access: Charlotte, the Rare Book Specialist, and Raelin, the Keeper of Keys. Both knew that Jar E was lethally toxic through skin contact. Charlotte even borrowed Master Key #000 earlier this afternoon, raising suspicions that she might have used it or made a wax copy!  
+But Ellie verified that the lock was turned by the original antique Master Key #000 (recovered right in the courtyard bushes), not a copy. And Georgia and Claire proved Charlotte was sitting with them at the front intake desk the entire time!  
+Only ONE CATCH-certified person possessed Master Key #000 tonight AND had an unaccounted 15-minute prep gap to slip through the courtyard window, coat the brass lock with Jar E, and toss the key into the bushes.  
 And why was this person so terrified of John's midnight presentation?"
 
 **PART 4: The Grand Motive Reveal & Verdict**  
@@ -107,8 +108,8 @@ If the energy slows down or a guest seems shy, Jack or Whitney can casually walk
 | **Hope** | R1/R2 | *"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"* |
 | **Victoria / Maddie** | R1/R2 | *"Notice John's sleeve? Ask Maddie what they were shouting about in the hallway, or ask Victoria why she had an exacto blade!"* |
 | **Sarah** | R2 | *"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"* |
-| **Ellie** | R2/R3 | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key!"* |
+| **Ellie** | R2/R3 | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"* |
 | **Lucy / Christina** | R2 | *"Lucy was adjusting lighting and Christina was at the console. Ask them who they saw walking near the Curator's desk!"* |
-| **Charlotte** | R2/R3 | *"Charlotte has CATCH certification and Chemical Kit access too! Ask her where she was during the prep window and which keys she holds!"* |
-| **Raelin** | R3 | *"Both Raelin and Charlotte are CATCH-certified for Jar E! But which one holds Master Key #000 and has a missing prep window?"* |
-| **General Guest** | R3 | *"Shine your UV light on the Chemical Kit jars on the table—look which jar glows neon green!"* |
+| **Charlotte** | R2/R3 | *"Charlotte had the master key earlier today and has CATCH certification! Ask her where she was during the prep window and when she returned the key!"* |
+| **Raelin** | R3 | *"Both Raelin and Charlotte know Jar E! But which one possessed Master Key #000 tonight and was missing during the 15-minute prep gap?"* |
+| **General Guest** | R3 | *"Shine your 395nm UV light on the Chemical Kit jars on the table—look which jar glows neon green!"* |

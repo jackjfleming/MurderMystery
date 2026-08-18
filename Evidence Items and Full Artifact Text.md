@@ -23,7 +23,7 @@ This document provides the complete, verbatim text, physical prop setup instruct
 [23:42:00] SYSTEM ALERT: Rare Books Gallery Main Doors — LOCKED / LOCKED
 [23:44:18] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
            >>> UNLOGGED MECHANICAL UNLATCH DETECTED <<<
-           >>> DURATION: 00:02:15 | ENTRY TYPE: PHYSICAL MASTER KEY <<<
+           >>> DURATION: 00:02:15 | ENTRY TYPE: UNLOGGED MECHANICAL BYPASS (VAULT KEYWAY) <<<
 [23:46:33] SECURITY SENSOR #04 (Gallery Courtyard Window Sill):
            >>> LATCH SECURED / CLOSED <<<
 --------------------------------------------------------------------------------
@@ -250,9 +250,8 @@ Item Tested:
 
 TEST RESULTS:
 1. Microscopic swab of Master Key #000 recovered from the courtyard shrubbery revealed fine brass dust particles matching the newly scraped lock tumblers of Display Case RB-1147.
-2. Chemical and UV blacklight testing of the Chemical Kit confirmed that Jar E (Archival Fumigation & Anti-Pest Sealant) and Raelin's applicator cloth GLOW NEON GREEN under UV light, perfectly matching the organomercury fumigation compound swabbed from John's palm and the RB-1147 lock handle!
-3. NOTE: Charlotte (Rare Book Specialist) also holds CATCH certification and full Chemical Kit access (Jars A–E). However, Charlotte was verified at the intake desk with Georgia during the entire 15-minute prep window (23:35–23:50) and does NOT hold Master Key #000 required to unlatch the courtyard window or access vault display cases.
+2. Chemical and UV blacklight testing of the Chemical Kit confirmed that Jar E (Archival Fumigation & Anti-Pest Sealant) and an associated preservation applicator cloth GLOW NEON GREEN under 395nm UV light, perfectly matching the organomercury fumigation compound swabbed from the victim's palm and the RB-1147 lock handle.
 
-SUMMARY:
-Master Key #000 was used to unlatch the courtyard window. The brass lock of Item RB-1147 was coated with Jar E (a hazardous archival fumigation compound that is lethally toxic through skin contact), and the key was tossed into the bushes during exit. Both Raelin and Charlotte hold CATCH certification for Jar E, but only Raelin holds the master key AND was unaccounted for during the prep window. Charlotte was verified at the intake desk and lacks vault access: THE KEEPER OF KEYS (Raelin).
+LAB SUMMARY:
+Master Key #000 was used to mechanically bypass the courtyard window. The brass lock handle of Item RB-1147 was coated with Jar E (an organomercury archival fumigation compound lethally toxic through dermal skin absorption), and Master Key #000 was discarded into the hedges during exit.
 ```

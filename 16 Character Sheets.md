@@ -9,22 +9,19 @@
                     THE STARLIGHT ARCHIVES — GUEST DOSSIER
 ================================================================================
 NAME: RAELIN                                    CLEARANCE: Master Keyholder (#000)
-TITLE: Keeper of Keys                           SPECIALTY: CATCH Certified Conservator
+TITLE: Keeper of Keys                           SPECIALTY: Vault Locks & Conservation
 ================================================================================
 
 📜 ROLE DESCRIPTION:
 You oversee restricted access keys, vault locks, and movement logs within the 
-Starlight Archives. You hold CATCH Certification (Certification for Archival 
-Toxicology & Chemical Handling), required for handling historical texts treated 
-with hazardous preservation compounds such as organomercury fumigants and 
-arsenic-based insecticides.
+Starlight Archives. You also hold safety certification for handling historical 
+preservation chemicals.
 
 🏛️ YOUR BACKGROUND & WHAT YOU KNOW:
-Over the past week, the Curator questioned you repeatedly about access logs, 
-warning that restricted vault doors were being opened without digital records. 
-When you arrived tonight, tension was at a breaking point. Moments after John 
-stepped into the archives, he staggered to the Rare Books Gallery archway, touched 
-the brass lock of Item RB-1147, and collapsed dead.
+Over the past week, the Curator questioned you about access logs, warning that 
+vault doors were being opened without digital records. When you arrived tonight, 
+tension was high. Moments after John entered, he staggered to the gallery archway, 
+touched the lock of Item RB-1147, and collapsed dead.
 
 🔒 YOUR CONFIDENTIAL SECRET (KEEP HIDDEN AT ALL COSTS!):
 The Curator uncovered an embarrassing, ruinous 1926 family secret proving your 
@@ -171,24 +168,24 @@ TITLE: Rare Book Specialist                     SPECIALTY: CATCH Certified Conse
 ================================================================================
 
 📜 ROLE DESCRIPTION:
-You manage cataloging and private acquisitions of rare texts. You hold secondary 
+You manage cataloging and acquisitions of rare texts. You hold secondary 
 conservation clearance for Holding Area collections and are CATCH-certified 
-(Certification for Archival Toxicology & Chemical Handling) with full access to 
-the Chemical Preservation Kit (Jars A–E).
+with full access to the Chemical Preservation Kit (Jars A–E).
 
 🏛️ YOUR BACKGROUND & WHAT YOU KNOW:
-Yesterday, the Curator cornered you about a missing manuscript from the secondary 
-holding collection and threatened black-market theft accusations. You arrived 
-tonight worried about your career, only for John to collapse moments after entering.
+Yesterday, the Curator accused you of missing holding collection manuscripts. 
+Earlier today, you borrowed Master Key #000 from Raelin for three hours to 
+inventory deep holding chests, returning it to her at 5:00 PM. You arrived tonight 
+worried about your career, only for John to collapse moments after entering.
 
 🔒 YOUR CONFIDENTIAL SECRET (KEEP HIDDEN AT ALL COSTS!):
 You have been secretly appraising restricted archive manuscripts for private 
 collectors on the side to pay off personal debts.
 
 🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Explain why your archive tags were found near the gallery corridor.
-2. Emphasize that your CATCH duties are for Holding items, not the gallery vault.
-3. Use your verified front intake desk alibi with Georgia to clear your name!
+1. Explain that you returned Master Key #000 at 5:00 PM and only hold Keycard #005 tonight.
+2. Deflect suspicion about borrowing the master key and explain your archive tags.
+3. Use your verified front intake desk alibi with Georgia (23:35–23:50) to clear your name!
 
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!

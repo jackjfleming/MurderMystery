@@ -83,12 +83,12 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | :--- | :--- | :--- | :--- |
 | **1. Motive** | YES | John was filing black-market artifact theft charges against her. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew John discovered missing inventory items. | Character Backstory |
-| **3. Physical Access** | **NO** | Holding Area Keycard (#005) only; lacks Master Key #000 to unlatch courtyard window or open vault cases. | Key Clearance Register (#4) |
+| **3. Physical Access** | YES (Red Herring) | Borrowed Master Key #000 earlier this afternoon for holding inventory (fueling suspicions of access or key duplication), but returned it to Raelin at 5:00 PM. | Character Backstory / Raelin & Charlotte Script Slips (R2) |
 | **4. Mechanical Capability** | **YES** | Holds CATCH Certification (Certification for Archival Toxicology & Chemical Handling) with full Chemical Kit access (Jars A–E). | Key Clearance Register (#4) / Conservation Duty Log (#11) |
 | **5. Verified Time Window** | **NO** | Logged in working at the intake desk with Georgia (23:35–23:50). | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Uncataloged archive tag found in gallery corridor. | Incident Dossier (#2) |
 
-**EXONERATION FACTOR:** Charlotte has full Chemical Kit access (Jars A–E) and CATCH certification, making her a prime chemical suspect. However, she is decisively exonerated by the other two critical pillars: (1) she was verified working at the central intake desk with Georgia during the entire 15-minute prep window (23:35–23:50), and (2) she holds only Holding Area Keycard #005 and lacks Master Key #000 required to unlatch the courtyard window or access vault display cases.
+**EXONERATION FACTOR:** Charlotte has full Chemical Kit access (Jars A–E), CATCH certification, and handled Master Key #000 earlier today, making her a high-tension 5-pillar chemical suspect. However, she is decisively exonerated by two airtight facts: (1) she was verified working at the central intake desk with Georgia during the entire 15-minute prep window (23:35–23:50) when the window unlatch occurred at 23:44, and (2) Ellie confirms the window and Case RB-1147 were opened by the original Master Key #000 with its unique wear patterns (which was recovered in the courtyard hedges), not an amateur copy.
 
 ---
 

@@ -81,7 +81,7 @@ This master tracker replaces static player clue cards with an active host manage
 
 ### 📦 Physical Evidence Drop (Handed out by Whitney at Start of Round 3)
 1. **Evidence Item 9:** Forensic Toxicology Report *(Eliminates Track A & B; confirms dermal contact poison on lock via naturally UV-fluorescent organomercury fumigant)*
-2. **Evidence Item 10:** Curator's Handwritten Letter & xTool P3 Laser-Cut Decryption Mask *(Overlays to read: "ITEM RB-1147 LOCK WAS TAMPERED")*
+2. **Evidence Item 10:** Curator's Handwritten Letter & xTool P3 Laser-Cut Decryption Mask *(Overlays to read: "Item RB-1147 lock was tampered")*
 3. **Evidence Item 11:** Conservation Duty Log *(Identifies Raelin and Charlotte as CATCH-certified conservators)*
 4. **Evidence Item 12:** Master Toolkit & Courtyard Trace Analysis Report *(Master Key #000 recovered from hedges; Jar E glows neon green under UV)*
 5. **Voting Ballots:** Handed out for guests to vote for Killer, Motive, and Weapon.
@@ -96,12 +96,12 @@ This master tracker replaces static player clue cards with an active host manage
 * **Chemical Kit & UV Blacklight:**
   * **Christina & Ruthanne:** Prompt guests to scan the Chemical Kit with UV flashlights—**Jar E (Archival Fumigation & Anti-Pest Sealant)** glows vibrant neon green, matching the poison on John's palm!
 * **Decryption Mask:**
-  * **Brooklyn:** Shows guests how to place the wooden overlay mask over John's letter to read: *"ITEM RB-1147 LOCK WAS TAMPERED"*.
+  * **Brooklyn:** Shows guests how to place the wooden overlay mask over John's letter to read: *"Item RB-1147 lock was tampered"*.
 * **Dual CATCH Conservator Resolution:**
-  * **Charlotte:** Argues she only holds Keycard #005 for Holding Area items and was at the intake desk the whole time.
-  * **Claire & Georgia:** Both testify that Charlotte was seated at the intake desk with them continuously from 23:35 to 23:50 (Charlotte exonerated).
-  * **Kaitlin & Valle:** Point out that only **Raelin** holds Master Key #000 and has an unaccounted 15-minute prep gap.
-  * **Ellie:** Confirms Case RB-1147 tumblers were turned by an authentic Master Key (#000), not picked with wires.
+  * **Charlotte:** Argues she returned Master Key #000 at 5:00 PM, only holds Keycard #005 tonight, and was seated at the intake desk the whole time.
+  * **Claire & Georgia:** Both testify that Charlotte was seated at the intake desk with them continuously from 23:35 to 23:50 (Charlotte exonerated on timeline).
+  * **Kaitlin & Valle:** Point out that only **Raelin** possessed Master Key #000 tonight and has an unaccounted 15-minute prep gap.
+  * **Ellie:** Confirms Case RB-1147 tumblers and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern, not pick wires or wax mold copies.
 
 ---
 
