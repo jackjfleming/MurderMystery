@@ -6,7 +6,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 
 ## **💡 Host Reference: The Three Competing Tracks**
 
-1. **🔪 Track A (Stabbing / Corridor Altercation):** Maddie (grabbed sleeve in corridor) & Victoria (dropped craft blade in trash).  
+1. **🖋️ Track A (Corridor Altercation / Fountain Pen Stabbing Red Herring):** Maddie (grabbed sleeve in corridor) & Victoria (deliberately jabbed John with sharp fountain pen, dropped pen in trash).  
    *Exoneration:* Forensics confirms the arm scratch was a superficial wound and 100% clean and non-toxic.
 2. **☕ Track B (Poisoned Tea Cup):** Hope (admitted botanical poison attempt), Christina & Lucy (seen near desk setup).  
    *Exoneration:* Forensics confirms the tea cup was 100% full and untasted (John ceased drinking caffeinated tea 4 weeks prior on medical advice).
@@ -111,14 +111,14 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 
 | Pillar Category | Incriminated? | How They Are Incriminated | Revelation Vehicle to Group |
 | :--- | :--- | :--- | :--- |
-| **1. Motive** | YES | Caught slicing marginalia out of ancient texts with craft blades. | Character Secret / Script Lines |
-| **2. Secret Knowledge** | YES | John sent her a direct message referencing sliced pages earlier today. | Character Backstory |
+| **1. Motive** | YES | Caught forging marginalia; panicked and deliberately struck John's forearm with a sharp fountain pen. | Character Secret / Script Lines |
+| **2. Secret Knowledge** | YES | John sent her a direct message referencing forged notes earlier today. | Character Backstory |
 | **3. Physical Access** | YES | Seen lurking near hallway doors right before John entered. | Incident Dossier (#2) |
-| **4. Mechanical Capability** | YES | Familiar with delicate restoration blades and precision cutters. | Character Role |
+| **4. Mechanical Capability** | YES | Skilled in antique calligraphy, fine metal pen nibs, and handwritten annotations. | Character Role |
 | **5. Verified Time Window** | **NO** | Confirmed alibi reading in main hall with witnesses until 23:48. | Character Script / Witness Reports |
-| **6. Physical Trace Evidence** | YES (Red Herring) | Discarded exacto blade fragment in hallway trash (Track A). | Physical Prop (#6) / Witness Slips |
+| **6. Physical Trace Evidence** | YES (Red Herring) | Discarded vintage fountain pen in hallway trash (Track A). | Physical Prop (#6) / Witness Slips |
 
-**EXONERATION FACTOR:** Toxicology Report (#9) proves the arm scratch was 100% clean and non-toxic (Track A eliminated). Victoria also has a verified reading alibi.
+**EXONERATION FACTOR:** Toxicology Report (#9) proves the arm puncture was from regular non-toxic ink and 100% clean (Track A eliminated). Victoria also has a verified reading alibi.
 
 ---
 

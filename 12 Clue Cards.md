@@ -38,11 +38,11 @@ This master tracker replaces static player clue cards with an active host manage
 
 ---
 
-## 🔬 **Round 2: The 3 Competing Tracks & Scene Sightings**
+## 🔬 **Round 2: Competing Scene Clues & Sightings**
 
 ### 📦 Physical Evidence Drop (Handed out by Whitney at Start of Round 2)
 1. **Evidence Item 5:** Desk Tea Cup with Saucer *(Physical ceramic cup with scent tag: "Bitter Almond & Concentrated Herbal Infusion")*
-2. **Evidence Item 6:** Discarded Exacto Blade in Evidence Bag *(Dull craft blade recovered from hallway trash)*
+2. **Evidence Item 6:** Discarded Vintage Fountain Pen in Evidence Bag *(Fine nib fountain pen recovered from hallway trash)*
 3. **Evidence Item 7:** Courtyard Camera Lens Cap *(Found sitting on the gallery courtyard window sill)*
 4. **Evidence Item 8:** 6 UV Inscription Hardcover Books & 4 UV Blacklight Flashlights *(Invisible letters hidden on spines)*
 5. **Player Materials:** Round 2 Dialogue & Witness Slips
@@ -50,14 +50,14 @@ This master tracker replaces static player clue cards with an active host manage
 ---
 
 ### 👁️ Player Witness Observations Circulating in Round 2
-* **Track B Sightings (The Desk Tea Cup):**
+* **Poisoned Tea Desk Sightings:**
   * **Gianna:** Saw **Hope** in the breakroom brewing tea with a pungent bitter almond scent.
   * **Victoria:** Saw **Lucy** on a step-stool adjusting spotlights directly above John's desk.
   * **Georgia:** Saw **Christina** nervously typing and reviewing debate notes at the console right next to John's tea cup.
-* **Track A Sightings (The Arm Scratch & Blade):**
-  * **Maddie:** Saw **Victoria** carrying precision craft cutters earlier today in the corridor.
+* **Corridor Altercation & Fountain Pen Sightings:**
+  * **Maddie:** Saw **Victoria** holding a sharp fountain pen earlier today when arguing in the corridor.
   * **Victoria:** Defends herself, stating the scratch was a minor tussle and that John was fine when he entered.
-* **Track C / Courtyard Window Sightings:**
+* **Courtyard Window Sightings:**
   * **Vale & Kaitlin:** Both testify that they saw **Sarah** outside in the courtyard garden taking photos through the glass from the path, and that **Sarah never opened or climbed through the window**.
 * **UV Spine Discovery:**
   * **Ruthanne:** Prompts guests to scan the book spines with blacklights, unscrambling **D-E-R-M-A-L**.
@@ -65,8 +65,8 @@ This master tracker replaces static player clue cards with an active host manage
 ---
 
 ### 🎯 Round 2 Host Milestone Checklist
-- [ ] **Are suspects on Track B (Hope, Lucy, Christina) being cross-examined about their tea desk proximity?**
-- [ ] **Is Track A (Victoria & Maddie) being actively investigated without spoiling the lab result?**
+- [ ] **Are suspects connected to the tea desk (Hope, Lucy, Christina) being cross-examined about their tea desk proximity?**
+- [ ] **Is the corridor altercation (Victoria & Maddie) being actively investigated without spoiling the lab result?**
 - [ ] **Have players used Vale & Kaitlin's witness statements to clear Sarah of entering the room?**
 - [ ] **Have players unscrambled D-E-R-M-A-L on the book spines using the UV flashlights?**
 
@@ -80,7 +80,7 @@ This master tracker replaces static player clue cards with an active host manage
 ## 📜 **Round 3: Toxicology, Laser Overlay Cipher & Final Ballots**
 
 ### 📦 Physical Evidence Drop (Handed out by Whitney at Start of Round 3)
-1. **Evidence Item 9:** Forensic Toxicology Report *(Eliminates Track A & B; confirms dermal contact poison on lock via naturally UV-fluorescent organomercury fumigant)*
+1. **Evidence Item 9:** Forensic Toxicology Report *(Eliminates corridor strike & desk tea; confirms dermal contact poison on lock via naturally UV-fluorescent organomercury fumigant)*
 2. **Evidence Item 10:** Curator's Handwritten Letter & xTool P3 Laser-Cut Decryption Mask *(Overlays to read: "Item RB-1147 lock was tampered")*
 3. **Evidence Item 11:** Conservation Duty Log *(Identifies Raelin and Charlotte as CATCH-certified conservators)*
 4. **Evidence Item 12:** Master Toolkit & Courtyard Trace Analysis Report *(Master Key #000 recovered from hedges; Jar E glows neon green under UV)*
@@ -91,8 +91,8 @@ This master tracker replaces static player clue cards with an active host manage
 
 ### 👁️ Player Witness Observations Circulating in Round 3
 * **Scientific Eliminations:**
-  * **Victoria & Maddie:** Highlight that the toxicology report proves the arm scratch was 100% clean and non-toxic (Track A eliminated).
-  * **Hope & Gianna:** Highlight that the tea cup was 100% full and untasted because John quit caffeinated tea weeks ago (Track B eliminated).
+  * **Victoria & Maddie:** Highlight that the toxicology report proves the arm scratch was 100% clean and non-toxic (Hallway attack eliminated).
+  * **Hope & Gianna:** Highlight that the tea cup was 100% full and untasted because John quit caffeinated tea weeks ago (Poisoned drink eliminated).
 * **Chemical Kit & UV Blacklight:**
   * **Christina & Ruthanne:** Prompt guests to scan the Chemical Kit with UV flashlights—**Jar E (Archival Fumigation & Anti-Pest Sealant)** glows vibrant neon green, matching the poison on John's palm!
 * **Decryption Mask:**

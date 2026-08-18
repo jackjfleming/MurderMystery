@@ -46,10 +46,10 @@ The mystery presents three distinct, competing investigative theories that playe
 │ • Primary Suspects:       │ • Primary Suspects:          │ • Culprit:                   │
 │   Maddie (corridor sleeve │   Hope (admitted failed      │   Raelin (character held     │
 │   tear) & Victoria        │   attempt), Christina &      │   master key, prep window    │
-│   (discarded craft blade).│   Lucy (seen near desk).     │   gap, maintenance duty).    │
+│   (sharp fountain pen).   │   Lucy (seen near desk).     │   gap, maintenance duty).    │
 │ • Disproven by:           │ • Disproven by:              │ • Confirmed by:              │
 │   Toxicology (Round 2/3): │   Toxicology (Round 3):      │   Toxicology & Swabs (R3):   │
-│   Scratch and blade are   │   Tea was 100% untasted;     │   Lock swab matches Jar E    │
+│   Scratch and pen ink are │   Tea was 100% untasted;     │   Lock swab matches Jar E    │
 │   100% clean & non-toxic. │   John quit tea weeks ago.   │   fumigation compound (UV).  │
 └───────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
@@ -67,7 +67,7 @@ The mystery presents three distinct, competing investigative theories that playe
 ### Evidence Item Progression: The Maintenance Kit (Gaps D & E)
 
 - **Round 1 (Introduction):** The **Chemical Preservation Kit** (Jars A–E) is introduced on the Evidence Table as an archival restoration exhibit. Jar E is labeled as *"Jar E: Archival Fumigation & Anti-Pest Sealant"* with a hazardous materials warning. Players observe it, but cannot draw conclusions yet.
-- **Round 2 (Ambiguity):** Players investigate the tea cup, blade, and scan book spines with UV flashlights to find the word **D-E-R-M-A-L**.
+- **Round 2 (Ambiguity):** Players investigate the tea cup, discarded fountain pen, and scan book spines with UV flashlights to find the word **D-E-R-M-A-L**.
 - **Round 3 (Significance):** The Toxicology Report reveals that the lethal compound is an organomercury-based archival fumigation sealant that is naturally UV-fluorescent. Players scan the Chemical Kit with UV flashlights, and **Jar E glows neon green**, proving the hazardous preservation compound was applied to the lock handle! The Conservation Log reveals two people (Raelin and Charlotte) hold CATCH certification and Chemical Kit access—removing any single-suspect chemical silver bullet and forcing players to cross-reference master key access and verified timeline alibis to identify the true culprit!
 
 ---
@@ -97,12 +97,12 @@ In Evidence Item 10, the Curator's handwritten note reads:
 ⏱️ 0:25 - 0:55 | 🔍 Round 1: Motives, Access Logs & 3 Tracks Emergence
 - Whitney drops Evidence Packet 1 (Terminal Log, Incident Dossier, Audit Notes, Key Register).
 - Whitney hands out Round 1 Script Slips.
-- Players establish the 3 Tracks (Physical Attack, Poisoned Tea, Dermal Lock Poison).
+- Players explore the conflicting scene clues (Corridor Tussle, Poisoned Tea, Dermal Lock Poison).
 
 ⏱️ 0:55 - 1:30 | 🔬 Round 2: UV Blacklight Spine Hunt & Red Herring Investigation
-- Whitney drops Evidence Packet 2 (Desk Tea Cup, Exacto Blade, Courtyard Lens Cap).
+- Whitney drops Evidence Packet 2 (Desk Tea Cup, Discarded Fountain Pen, Courtyard Lens Cap).
 - Whitney hands out 4 UV Flashlights & Round 2 Script Slips.
-- Track 1 Investigation: Guests cross-examine Victoria & Maddie regarding the hallway tussle and discarded exacto blade.
+- Corridor Tussle Investigation: Guests cross-examine Victoria & Maddie regarding the hallway tussle and discarded fountain pen.
 - UV Book Spine Hunt: Guests scan 6 book spines to unscramble D-E-R-M-A-L.
 
 ⏱️ 1:30 - 2:00 | 📜 Round 3: Laser Overlay Cipher, Jar E UV Glow & Final Ballots
@@ -110,7 +110,7 @@ In Evidence Item 10, the Curator's handwritten note reads:
 - Track 2 Dismantled: Lab confirms desk tea was 100% untasted.
 - Lab confirms the lethal compound is naturally UV-fluorescent! Guests scan the Chemical Kit: Jar E GLOWS NEON GREEN!
 - Conservation Log reveals both Raelin and Charlotte are CATCH-certified with Kit access. Charlotte is exonerated by her verified front desk alibi and lack of Master Key #000.
-- Guests use the xTool P3 Laser-Cut Overlay Mask over John's note to read: "ITEM RB-1147 LOCK WAS TAMPERED".
+- Guests use the xTool P3 Laser-Cut Overlay Mask over John's note to read: "Item RB-1147 lock was tampered".
 - Guests fill out Voting Ballots (Killer, Motive, Weapon).
 
 ⏱️ 2:00 - 2:30 | 🏆 Reveal, Awards & Sweet 16 Birthday Cake

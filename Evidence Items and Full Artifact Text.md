@@ -51,10 +51,10 @@ Initial Scene Observations:
 • Within 5 seconds of touching the brass lock, the victim suffered sudden respiratory collapse and fell to the floor.
 • Scene secured immediately by Detective Jack.
 
-Three Competing Investigation Leads Identified at Scene:
-1. TRACK A (Stabbing / Physical Trauma): Coat sleeve fabric tear and surface forearm scratch (Left Arm). Discarded craft tool blade recovered from hallway waste bin.
-2. TRACK B (Ingested Poison): One (1) full ceramic tea cup sitting on Curator's desk smelling strongly of bitter almond and herbal infusion.
-3. TRACK C (Contact Surface Poison): Immediate collapse occurred upon physical contact with Display Case RB-1147's brass lock handle.
+Initial Physical Observations & Points of Inquiry at Scene:
+• Forearm Trauma: Coat sleeve fabric tear and sharp forearm puncture/scratch (Left Arm). Discarded vintage fountain pen recovered from hallway waste bin.
+• Curator's Study Desk: One (1) full ceramic tea cup sitting on desk smelling strongly of bitter almond and herbal infusion.
+• Gallery Archway: Immediate collapse occurred upon physical palm contact with Display Case RB-1147's brass lock handle.
 ```
 
 ---
@@ -128,9 +128,9 @@ I will not allow this institution to be compromised. At 12:00 AM, before Catalog
 
 ---
 
-### **Evidence Item 6: Discarded Exacto Blade Fragment (Physical Prop)**
+### **Evidence Item 6: Discarded Vintage Fountain Pen (Physical Prop)**
 
-**Physical Setup:** Place a dull, safe craft blade tip inside a clear plastic ziplock bag labeled:  
+**Physical Setup:** Place a vintage/calligraphy fountain pen inside a clear plastic ziplock bag labeled:  
 **"EVIDENCE ITEM #6 — RECOVERED FROM HALLWAY TRASH"**.
 
 ---
@@ -168,17 +168,17 @@ Case Reference: Starlight Archives Incident | Date: October 25 | Status: COMPLET
 
 LAB FINDINGS & ANALYSIS:
 
-1. TRACK A (Left Forearm Scratch Swab):
-   Swab analysis of the coat sleeve tear and forearm scratch revealed trace metal particles matching a craft blade.
+1. Left Forearm Scratch & Sleeve Swab Analysis:
+   Swab analysis of the coat sleeve tear and forearm scratch revealed trace black fountain pen ink and non-toxic metal particles from a gold-plated pen nib.
    >>> TEST RESULT: 100% CLEAN & NON-TOXIC.
-   The forearm scratch was a superficial wound sustained earlier today and played zero role in the victim's death.
+   The forearm scratch was a superficial scrape sustained earlier today and played zero role in the victim's death.
 
-2. TRACK B (Desk Tea Cup #5 Analysis):
+2. Desk Tea Cup #5 Chemical Analysis:
    Chemical testing confirmed lethal concentrations of botanical cyanide/almond toxin inside the tea cup.
    >>> TEST RESULT: 100% UNTASTED & FULL.
    Forensic medical history confirms the victim ceased consuming all caffeinated herbal teas 4 weeks prior on medical advice. Zero tea compounds or ingested toxins were detected in the digestive tract.
 
-3. TRACK C (Right Palm & Lock Swab Analysis):
+3. Right Palm & Lock Swab Analysis:
    Swab analysis of the victim's right palm and the brass lock handle of Display Case RB-1147 confirmed heavy concentrations of an organomercury-based fumigation compound — a pale chartreuse archival preservation chemical used to protect rare manuscripts from bookworm and mold damage.
    >>> COMPOUND PROFILE: This substance is a standard archival fumigation sealant, but it is LETHALLY TOXIC through prolonged dermal absorption. It is classified as a restricted hazardous material requiring specialized safety certification to handle.
    >>> CRITICAL LAB NOTE: This organomercury compound is NATURALLY UV-FLUORESCENT. Under 395nm UV blacklight, any contaminated liquid, applicator, or surface will GLOW VIBRANT NEON GREEN!

@@ -25,9 +25,9 @@ GUEST NAME: ____________________________  CHARACTER: ___________________________
    [ ] Ellie (Puzzle Tinker)              [ ] Vale (Unfortunate Witness)
 
 2. WHAT WAS THE TRUE MURDER METHOD? (Check ONE):
-   [ ] Track A: Physical Stabbing / Bleeding out from craft tool arm wound
-   [ ] Track B: Ingested Poison / Fatal herbal toxin in desk tea cup
-   [ ] Track C: Dermal Contact Poison / Lethal organic toxin coated on Case RB-1147 lock
+   [ ] Corridor Altercation / Trauma from the fountain pen scratch
+   [ ] Ingested Poison / Fatal herbal toxin in desk tea cup
+   [ ] Dermal Contact Poison / Lethal organic toxin coated on Case RB-1147 lock
 
 3. WHAT WAS THE KILLER'S PRIMARY MOTIVE?
    _____________________________________________________________________________

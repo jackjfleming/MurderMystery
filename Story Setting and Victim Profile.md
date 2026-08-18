@@ -15,11 +15,6 @@ Over the past week, the Curator (John) began auditing the archives' restricted m
 **THE INCIDENT:**  
 Moments after guests gathered in the Main Reception Hall, the Curator entered clutching a coat sleeve tear and holding his arm in pain. Seconds later, in full view of everyone through the gallery archway, he reached out toward Display Case RB-1147, touched its brass lock handle, and dramatically collapsed to the floor—dead.  
 
-**THE THREE COMPETING INVESTIGATION TRACKS:**  
-1. **🔪 Track A (Stabbing / Corridor Attack):** Did John bleed out from a blade attack before entering?
-2. **☕ Track B (Poisoned Drink):** Did he drink from the suspicious tea cup sitting on his desk?
-3. **🧪 Track C (Dermal Contact Poison):** Was the display case lock poisoned?
-
 **THE STAKES & RULES:**  
 The killer acted just in time to stop the Curator’s presentation. The archive doors are locked, and no one can leave. Examine the evidence, cross-reference timeline gaps, interrogate your fellow suspects, and uncover who committed murder to protect their secret!
 

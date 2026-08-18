@@ -244,20 +244,23 @@ You study handwritten marginalia, historical commentary, and binding techniques
 in centuries-old literary works.
 
 🏛️ YOUR BACKGROUND & WHAT YOU KNOW:
-Earlier today, the Curator sent you a pointed message referencing notes you had 
-made in ancient texts. You came tonight watching everyone closely, only to 
-witness John stagger in holding his arm and collapse.
+Earlier today, the Curator sent you a furious message confronting you about forged 
+marginalia in ancient texts and threatening to ban you from the archives for life. 
+You arrived tonight watching everyone nervously, only to witness John stagger in 
+clutching the arm you struck and collapse dead.
 
 🔒 YOUR CONFIDENTIAL SECRET (KEEP HIDDEN AT ALL COSTS!):
-You were caught using precision craft blades to slice priceless handwritten 
-marginalia out of ancient first-edition volumes. Earlier today, during a heated 
-hallway argument over cutters, you accidentally nicked John's arm and tossed 
-the blade tip into the hallway trash!
+You were caught using an antique calligrapher's fountain pen to secretly add your 
+own unauthorized forged marginalia into ancient first editions. During a heated 
+confrontation in the corridor earlier today, you panicked and deliberately stabbed 
+John in the forearm with your sharp fountain pen! In a terrified panic, you tossed 
+the fountain pen into the hallway trash. When John collapsed clutching his arm, you 
+feared your violent strike might have actually killed him!
 
 🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Prove the arm scratch was a superficial accident and completely non-toxic.
+1. Keep your deliberate hallway fountain pen attack strictly confidential!
 2. Demonstrate that you were reading in the main hall with witnesses before arrival.
-3. Help the circle investigate the other competing tracks (the tea cup and display case) to clear yourself of the arm scratch.
+3. Direct attention toward other suspicious clues (like the desk tea cup or display case) to clear your name!
 
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!

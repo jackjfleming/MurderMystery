@@ -144,7 +144,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 
 # 🔬 **ROUND 2 SCRIPT SLIPS (Print & Cut)**
 
-*Instructions for Whitney: Hand these slips to each guest at the start of Round 2 along with Evidence Packet 2 (Desk Tea Cup, Exacto Blade, Courtyard Lens Cap, UV Books & Flashlights).*
+*Instructions for Whitney: Hand these slips to each guest at the start of Round 2 along with Evidence Packet 2 (Desk Tea Cup, Discarded Fountain Pen, Courtyard Lens Cap, UV Books & Flashlights).*
 
 ```text
 --------------------------------------------------------------------------------
@@ -178,7 +178,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "My ink stains are from my printing press, not some rare dermal toxin!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The craft blade fragment in the trash matches the precision cutters used by manuscript annotators and restorers."
+"The vintage fountain pen in the trash matches the fine calligraphy pens used by manuscript annotators."
 --------------------------------------------------------------------------------
 📜 CHARLOTTE — Rare Book Specialist | ROUND 2 SLIP
 --------------------------------------------------------------------------------
@@ -199,7 +199,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 VICTORIA — The Annotator | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Exacto blades are for book restoration, not murder! John only had a tiny surface scratch from an argument—he walked into this room on his own two feet!"
+"Fountain pens are for annotating books, not murder! John only had a tiny surface scratch from an argument—he walked into this room on his own two feet!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "While reading in the main hall during prep, I saw Lucy on a step-stool adjusting the spotlights directly above the Curator's study desk."
@@ -250,7 +250,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "I grabbed his sleeve when we were arguing, but I didn't poison anyone! John was alive and walking when he arrived tonight!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Victoria was carrying precision craft cutters earlier today when she was inspecting manuscript bindings in the corridor."
+"Victoria was holding a sharp fountain pen earlier today when she was arguing about manuscript annotations in the corridor."
 --------------------------------------------------------------------------------
 📜 RUTHANNE — Library Darling | ROUND 2 SLIP
 --------------------------------------------------------------------------------
@@ -340,7 +340,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "My alibi is verified. Focus on whoever was unmonitored during the 15-minute window before arrival!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The toxicology report completely cleared the arm scratch—Track A is officially a red herring!"
+"The toxicology report completely cleared the arm scratch—the hallway tussle had nothing to do with his death!"
 --------------------------------------------------------------------------------
 📜 ELLIE — Puzzle Tinker | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -356,7 +356,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "We need to match motive, access, AND chemical capability to find the real killer!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The lab confirmed the desk tea was 100% full and untasted—John gave up caffeinated tea weeks ago, so Track B is eliminated!"
+"The lab confirmed the desk tea was 100% full and untasted—John gave up caffeinated tea weeks ago, so the poisoned drink theory is completely out!"
 --------------------------------------------------------------------------------
 📜 HOPE — Literary Prodigy | ROUND 3 SLIP
 --------------------------------------------------------------------------------

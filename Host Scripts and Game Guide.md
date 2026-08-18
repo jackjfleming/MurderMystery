@@ -21,17 +21,14 @@ The killer is standing in this room right now. We will examine the evidence in t
 
 ---
 
-## **🔍 Round 1 Host Script: The Three Competing Tracks**
+## **🔍 Round 1 Host Script: Multiple Conflicting Clues**
 
 **Host Setup:** Whitney places the Round 1 Evidence Packet on the central Evidence Table (Terminal Access Log, Preliminary Incident Dossier, Curator's Audit Notes, Key Clearance Register). Whitney hands each girl her **Round 1 Script Slip**.
 
 **HOST SCRIPT — ROUND 1 (Detective Jack):**  
 "Welcome to Round 1 of our investigation.  
 The preliminary crime scene notes and terminal access logs are now available on the Evidence Table. As you inspect the evidence, talk to one another and compare notes.  
-Notice that the crime scene presents **three distinct possibilities**:
-1. **Track A (Stabbing):** Was John attacked in the hallway before he entered?
-2. **Track B (Poisoned Drink):** Was he poisoned by the mysterious tea cup sitting on his desk?
-3. **Track C (Contact Poison):** Did he touch something lethal on the gallery display case?
+We have several conflicting clues right from the start: an argument in the hallway with a torn sleeve, a suspicious tea cup on his study desk, and his sudden collapse the second his palm touched the gallery display lock!  
 Someone also made an unlogged entry through the courtyard window right before we arrived.  
 Your goal in Round 1: Figure out who had motives, cross-examine everyone's arrival times, and check key clearances! Read your Round 1 scripts and start interrogating!"
 
@@ -39,12 +36,12 @@ Your goal in Round 1: Figure out who had motives, cross-examine everyone's arriv
 
 ## **🔬 Round 2 Host Script: UV Blacklight Book Hunt & Red Herrings**
 
-**Host Setup:** Whitney drops Round 2 Evidence (Desk Tea Cup #5, Exacto Blade in bag #6, Courtyard Lens Cap #7). Whitney hands out **4 UV Blacklight Flashlights** and the **Round 2 Script Slips**.
+**Host Setup:** Whitney drops Round 2 Evidence (Desk Tea Cup #5, Discarded Fountain Pen in bag #6, Courtyard Lens Cap #7). Whitney hands out **4 UV Blacklight Flashlights** and the **Round 2 Script Slips**.
 
 **HOST SCRIPT — ROUND 2 (Detective Jack):**  
 "We are now entering Round 2.  
-The physical evidence is getting complicated! On the Curator's desk, we found a tea cup smelling strongly of bitter almond and herbal extracts. In the hallway trash, investigators found a discarded craft blade. And outside the courtyard window, Sarah's camera lens cap was recovered from the window sill.  
-Was he stabbed in the hallway? Poisoned through his tea? Or is there another delivery method?  
+The physical evidence is getting complicated! On the Curator's desk, we found a tea cup smelling strongly of bitter almond and herbal extracts. In the hallway trash, investigators found a discarded vintage fountain pen with a sharp nib. And outside the courtyard window, Sarah's camera lens cap was recovered from the window sill.  
+Was he attacked in the hallway? Poisoned through his tea? Or did something else happen at the gallery display?  
 To help you uncover the truth, Archivist Whitney is handing out **UV Blacklight Flashlights**. There are invisible letters hidden across 6 vintage book spines near the display. Find the glowing letters, unscramble the word, and reveal the exact delivery method that killed the Curator!  
 Review your Round 2 scripts, cross-examine those with chemical knowledge, and solve the blacklight clue!"
 
@@ -56,7 +53,7 @@ Review your Round 2 scripts, cross-examine those with chemical knowledge, and so
 
 **HOST SCRIPT — ROUND 3 (Detective Jack):**  
 "This is Round 3—our final round of investigation before voting!  
-The lab results are in! Forensic analysis confirms that the scratch on the Curator's arm was completely clean and non-toxic—ruling out Track A! Furthermore, the desk tea cup was found 100% full and untasted because John quit caffeinated tea weeks ago—ruling out Track B!  
+The lab results are in! Forensic analysis confirms that the scratch on the Curator's arm was completely clean and non-toxic—ruling out the hallway altercation! Furthermore, the desk tea cup was found 100% full and untasted because John quit caffeinated tea weeks ago—ruling out poisoned drink!  
 The lethal dose was a **dermal contact poison** on the brass lock of Item RB-1147—specifically, an organomercury-based archival fumigation compound that is lethally toxic through skin contact! Crucially, the crime lab notes that this compound is **naturally UV-fluorescent**!  
 Take your UV flashlights and inspect the Chemical Preservation Kit on our display table! Find which jar glows under UV light!  
 Then, take the laser-cut wooden overlay mask and place it over the Curator's handwritten note to decrypt his secret message!  
@@ -75,13 +72,13 @@ Cross-reference all 6 Proof Pillars, fill out your Voting Ballots, and cast your
 "Tonight's mystery began at the Starlight Circle inside the Starlight Archives. Writers, scholars, and insiders gathered for an exclusive after-hours meeting built around access, reputation, and dangerous knowledge.  
 Everyone arrived expecting the 12:00 AM presentation—the moment when the archives' most restricted vault would open. But moments after stepping through the doors, the Curator collapsed dead at the threshold of the Rare Books Gallery."
 
-**PART 2: The Red Herrings (Tracks A & B)**  
+**PART 2: The Red Herrings**  
 "At first, suspicion pointed in every direction.  
-Did Maddie or Victoria stab him with a craft cutter in the corridor? No—forensics proved the arm scratch was a superficial tussle and 100% non-toxic.  
+Did Victoria deliberately stab him with her sharp fountain pen during their furious corridor confrontation? Victoria certainly struck him in a panic! But forensics proved the arm puncture was filled with regular fountain pen ink and was 100% non-toxic.  
 Did Hope poison his desk tea with bitter almond extract? Hope certainly tried! But John gave up caffeinated tea weeks ago on his doctor's orders—the cup remained completely untouched.  
 The real murder weapon was waiting for him at the gallery display lock."
 
-**PART 3: The Truth Unraveled (Track C)**  
+**PART 3: The Truth Unraveled**  
 "The toxicology report confirmed the lethal dose was an organomercury-based archival fumigation compound—a legitimate preservation chemical used to protect rare manuscripts from bookworm and mold—coated directly onto the brass lock of Catalog Item RB-1147.  
 When we shined our UV blacklights on the Chemical Preservation Kit, **Jar E—the Archival Fumigation & Anti-Pest Sealant**—glowed bright neon green!  
 Now, TWO people in this circle had CATCH chemical certification and Chemical Kit access: Charlotte, the Rare Book Specialist, and Raelin, the Keeper of Keys. Both knew that Jar E was lethally toxic through skin contact. Charlotte even borrowed Master Key #000 earlier this afternoon, raising suspicions that she might have used it or made a wax copy!  
@@ -106,7 +103,7 @@ If the energy slows down or a guest seems shy, Jack or Whitney can casually walk
 | Suspect / Guest | Round | Host Whispering Prompt |
 | :--- | :---: | :--- |
 | **Hope** | R1/R2 | *"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"* |
-| **Victoria / Maddie** | R1/R2 | *"Notice John's sleeve? Ask Maddie what they were shouting about in the hallway, or ask Victoria why she had an exacto blade!"* |
+| **Victoria / Maddie** | R1/R2 | *"Notice John's sleeve? Ask Maddie what they were shouting about in the hallway, or ask Victoria why she threw away a fountain pen!"* |
 | **Sarah** | R2 | *"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"* |
 | **Ellie** | R2/R3 | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"* |
 | **Lucy / Christina** | R2 | *"Lucy was adjusting lighting and Christina was at the console. Ask them who they saw walking near the Curator's desk!"* |
