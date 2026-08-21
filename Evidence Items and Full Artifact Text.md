@@ -192,14 +192,14 @@ LAB FINDINGS & ANALYSIS:
 ```text
 To the members of the Starlight Circle,
 
-As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred. We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated Item RB-1147 to mask their unlogged entry into the vault.
+As we gather tonight, I must remind you that the privileges within these archives are sacred. Recent audits reveal unauthorized access to the secure vault case of Item RB-1147 in our restricted collection repository.
 
-Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to light.
+Tonight, the vault lock will be examined. If you hoped to hide tracks, you was mistaken. Anything that was tampered with will be brought to light before this gathering ends.
 
 — The Curator
 ```
 
-*(Note for Hosts: The ungrammatical phrase "you was sorely mistaken" was deliberately planted by John as an intentional anomaly to signal a hidden cipher!)*
+*(Note for Hosts: The ungrammatical phrase "you was mistaken" was deliberately planted by John as an intentional anomaly to signal a hidden cipher!)*
 
 **Revealed Message when Overlay Mask is Placed on Note:**
 ```
