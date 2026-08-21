@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Starlight Archives — 16 Printable Character Dossiers</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=JetBrains+Mono:wght@400;600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=JetBrains+Mono:wght@400;600;700&display=swap');
 
   @page {
     size: letter portrait;
@@ -23,6 +23,8 @@
     background: #ffffff;
     font-size: 13pt;
     line-height: 1.35;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
   .dossier-page {
@@ -33,7 +35,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 0.25in;
+    padding: 0.28in;
     border: 3px double #2c3e50;
     position: relative;
     background: #faf8f5;
@@ -55,7 +57,7 @@
     text-align: center;
     border-bottom: 2px solid #2c3e50;
     padding-bottom: 8px;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
   }
 
   .header-institution {
@@ -68,7 +70,7 @@
 
   .header-name {
     font-family: 'Cinzel', serif;
-    font-size: 22pt;
+    font-size: 23pt;
     font-weight: 800;
     color: #111827;
     letter-spacing: 1px;
@@ -89,19 +91,19 @@
   }
 
   .section {
-    margin-bottom: 9px;
+    margin-bottom: 12px;
   }
 
   .section-title {
     font-family: 'Cinzel', serif;
-    font-size: 11pt;
+    font-size: 11.5pt;
     font-weight: 700;
     color: #2c3e50;
     text-transform: uppercase;
     letter-spacing: 1px;
     border-bottom: 1px solid #d5c8b5;
     padding-bottom: 2px;
-    margin-bottom: 4px;
+    margin-bottom: 5px;
     display: flex;
     align-items: center;
     gap: 6px;
@@ -109,23 +111,25 @@
 
   .section-body {
     text-align: justify;
+    font-size: 12.5pt;
+    line-height: 1.35;
   }
 
   .secret-box {
     background: #fdf2f2;
     border: 1.5px dashed #991b1b;
-    padding: 8px 12px;
+    padding: 10px 14px;
     border-radius: 4px;
-    margin: 6px 0;
+    margin: 10px 0;
   }
 
   .secret-title {
     font-family: 'Cinzel', serif;
-    font-size: 10.5pt;
+    font-size: 11pt;
     font-weight: 700;
     color: #991b1b;
     letter-spacing: 1px;
-    margin-bottom: 3px;
+    margin-bottom: 4px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -135,7 +139,7 @@
     background: #991b1b;
     color: #ffffff;
     font-size: 7.5pt;
-    padding: 1px 6px;
+    padding: 2px 7px;
     border-radius: 2px;
     font-family: 'JetBrains Mono', monospace;
     text-transform: uppercase;
@@ -145,37 +149,17 @@
     color: #450a0a;
     font-style: italic;
     font-size: 12pt;
-    line-height: 1.3;
-  }
-
-  .objectives-list {
-    list-style: none;
-    padding-left: 0;
-  }
-
-  .objectives-list li {
-    position: relative;
-    padding-left: 18px;
-    margin-bottom: 2px;
-    font-size: 11.5pt;
-  }
-
-  .objectives-list li::before {
-    content: "◆";
-    position: absolute;
-    left: 0;
-    color: #8b7355;
-    font-size: 9pt;
+    line-height: 1.35;
   }
 
   .footer-box {
     background: #eef2f6;
     border-top: 1px solid #cbd5e1;
-    padding: 6px 10px;
+    padding: 6px 12px;
     font-size: 9.5pt;
     color: #334155;
     border-radius: 3px;
-    margin-top: 4px;
+    margin-top: 6px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -190,18 +174,157 @@
     color: #1e293b;
   }
 
+  /* HOST REFERENCE / CHEAT SHEET PAGES */
+  .host-page {
+    page-break-after: always;
+    break-after: page;
+    height: 10in;
+    max-height: 10in;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.28in;
+    border: 3px double #78350f;
+    position: relative;
+    background: #fdfbf7;
+  }
+
+  .host-page::before {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    border: 1px solid #b45309;
+    pointer-events: none;
+  }
+
+  .host-header {
+    text-align: center;
+    border-bottom: 2px solid #78350f;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+  }
+
+  .host-badge-top {
+    display: inline-block;
+    background: #78350f;
+    color: #fef3c7;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 8pt;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 3px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+  }
+
+  .host-title {
+    font-family: 'Cinzel', serif;
+    font-size: 16pt;
+    font-weight: 900;
+    color: #451a03;
+    letter-spacing: 1px;
+  }
+
+  .host-subtitle {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 10pt;
+    color: #78350f;
+  }
+
+  .host-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 10px;
+    flex-grow: 1;
+  }
+
+  .host-card {
+    background: #ffffff;
+    border: 1px solid #d5c8b5;
+    border-left: 3.5px solid #78350f;
+    border-radius: 3px;
+    padding: 6px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 8.5pt;
+    line-height: 1.25;
+  }
+
+  .host-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px dashed #e2d9cc;
+    padding-bottom: 2px;
+    margin-bottom: 3px;
+  }
+
+  .host-card-name {
+    font-family: 'Cinzel', serif;
+    font-weight: 800;
+    font-size: 9.5pt;
+    color: #0f172a;
+  }
+
+  .host-card-track {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 7pt;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 2px;
+    text-transform: uppercase;
+  }
+
+  .track-culprit { background: #fee2e2; color: #991b1b; border: 1px solid #f87171; }
+  .track-redherring { background: #fef3c7; color: #92400e; border: 1px solid #fcd34d; }
+  .track-witness { background: #e0f2fe; color: #075985; border: 1px solid #7dd3fc; }
+  .track-innocent { background: #f1f5f9; color: #334155; border: 1px solid #cbd5e1; }
+
+  .host-card-item {
+    margin-bottom: 3px;
+  }
+
+  .host-card-item strong {
+    color: #1e293b;
+    font-family: 'Cinzel', serif;
+    font-size: 8pt;
+  }
+
+  .host-footer-box {
+    background: #fef3c7;
+    border-top: 1px solid #d97706;
+    padding: 4px 10px;
+    font-size: 8.5pt;
+    color: #78350f;
+    border-radius: 3px;
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
   @media screen {
     body {
       background: #4a5568;
       padding: 20px;
     }
-    .dossier-page {
+    .dossier-page, .host-page {
       background: #faf8f5;
       margin: 0 auto 30px auto;
       box-shadow: 0 10px 25px rgba(0,0,0,0.3);
       width: 8.5in;
       height: 11in;
       padding: 0.5in;
+    }
+    .host-page {
+      background: #fdfbf7;
     }
   }
 </style>
@@ -224,7 +347,7 @@
     <div class="section">
       <div class="section-title">📜 Role & Archival Responsibilities</div>
       <div class="section-body">
-        You oversee restricted access keys, vault locks, and movement logs within the Starlight Archives. You also hold safety certification for handling historical preservation chemicals.
+        You oversee restricted access keys, vault locks, and movement logs within the Starlight Archives. You also hold safety certification for handling historical preservation chemicals and managing rare book conservation equipment.
       </div>
     </div>
 
@@ -246,19 +369,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Legacy:</strong> Keep your 1926 family scandal hidden and deflect suspicion away from your master keys.</li>
-        <li><strong>Investigate Other Members:</strong> Find out who had unlogged access to the gallery and cross-examine their stated arrival times.</li>
-        <li><strong>Solve the Crime:</strong> Work with the circle to identify the delivery method and the true killer!</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 1 OF 16</strong></div>
   </div>
@@ -302,19 +426,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Deflect Suspicion:</strong> Divert attention away from missing conduct files and "The Biscuit Incident."</li>
-        <li><strong>Check the Logs:</strong> Cross-reference everyone's stated arrival times against official entrance records.</li>
-        <li><strong>Track Master Keys:</strong> Identify who possessed physical master keys capable of opening window latches without digital logs.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 2 OF 16</strong></div>
   </div>
@@ -358,19 +483,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Gear:</strong> Deflect suspicion away from your camera equipment and the courtyard window.</li>
-        <li><strong>Establish Your Location:</strong> Prove that taking photos from the garden path is not the same as climbing inside.</li>
-        <li><strong>Identify the True Poison:</strong> Help determine who had the chemical capability to poison the lock.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 3 OF 16</strong></div>
   </div>
@@ -414,19 +540,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Sources:</strong> Hide the embarrassing truth about your upcoming Tumblr ritual exposé.</li>
-        <li><strong>Uncover Blackmail:</strong> Investigate what secrets the Curator was holding over other circle members.</li>
-        <li><strong>Clear Your Inks:</strong> Prove your printing press ink smudges have nothing to do with toxic chemicals.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 4 OF 16</strong></div>
   </div>
@@ -470,19 +597,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Clarify Key Access:</strong> Explain that you returned Master Key #000 at 5:00 PM and only hold Keycard #005 tonight.</li>
-        <li><strong>Deflect Suspicion:</strong> Account for your archive tags and emphasize that you have no vault case clearance.</li>
-        <li><strong>Leverage Your Alibi:</strong> Use your verified intake desk alibi with Georgia (23:35–23:50) to clear your name!</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 5 OF 16</strong></div>
   </div>
@@ -526,19 +654,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Keep the Tape Secret:</strong> Never admit to the leaked election recording.</li>
-        <li><strong>Deflect Console Scrutiny:</strong> Explain that an aborted console log is just a digital software error.</li>
-        <li><strong>Focus on Chemical Skills:</strong> Point the circle toward suspects who have professional chemical handling certifications.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 6 OF 16</strong></div>
   </div>
@@ -582,19 +711,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Conceal the Attack:</strong> Keep your deliberate hallway fountain pen attack strictly confidential!</li>
-        <li><strong>Rely on Your Alibi:</strong> Demonstrate that you were reading in the main hall with witnesses before arrival.</li>
-        <li><strong>Redirect Attention:</strong> Direct attention toward other suspicious clues (like the desk tea cup or display case) to clear your name!</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 7 OF 16</strong></div>
   </div>
@@ -638,19 +768,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Explain the Pick Wire:</strong> Prove that your lock picking was purely mechanical and done days ago.</li>
-        <li><strong>Inspect the Tumblers:</strong> Prove that the lock on Case RB-1147 was turned by an authentic master key, not pick wires.</li>
-        <li><strong>Highlight Chemical Ignorance:</strong> Point out that you have zero chemical preservation or toxin training.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 8 OF 16</strong></div>
   </div>
@@ -694,19 +825,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Recordings:</strong> Hide the hilarious recording of the Curator's musical theater sessions.</li>
-        <li><strong>Cross-Examine Suspects:</strong> Interrogate members about their whereabouts during the 15-minute prep gap (23:30–23:45).</li>
-        <li><strong>Assemble the 6 Pillars:</strong> Piece together motive, key clearance, and chemical capability to catch the culprit!</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 9 OF 16</strong></div>
   </div>
@@ -750,19 +882,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Conceal Plagiarism:</strong> Hide your plagiarism scandal and keep your bitter almond attempt secret.</li>
-        <li><strong>Highlight Untouched Tea:</strong> Point out that the desk tea was full and untouched, ruling out ingested poison.</li>
-        <li><strong>Prove Lack of Access:</strong> Demonstrate that you had no master keys to access Item RB-1147 in the vault.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 10 OF 16</strong></div>
   </div>
@@ -806,19 +939,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Secret:</strong> Keep the gum-stuck index cards under your desk completely hidden.</li>
-        <li><strong>Corroborate Charlotte's Alibi:</strong> Testify that Charlotte was seated beside you at the intake desk from 23:35 to 23:50.</li>
-        <li><strong>Highlight Role Limitations:</strong> Remind the circle that paper archivists have zero chemical conservation training.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 11 OF 16</strong></div>
   </div>
@@ -862,19 +996,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Alias:</strong> Protect your identity as "The Midnight Quill."</li>
-        <li><strong>Share Garden Sighting:</strong> Testify that Sarah stayed on the garden path and never climbed through the window.</li>
-        <li><strong>Follow the Keys:</strong> Focus the investigation on who possessed physical master keys to the window and vault cases.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 12 OF 16</strong></div>
   </div>
@@ -918,19 +1053,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Clarify the Tussle:</strong> Prove your hallway argument was purely verbal and that the sleeve tear was an accident.</li>
-        <li><strong>Testify to John's Vitality:</strong> Confirm John entered the building alive, alert, shouting, and walking.</li>
-        <li><strong>Focus on the Archway:</strong> Direct attention toward what happened at the gallery archway where John collapsed, rather than your hallway argument.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 13 OF 16</strong></div>
   </div>
@@ -969,24 +1105,25 @@
         <span class="secret-badge">Top Secret • Keep Hidden</span>
       </div>
       <div class="secret-body">
-        You submitted a fake community service certificate claiming you organized a 2,000-book charity drive. In reality, you collected 23 books from your garage (mostly old Reader's Digest editions and a water-damaged copy of Eat, Pray, Love) and photoshopped two zeros onto the donation receipt! John pulled the original!
+        You submitted a fake community service certificate claiming you organized a 2,000-book charity drive. In reality, you collected 23 books from your garage (mostly old Reader's Digest editions and a water-damaged copy of <em>Eat, Pray, Love</em>) and photoshopped two zeros onto the donation receipt! John pulled the original!
       </div>
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Image:</strong> Protect your squeaky-clean reputation and keep your fake book drive secret.</li>
-        <li><strong>Highlight Lack of Access:</strong> Emphasize that you carry zero access keys and have no chemical training.</li>
-        <li><strong>Compare Alibis:</strong> Talk with other guests to compare alibis and find out who had unmonitored access before the party started.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 14 OF 16</strong></div>
   </div>
@@ -1030,19 +1167,20 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Protect Your Decor:</strong> Deflect attention away from your Amazon Prime reproduction paintings.</li>
-        <li><strong>Distinguish Solvents:</strong> Prove that your display lighting solvents smell nothing like lethal contact toxins.</li>
-        <li><strong>Clarify Key Scope:</strong> Confirm that your Lighting Key (#011) cannot open vault cases or window latches.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 15 OF 16</strong></div>
   </div>
@@ -1086,21 +1224,318 @@
     </div>
 
     <div class="section">
-      <div class="section-title">🎯 Your Investigation Objectives</div>
-      <ul class="objectives-list">
-        <li><strong>Overcome Your Fear:</strong> Hide your panic about the Curator's safe dossier.</li>
-        <li><strong>Act as Key Catalyst:</strong> Share what you saw outside at the courtyard window sill before the doors opened.</li>
-        <li><strong>Anchor the Timeline:</strong> Confirm that John was clutching his arm upon entry, but only collapsed when touching the brass lock.</li>
-      </ul>
+      <div class="section-title">🕵️ How to Play & Investigation Guidelines</div>
+      <div class="section-body">
+        <p style="margin-bottom: 4px;">• <strong>Talk & Interrogate:</strong> Mingle with other guests, ask about their conversations with John, and cross-reference arrival times.</p>
+        <p style="margin-bottom: 4px;">• <strong>Protect Your Secret:</strong> Keep your confidential secret safe—deflect questions if someone presses you, but never lie about public facts.</p>
+        <p style="margin-bottom: 4px;">• <strong>Inspect the Evidence:</strong> Examine each round's physical evidence drops, access logs, and forensic lab reports on the central table.</p>
+        <p>• <strong>Follow Round Slips:</strong> Archivist Whitney will hand you custom Dialogue & Witness Slips at the start of each round with new clues to share!</p>
+      </div>
     </div>
   </div>
 
   <div class="footer-box">
     <div class="footer-rules">
       <div class="footer-rule-item">💡 <strong>Deflect:</strong> Never confess your secret voluntarily.</div>
-      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Whitney will hand you custom Dialogue & Witness Slips each round!</div>
+      <div class="footer-rule-item">🗣️ <strong>Interact:</strong> Compare alibis and examine physical evidence drops!</div>
     </div>
     <div><strong>PAGE 16 OF 16</strong></div>
+  </div>
+</div>
+
+<!-- ========================================================================================= -->
+<!-- HOST FACILITATOR REFERENCE PAGES (DO NOT DISTRIBUTE TO GUESTS)                            -->
+<!-- ========================================================================================= -->
+
+<!-- HOST REFERENCE PAGE 1: CHARACTERS 1-8 -->
+<div class="host-page">
+  <div>
+    <div class="host-header">
+      <div class="host-badge-top">FACILITATOR ONLY • CONFIDENTIAL HOST CHEAT-SHEET</div>
+      <div class="host-title">INVESTIGATION OUTCOMES & EMERGENCY HINTS</div>
+      <div class="host-subtitle">Part 1: Suspect Outcomes & Steering Guidance (Characters 1–8) • For Detective Jack & Whitney</div>
+    </div>
+
+    <div class="host-grid">
+      <!-- 1. RAELIN -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">1. RAELIN</span>
+          <span class="host-card-track track-culprit">Track 3 • CULPRIT</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Deflects from Master Key #000 and 1926 ferret scandal. Primary suspect satisfying all 6 Proof Pillars (Master Key #000 + CATCH chemical certification + 15-min prep gap 23:30–23:45).
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Both Raelin and Charlotte know Jar E! But which one possessed Master Key #000 tonight and was unaccounted for during the 15-minute prep gap?"</em>
+        </div>
+      </div>
+
+      <!-- 2. CLAIRE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">2. CLAIRE</span>
+          <span class="host-card-track track-innocent">Track 3 • EXONERATED</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Deflects "The Biscuit Incident." Exonerated by front desk entrance log (23:30 onward) & card key only (no physical master key or chemical access).
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Claire how physical master keys differ from electronic RFID cards when opening window latches!"</em>
+        </div>
+      </div>
+
+      <!-- 3. SARAH -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">3. SARAH</span>
+          <span class="host-card-track track-redherring">Track 3 • RED HERRING</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Deflects dropped lens cap. Exonerated by Vale & Kaitlin who confirm Sarah stayed on garden path taking telephoto photos and never opened or entered the window.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"</em>
+        </div>
+      </div>
+
+      <!-- 4. BROOKLYN -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">4. BROOKLYN</span>
+          <span class="host-card-track track-innocent">General • EXONERATED</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides Tumblr initiation scandal. Exonerated by public reading pass (zero key clearance) & printing press ink is completely non-toxic.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Brooklyn what other secrets John was holding over members to understand everyone's motives!"</em>
+        </div>
+      </div>
+
+      <!-- 5. CHARLOTTE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">5. CHARLOTTE</span>
+          <span class="host-card-track track-redherring">Track 3 • RED HERRING</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Returned Master Key #000 at 5:00 PM. Prime chemical red herring (CATCH certified), but decisively exonerated by verified front desk alibi with Georgia (23:35–23:50).
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Charlotte had the master key earlier today and has CATCH certification! Ask her where she was during the prep window and when she returned the key!"</em>
+        </div>
+      </div>
+
+      <!-- 6. CHRISTINA -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">6. CHRISTINA</span>
+          <span class="host-card-track track-redherring">Track 2 • EXONERATED</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides leaked election tape. Exonerated by public reading pass (no keys) & was merely reviewing debate notes at console near John's study desk.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Christina was seen near the console—ask her what she was reviewing and who she saw walking near John's study desk!"</em>
+        </div>
+      </div>
+
+      <!-- 7. VICTORIA -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">7. VICTORIA</span>
+          <span class="host-card-track track-redherring">Track 1 • RED HERRING</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Conceals hallway fountain pen strike. Prime physical red herring, but decisively exonerated by toxicology confirming arm puncture was 100% non-toxic ink.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Notice John's torn sleeve and puncture? Ask Victoria why she threw away a fountain pen, then check the toxicology report!"</em>
+        </div>
+      </div>
+
+      <!-- 8. ELLIE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">8. ELLIE</span>
+          <span class="host-card-track track-witness">Track 3 • EXPERT</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Explains lock picking days ago. Key technical deduction expert: proves Case RB-1147 was turned by original Master Key #000 (not pick wires or wax copies). Zero chemical skills.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="host-footer-box">
+    <span>STARLIGHT ARCHIVES • FACILITATOR INVESTIGATION GUIDE</span>
+    <span>HOST CHEAT-SHEET • PAGE 17 OF 18</span>
+  </div>
+</div>
+
+<!-- HOST REFERENCE PAGE 2: CHARACTERS 9-16 -->
+<div class="host-page">
+  <div>
+    <div class="host-header">
+      <div class="host-badge-top">FACILITATOR ONLY • CONFIDENTIAL HOST CHEAT-SHEET</div>
+      <div class="host-title">INVESTIGATION OUTCOMES & EMERGENCY HINTS</div>
+      <div class="host-subtitle">Part 2: Suspect Outcomes & Steering Guidance (Characters 9–16) • For Detective Jack & Whitney</div>
+    </div>
+
+    <div class="host-grid">
+      <!-- 9. GIANNA -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">9. GIANNA</span>
+          <span class="host-card-track track-witness">Track 2 • SLEUTH</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides Wicked audio recording. Smelled bitter almond in breakroom (Hope) and prompts players to interrogate the 15-minute prep gap (23:30–23:45).
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Gianna what she smelled in the breakroom earlier, or what leads she discovered about the 15-minute prep gap!"</em>
+        </div>
+      </div>
+
+      <!-- 10. HOPE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">10. HOPE</span>
+          <span class="host-card-track track-redherring">Track 2 • RED HERRING</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides plagiarism & failed almond tea attempt. Prime tea red herring, but exonerated because John quit caffeinated tea weeks ago and the cup was completely untasted.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"</em>
+        </div>
+      </div>
+
+      <!-- 11. GEORGIA -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">11. GEORGIA</span>
+          <span class="host-card-track track-witness">Track 3 • ALIBI WITNESS</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides gum-stuck index cards. Provides ironclad alibi confirming Charlotte was logged in at the intake desk with her from 23:35 to 23:50. Zero chemical training.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Georgia who was sitting with her at the front intake desk during the critical 15-minute prep window!"</em>
+        </div>
+      </div>
+
+      <!-- 12. KAITLIN -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">12. KAITLIN</span>
+          <span class="host-card-track track-witness">Track 3 • EYEWITNESS</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides "Midnight Quill" alias. Eyewitness confirming Sarah stayed on garden path and never opened window; directs attention to who held physical master keys.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Kaitlin what she observed outside in the courtyard garden from the reading alcove!"</em>
+        </div>
+      </div>
+
+      <!-- 13. MADDIE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">13. MADDIE</span>
+          <span class="host-card-track track-redherring">Track 1 • WITNESS</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Explains ripped coat sleeve was an accidental grab during verbal argument. Testifies John entered building alive, alert, shouting, and on his own two feet.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Notice John's torn sleeve? Ask Maddie what they were shouting about in the hallway before he entered!"</em>
+        </div>
+      </div>
+
+      <!-- 14. RUTHANNE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">14. RUTHANNE</span>
+          <span class="host-card-track track-witness">Track 3 • EYEWITNESS</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides fake book drive receipt. Crucial eyewitness who saw Raelin hurriedly leaving the conservation supply room right before front doors opened.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Ruthanne who she saw rushing out of the conservation supply room right before the front doors opened!"</em>
+        </div>
+      </div>
+
+      <!-- 15. LUCY -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">15. LUCY</span>
+          <span class="host-card-track track-innocent">Track 2 • EXONERATED</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Hides Amazon Prime print barcode. Explains step-stool was for lighting adjustment; Lighting Key (#011) has no vault/window access and display solvents are non-toxic.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Lucy was on a step-stool near John's desk—ask her what she was adjusting and whether her lighting key opens display locks!"</em>
+        </div>
+      </div>
+
+      <!-- 16. VALE -->
+      <div class="host-card">
+        <div class="host-card-header">
+          <span class="host-card-name">16. VALE</span>
+          <span class="host-card-track track-witness">Track 3 • CRUCIAL SCENE WITNESS</span>
+        </div>
+        <div class="host-card-item">
+          <strong>🎯 Target Investigation Outcome:</strong>
+          Overcomes fear of safe dossier. Crucial witness anchoring that John only collapsed when his palm touched Case RB-1147's brass lock, and spotted suspicious courtyard window movement.
+        </div>
+        <div class="host-card-item">
+          <strong>💡 Host Emergency Prompt (If Stuck):</strong>
+          <em>"Ask Vale exactly what happened the moment John reached the gallery archway, and what Vale noticed at the courtyard window!"</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="host-footer-box">
+    <span>STARLIGHT ARCHIVES • FACILITATOR INVESTIGATION GUIDE</span>
+    <span>HOST CHEAT-SHEET • PAGE 18 OF 18</span>
   </div>
 </div>
 

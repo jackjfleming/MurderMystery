@@ -15,7 +15,7 @@ TITLE: Keeper of Keys                           SPECIALTY: Vault Locks & Conserv
 📜 ROLE DESCRIPTION:
 You oversee restricted access keys, vault locks, and movement logs within the 
 Starlight Archives. You also hold safety certification for handling historical 
-preservation chemicals.
+preservation chemicals and rare book conservation equipment.
 
 🏛️ YOUR BACKGROUND & WHAT YOU KNOW:
 Over the past week, the Curator questioned you about access logs, warning that 
@@ -29,14 +29,10 @@ great-grandfather Arthur committed fraud to steal the hereditary Keeper of Keys
 title! John warned you earlier today that he was exposing your family's scandal 
 at midnight and revoking your keys in front of the entire Starlight Circle!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Protect your family's name and deflect suspicion away from your master keys.
-2. Investigate other members to find out who had unlogged access to the gallery.
-3. Help solve the murder to clear your name!
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -69,14 +65,10 @@ rations." The Curator caught you the next morning surrounded by crumbs, asleep
 on a first-edition copy of Paradise Lost. He filed a formal report titled 
 "The Biscuit Incident," and you've been secretly trying to destroy every copy!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Deflect attention away from missing conduct files and "The Biscuit Incident."
-2. Cross-reference everyone's stated arrival times against official door logs.
-3. Identify who possessed physical master keys capable of opening windows.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -107,14 +99,10 @@ telephoto photos of restricted manuscripts through the gallery glass. In your
 haste to avoid being spotted, you accidentally dropped your camera lens cap 
 somewhere near the exterior window ledge!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Deflect suspicion away from your camera equipment and the courtyard window.
-2. Prove that taking photos from the garden path is not the same as entering.
-3. Find out who actually had physical access to touch Item RB-1147.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -145,14 +133,10 @@ initiation ritual" was copied word-for-word from a 2016 Tumblr roleplay post tit
 with the original author's comment: "lol I wrote this in 20 min during study hall." 
 John issued the legal order specifically to prevent the screenshots from leaking!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Hide the embarrassing truth about your upcoming Tumblr ritual exposé.
-2. Investigate what secrets the Curator was holding over other circle members.
-3. Prove your printing press ink smudges have nothing to do with contact poisons.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -182,14 +166,10 @@ worried about your career, only for John to collapse moments after entering.
 You have been secretly appraising restricted archive manuscripts for private 
 collectors on the side to pay off personal debts.
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Explain that you returned Master Key #000 at 5:00 PM and only hold Keycard #005 tonight.
-2. Deflect suspicion about borrowing the master key and explain your archive tags.
-3. Use your verified front intake desk alibi with Georgia (23:35–23:50) to clear your name!
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -217,14 +197,10 @@ to reveal it tonight. Moments after arriving, he collapsed at the gallery archwa
 The Curator held a cassette tape recording proving you leaked secret society 
 election votes to rival clubs in exchange for debate tournament perks.
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Keep the existence of the leaked voting tape strictly confidential.
-2. Deflect suspicion away from the central terminal console where you were seen.
-3. Point the investigation toward suspects with chemical preservation skills.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -257,14 +233,10 @@ John in the forearm with your sharp fountain pen! In a terrified panic, you toss
 the fountain pen into the hallway trash. When John collapsed clutching his arm, you 
 feared your violent strike might have actually killed him!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Keep your deliberate hallway fountain pen attack strictly confidential!
-2. Demonstrate that you were reading in the main hall with witnesses before arrival.
-3. Direct attention toward other suspicious clues (like the desk tea cup or display case) to clear your name!
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -292,14 +264,10 @@ tonight to apologize, but John collapsed before you could speak.
 You attempted to pick the display case lock earlier this week out of pure 
 mechanical curiosity, leaving a scratched lock pick wire near the side entrance.
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Explain that your lock picking was purely mechanical and done days ago.
-2. Prove that the lock on Case RB-1147 was opened with a master key, not picks.
-3. Highlight that you have zero chemical preservation training.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -329,14 +297,10 @@ Your "wiretap" was your phone hidden in a potted fern in John's office. It recor
 passionately belting out the Wicked soundtrack when he thought he was alone. 
 You have heard his solo rendition of "Defying Gravity" eleven times!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Hide the hilarious recording of the Curator's musical theater sessions.
-2. Cross-examine suspects about their movements during the 15-minute prep gap.
-3. Piece together the 6 Proof Pillars to catch the real culprit!
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -365,14 +329,10 @@ The Curator found proof that your award-winning novel was plagiarized line-for-l
 from an uncataloged 19th-century manuscript in the vault! Panicked, you tried to 
 spike his desk tea earlier with bitter almond extract—but he never drank it!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Hide your plagiarism scandal and keep the bitter almond attempt secret.
-2. Point out that the desk tea was full and untouched, ruling out food/drink.
-3. Prove you had no master keys to access Item RB-1147 in the vault.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -402,14 +362,10 @@ wad of gum! Three months ago, you were chewing gum (strictly forbidden), panicke
 when John walked in, stuck it under the desk, and accidentally pressed vital index 
 cards into it. You've been terrified to confess!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Keep the gum-stuck index cards under your desk completely secret.
-2. Verify that Charlotte was seated right beside you at the intake desk (23:35–23:50).
-3. Highlight that you have zero chemical conservation training.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -439,14 +395,10 @@ You've been writing anonymous attack columns in Brooklyn's zine under the pen na
 personally created! John matched your handwriting and was going to expose you as 
 both the architect and anonymous critic of every unpopular Circle policy!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Protect your identity as "The Midnight Quill."
-2. Share what you saw outside in the courtyard garden from the reading alcove.
-3. Focus the investigation on who possessed physical master keys.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -474,14 +426,10 @@ near where you fought, you panicked—moments before he collapsed dead.
 During your heated argument earlier today, you grabbed John's coat sleeve in 
 frustration, accidentally ripping the sleeve fabric!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Prove your hallway argument was purely verbal and non-toxic.
-2. Testify that John entered the building alive, alert, shouting, and walking.
-3. Direct attention toward what happened at the gallery archway where John collapsed, rather than your hallway argument.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -511,14 +459,10 @@ You submitted a fake community service certificate claiming you organized a
 (mostly old Reader's Digest editions and a water-damaged copy of Eat, Pray, Love) 
 and photoshopped two zeros onto the donation receipt! John pulled the original!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Protect your squeaky-clean reputation and keep your fake book drive secret.
-2. Emphasize that you carry zero access keys and have no chemical training.
-3. Talk with other guests to compare alibis and find out who had unmonitored access before the party started.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -547,14 +491,10 @@ You replaced a genuine 1890s oil painting in the Reading Room with a $12.99 Amaz
 print because it matched your new LED lighting better. John caught you because the 
 Amazon Prime shipping barcode was still stuck to the back of the picture frame!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Deflect attention away from your Amazon Prime reproduction paintings.
-2. Prove that your display lighting solvents smell nothing like contact toxins.
-3. Confirm that your Lighting Key (#011) cannot open vault cases or window latches.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
@@ -583,15 +523,35 @@ You saw John hiding the secret dossier in his safe, but right before guests arri
 tonight, you also saw someone moving suspiciously outside near the courtyard 
 window sill!
 
-🎯 YOUR INVESTIGATION OBJECTIVES:
-1. Hide your fear about the Curator's safe dossier.
-2. Act as a crucial witness by sharing what you saw at the courtyard window.
-3. Confirm that John was holding his arm when he arrived, but only collapsed 
-   when his palm touched the brass lock of Item RB-1147.
-
 💡 HOW TO PLAY:
 • Keep your confidential secret safe—deflect questions if someone presses you!
-• Talk to other guests, compare alibis, and examine the physical evidence drops.
+• Talk to other guests, ask about their conversations with John, and compare alibis.
+• Examine each round's physical evidence drops, access logs, and lab reports.
 • Archivist Whitney will hand you custom Dialogue & Witness Slips each round!
 ================================================================================
 ```
+
+---
+
+# 📋 **Facilitator Cheat-Sheet: Character Investigation Outcomes & Emergency Prompts (Host Only)**
+
+*Confidential Facilitator Reference for Detective Jack & Archivist Whitney. Keep this page handy during the party to monitor player theories and whisper emergency prompts if guests get stuck.*
+
+| Character | Role / Clearance | Target Investigation Outcome | Host Emergency Whisper Prompt (If Guests Need Direction) |
+| :--- | :--- | :--- | :--- |
+| **1. Raelin** | Keeper of Keys (`#000`) | **[Track 3 • CULPRIT]** Deflects from Master Key #000 and 1926 ferret scandal. Sole suspect satisfying all 6 Proof Pillars (Master Key #000 + CATCH chemical certification + 15-min prep gap 23:30–23:45). | *"Both Raelin and Charlotte know Jar E! But which one possessed Master Key #000 tonight and was unaccounted for during the 15-minute prep gap?"* |
+| **2. Claire** | Order Keeper (`#002`) | **[Track 3 • EXONERATED]** Deflects "The Biscuit Incident." Exonerated by front desk entrance log (23:30 onward) & card key only (no physical master key or chemical access). | *"Ask Claire how physical master keys differ from electronic RFID cards when opening window latches!"* |
+| **3. Sarah** | Photographer (Guest Pass) | **[Track 3 • RED HERRING]** Deflects dropped lens cap. Exonerated by Vale & Kaitlin who confirm Sarah stayed on garden path taking telephoto photos and never opened or entered the window. | *"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"* |
+| **4. Brooklyn** | Underground Publisher (Reading Pass) | **[General • EXONERATED]** Hides Tumblr initiation scandal. Exonerated by public reading pass (zero key clearance) & printing press ink is completely non-toxic. | *"Ask Brooklyn what other secrets John was holding over members to understand everyone's motives!"* |
+| **5. Charlotte** | Rare Book Specialist (`#005`) | **[Track 3 • RED HERRING]** Returned Master Key #000 at 5:00 PM. Prime chemical red herring (CATCH certified), but decisively exonerated by verified front desk alibi with Georgia (23:35–23:50). | *"Charlotte had the master key earlier today and has CATCH certification! Ask her where she was during the prep window and when she returned the key!"* |
+| **6. Christina** | Silver-Tongued Debater (Reading Pass) | **[Track 2 • EXONERATED]** Hides leaked election tape. Exonerated by public reading pass (no keys) & was merely reviewing debate notes at console near John's study desk. | *"Christina was seen near the console—ask her what she was reviewing and who she saw walking near John's study desk!"* |
+| **7. Victoria** | The Annotator (Reading Pass) | **[Track 1 • RED HERRING]** Conceals hallway fountain pen strike. Prime physical red herring, but decisively exonerated by toxicology confirming arm puncture was 100% non-toxic ink. | *"Notice John's torn sleeve and puncture? Ask Victoria why she threw away a fountain pen, then check the toxicology report!"* |
+| **8. Ellie** | Puzzle Tinker (`#008`) | **[Track 3 • EXPERT]** Explains lock picking days ago. Key technical deduction expert: proves Case RB-1147 was turned by original Master Key #000 (not pick wires or wax copies). Zero chemical skills. | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"* |
+| **9. Gianna** | Amateur Sleuth (Reading Pass) | **[Track 2 • SLEUTH]** Hides Wicked audio recording. Smelled bitter almond in breakroom (Hope) and prompts players to interrogate the 15-minute prep gap (23:30–23:45). | *"Ask Gianna what she smelled in the breakroom earlier, or what leads she discovered about the 15-minute prep gap!"* |
+| **10. Hope** | Literary Prodigy (Reading Pass) | **[Track 2 • RED HERRING]** Hides plagiarism & failed almond tea attempt. Prime tea red herring, but exonerated because John quit caffeinated tea weeks ago and the cup was completely untasted. | *"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"* |
+| **11. Georgia** | Archivist of Secrets (Index Pass) | **[Track 3 • ALIBI WITNESS]** Hides gum-stuck index cards. Provides ironclad alibi confirming Charlotte was logged in at the intake desk with her from 23:35 to 23:50. Zero chemical training. | *"Ask Georgia who was sitting with her at the front intake desk during the critical 15-minute prep window!"* |
+| **12. Kaitlin** | Silent Strategist (Reading Pass) | **[Track 3 • EYEWITNESS]** Hides "Midnight Quill" alias. Eyewitness confirming Sarah stayed on garden path and never opened window; directs attention to who held physical master keys. | *"Ask Kaitlin what she observed outside in the courtyard garden from the reading alcove!"* |
+| **13. Maddie** | Conservatory Reader (Reading Pass) | **[Track 1 • WITNESS]** Explains ripped coat sleeve was an accidental grab during verbal argument. Testifies John entered building alive, alert, shouting, and on his own two feet. | *"Notice John's torn sleeve? Ask Maddie what they were shouting about in the hallway before he entered!"* |
+| **14. Ruthanne** | Library Darling (Reading Pass) | **[Track 3 • EYEWITNESS]** Hides fake book drive receipt. Crucial eyewitness who saw Raelin hurriedly leaving the conservation supply room right before front doors opened. | *"Ask Ruthanne who she saw rushing out of the conservation supply room right before the front doors opened!"* |
+| **15. Lucy** | Aesthetic Curator (`#011`) | **[Track 2 • EXONERATED]** Hides Amazon Prime print barcode. Explains step-stool was for lighting adjustment; Lighting Key (#011) has no vault/window access and display solvents are non-toxic. | *"Lucy was on a step-stool near John's desk—ask her what she was adjusting and whether her lighting key opens display locks!"* |
+| **16. Vale** | Unfortunate Witness (Assistant Pass) | **[Track 3 • CRUCIAL SCENE WITNESS]** Overcomes fear of safe dossier. Crucial witness anchoring that John only collapsed when his palm touched Case RB-1147's brass lock, and spotted suspicious courtyard window movement. | *"Ask Vale exactly what happened the moment John reached the gallery archway, and what Vale noticed at the courtyard window!"* |
