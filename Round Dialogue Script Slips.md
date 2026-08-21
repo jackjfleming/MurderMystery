@@ -12,131 +12,131 @@ This document contains all 48 printable dialogue and witness slips (16 character
 --------------------------------------------------------------------------------
 📜 RAELIN — Keeper of Keys | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"My keys only log when official doors open. If someone slipped through an unmonitored window, the main entrance logs wouldn't catch it."
+💬 WHAT TO SAY / YOUR ALIBI:
+"As Keeper of Keys, I spent the afternoon securing the historical exhibits and preparing the vaults for tonight's ceremony."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The Curator was furious earlier today about unlogged access breaches, warning that someone was using master clearance to tamper with historical vault records."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"John was in a terrible state before the event—he was having shouting matches in the corridors and clutching his arm when he walked in!"
 --------------------------------------------------------------------------------
 📜 CLAIRE — Order Keeper | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was standing near the front door checking guest check-in logs the entire time before the Curator arrived."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was stationed at the front entrance checking guest credentials before John arrived—I was reviewing conduct logs and never left my post."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The central card key reader logs all electronic entries, but physical master keys can open window latches without leaving any digital trace."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"John was auditing member conduct files earlier this week and threatened several people with formal reprimands over secret violations."
 --------------------------------------------------------------------------------
 📜 SARAH — Nocturnal Photographer | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was setting up my camera equipment in the main hall. I didn't step foot inside the Rare Books Gallery!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was setting up my camera gear in the reception hall before the event—I never stepped foot inside the Rare Books Gallery."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The lighting in the courtyard garden was unusually bright tonight—someone left the gallery window blinds half-open before guests arrived."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The courtyard garden was unusually bright tonight—someone left the gallery window blinds half-open before guests arrived."
 --------------------------------------------------------------------------------
 📜 BROOKLYN — Underground Publisher | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"The Curator was silencing everyone who knew too much. Half the people in this room had reason to want him quiet."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I publish independent exposés on archive politics—John was threatening several members with public exposure tonight over altered archives and secret deals."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I heard John threatened several members with public exposure tonight over leaked votes, altered archives, and illicit deals."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Tensions were boiling all week; I saw Victoria and Maddie having furious private arguments with John right before tonight's meeting."
 --------------------------------------------------------------------------------
 📜 CHARLOTTE — Rare Book Specialist | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was logged in at the central catalog desk working on intake records right up until the doors opened."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was working at the central catalog desk on intake records from 23:35 right up until the doors opened."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Georgia was sitting right beside me at the intake desk from 23:35 onward checking guest arrivals."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Georgia was sitting right beside me at the intake desk the entire prep window logging arrivals—we can vouch for each other."
 --------------------------------------------------------------------------------
 📜 CHRISTINA — Silver-Tongued Debater | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was reviewing debate notes near the terminal console, but I never entered the Rare Books Gallery."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was reviewing debate notes near the central terminal console before the doors opened—I never entered the Rare Books Gallery."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The atmosphere was tense before the doors opened—several senior Circle members were arguing about John's planned midnight speech."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The atmosphere was tense tonight—several Circle members were furious about John's planned midnight speech exposing secret violations."
 --------------------------------------------------------------------------------
 📜 VICTORIA — The Annotator | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was in the main hall reading with witnesses right up until John walked through the doors."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was sitting in the main hall reading with other guests right until the front doors opened."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I noticed John clutching his forearm when he entered the building, before he ever walked toward the gallery archway."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"When John first walked through the entrance, I noticed he was clutching his forearm in pain before he ever approached the gallery."
 --------------------------------------------------------------------------------
 📜 ELLIE — Puzzle Tinker | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was at the tinker workbench testing gear ciphers when everyone arrived."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was at my workbench testing gear cipher mechanisms when everyone arrived tonight."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Item RB-1147 is kept in an antique vault display case with a heavy brass tumbler lock that requires specialized keys or tools."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Case RB-1147 has a heavy antique brass tumbler lock—it can't be easily picked or forced open without specialized master keys or tools."
 --------------------------------------------------------------------------------
 📜 GIANNA — Amateur Sleuth | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was following a lead in the public archives when John walked in clutching his arm!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was gathering research notes in the public reading stacks right before the meeting started."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw John in the hallway around 23:45 having a tense standoff with someone before he stepped into the reception hall."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Around 23:45, I saw John in the corridor having a heated confrontation with someone right before he stepped into the reception hall clutching his sleeve."
 --------------------------------------------------------------------------------
 📜 HOPE — Literary Prodigy | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was getting my OWN tea in the breakroom during the setup window. The Curator's cup was already sitting there on his desk—I didn't go anywhere near it."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was in the library reading lounge reviewing my new historical poetry manuscript for tonight's exhibition."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The Curator always kept a ceramic cup of herbal tea sitting on his study desk during after-hours events."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The Curator seemed agitated all evening—he warned several of us that tonight's midnight meeting would expose secrets people thought were buried forever."
 --------------------------------------------------------------------------------
 📜 GEORGIA — Archivist of Secrets | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was working at the intake desk with Charlotte when guests arrived."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was logged into the central intake desk organizing catalog records from 23:35 straight through to 23:50."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I can verify Charlotte was logged in at the desk with me from 23:35 straight through to 23:50."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Charlotte was sitting right next to me at the intake desk the entire prep window—neither of us went near the gallery."
 --------------------------------------------------------------------------------
 📜 KAITLIN — Silent Strategist | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was standing in the reading alcove observing guest arrivals."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was standing quietly in the reading alcove observing everyone's movements before the meeting."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"From the reading alcove window, I could see shadows moving outside in the courtyard garden during the prep window."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"From the alcove window, I saw shadows moving outside in the courtyard garden during the 15-minute prep gap before the doors unlocked."
 --------------------------------------------------------------------------------
 📜 MADDIE — Conservatory Reader | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"We argued earlier today about archive policies, but I never touched any poisons!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I had a disagreement with John earlier about archival policies, but that was just heated words."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"John walked into the archives on his own two feet alive, alert, and shouting—he certainly didn't collapse from our argument!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"John walked into the reception hall alive, alert, and on his own two feet—he was shouting, not collapsing from our argument!"
 --------------------------------------------------------------------------------
 📜 RUTHANNE — Library Darling | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was freshening up in the restroom right before the front doors opened."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I arrived early and was in the guest lounge freshening up before the doors officially opened."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The display cases in the gallery were already set up and locked before guests were admitted tonight."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The display cases inside the Rare Books Gallery were already arranged and locked before anyone was admitted tonight."
 --------------------------------------------------------------------------------
 📜 LUCY — Aesthetic Curator | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was adjusting display lighting in the main hall with witnesses before the doors opened."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was setting up display lighting in the main hall before the event started—several people saw me working."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The gallery archway provides a direct, open view of Case RB-1147, but the gallery's side doors were locked tight."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The gallery archway has a clear view of Case RB-1147, but the side access doors to the gallery were locked tight."
 --------------------------------------------------------------------------------
 📜 VALE — Unfortunate Witness | ROUND 1 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was near the hallway door right as John entered—he was clutching his arm before he even touched the display!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was standing near the gallery entrance right as John entered the room."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw John stumble as he entered, holding his sleeve, but he didn't collapse until he put his right palm on the brass lock!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"I saw John stumble into the hall clutching his torn sleeve, but he stayed upright until his bare palm gripped the brass display lock!"
 --------------------------------------------------------------------------------
 ```
 
@@ -150,131 +150,131 @@ This document contains all 48 printable dialogue and witness slips (16 character
 --------------------------------------------------------------------------------
 📜 RAELIN — Keeper of Keys | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Charlotte and I both have CATCH chemical certification, and Charlotte even borrowed Master Key #000 earlier this afternoon for holding inventory. But Item RB-1147 was locked in its case before anyone arrived."
+💬 WHAT TO SAY / YOUR ALIBI:
+"All display cases were locked and inspected before guests arrived. If there was tampering, someone could have forced a latch from the courtyard or picked a tumbler—don't assume official archive procedures failed."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The chemical jars on the display table contain authentic archival solvents and fumigants—only CATCH-certified conservators are authorized to use them."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Charlotte was handling deep holding inventory earlier this afternoon, and people were moving around John's study desk right before the doors opened."
 --------------------------------------------------------------------------------
 📜 CLAIRE — Order Keeper | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"The Curator was strict about protocol—he threatened several people with excommunication earlier this week."
+💬 WHAT TO SAY / YOUR ALIBI:
+"John threatened several members with sanctions this week over rule breaches, but check the logs—I stayed stationed at the front desk."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw Charlotte and Georgia together at the intake console the entire time—neither of them left their posts during the prep window."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"I can confirm Charlotte and Georgia were together at the intake desk during the entire prep window—neither of them went toward the gallery."
 --------------------------------------------------------------------------------
 📜 SARAH — Nocturnal Photographer | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"If you found a camera lens cap by the gallery window sill, I was just adjusting my camera zoom from the courtyard earlier!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"If you found a camera lens cap on the courtyard window sill, I dropped it while taking exterior photos through the glass from the garden path—I never climbed inside!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I was using a long telephoto lens to photograph manuscripts through the window from outside—I never unlatched or climbed through the window!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"While photographing through the window, I noticed the courtyard shrubs beneath the sill were untouched until right before the event."
 --------------------------------------------------------------------------------
 📜 BROOKLYN — Underground Publisher | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"My ink stains are from my printing press, not some rare dermal toxin!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Any ink on my hands is non-toxic printing press ink from my pamphlets, not archival chemicals!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The vintage fountain pen in the trash matches the fine calligraphy pens used by manuscript annotators."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The vintage fountain pen found discarded in the trash is a specialized model used by manuscript annotators."
 --------------------------------------------------------------------------------
 📜 CHARLOTTE — Rare Book Specialist | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Yes, I borrowed Master Key #000 from Raelin earlier this afternoon for deep holding inventory, but I returned it to her at 5:00 PM! Plus, I was at the intake desk with Georgia the entire prep window!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Yes, I borrowed Master Key #000 earlier this afternoon for holding inventory, but I returned it to Raelin at 5:00 PM! I only carry Keycard #005 tonight."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I can confirm Georgia was with me the entire 15-minute prep gap—we were logging guest arrivals together at the intake console."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Georgia and I were at the intake console logging arrivals the entire 15-minute prep gap—I never left the front desk area."
 --------------------------------------------------------------------------------
 📜 CHRISTINA — Silver-Tongued Debater | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was standing near the desk and saw the tea cup, but an aborted console log is just a digital glitch, not proof of murder!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was reviewing debate notes near the central terminal console—an aborted console log is just a glitch, not proof of anything sinister!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw a full ceramic tea cup on John's desk, and the aroma smelled strongly of bitter almonds."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"While standing near the study desk, I noticed a full ceramic tea cup sitting there that had a strong, distinct smell of bitter almonds."
 --------------------------------------------------------------------------------
 📜 VICTORIA — The Annotator | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Fountain pens are for annotating books, not murder! The altercation earlier was an argument, and John walked into this room on his own two feet!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Fountain pens are for annotating historical manuscripts! The corridor incident was an argument, but John walked into the hall under his own power!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"While reading in the main hall during prep, I saw Lucy on a step-stool adjusting the spotlights directly above the Curator's study desk."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"During the prep window, I saw Lucy on a step-stool adjusting the spotlights directly above John's study desk."
 --------------------------------------------------------------------------------
 📜 ELLIE — Puzzle Tinker | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I study lock mechanics and tumblers, not liquid chemistry or contact toxins!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I study mechanical locks and gear puzzles, not liquid chemistry or preservation solvents!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The pick wire found near the door is mine from research earlier this week—it has nothing to do with tonight's display case lock!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Case RB-1147's display lock is a heavy antique tumbler mechanism; you'd need the real master key or specialized heavy tools to turn it."
 --------------------------------------------------------------------------------
 📜 GIANNA — Amateur Sleuth | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I study archive rumors and record audio notes, not chemical toxins! If you found a wire fragment in the reading room, it's just audio equipment—not a weapon!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I study archive rumors and record audio notes for my research—I investigate stories, not chemical preservation or locked vaults!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
 "During the prep window, I walked past the breakroom and saw Hope brewing an herbal tea that had a strong, pungent smell of bitter almonds!"
 --------------------------------------------------------------------------------
 📜 HOPE — Literary Prodigy | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I researched botanical inks for my writing, but I never touched the display case in the gallery!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I was only brewing my own herbal tea in the breakroom! I write historical prose and study old botanical recipes, but I never touched the display case in the gallery!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw Lucy near the Curator's desk area setting up display lights, and Christina was reviewing notes nearby at the terminal."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"While getting my tea, I saw Lucy setting up display lights right near John's study desk, and Christina was reviewing notes nearby at the terminal."
 --------------------------------------------------------------------------------
 📜 GEORGIA — Archivist of Secrets | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I organize paper indexes—I don't handle chemical sealants or contact poisons!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I organize paper catalog cards and archives—I have zero training with chemical preservation kits or poisons!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"During the prep window, I saw Christina nervously typing and reviewing debate notes at the central terminal console right next to John's tea cup!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"During the prep window, I saw Christina nervously typing and reviewing debate notes at the console right near John's study desk."
 --------------------------------------------------------------------------------
 📜 KAITLIN — Silent Strategist | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Political scheming isn't murder. Look for physical trace evidence on the lock!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I observe movements and strategy, not locks or chemical compounds."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"From the reading alcove window, I saw Sarah crouching in the courtyard bushes aiming a camera lens at the window—she stayed outside on the gravel path and never climbed through."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"From the reading alcove window, I saw Sarah taking photos from the garden path—she was holding her camera to the glass."
 --------------------------------------------------------------------------------
 📜 MADDIE — Conservatory Reader | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I grabbed his sleeve when we were arguing, but I didn't poison anyone! John was alive and walking when he arrived tonight!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I grabbed John's sleeve during our argument in the corridor, which tore his coat, but I didn't poison him! John was shouting and alert when he entered."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Victoria was holding a sharp fountain pen earlier today when she was arguing about manuscript annotations in the corridor."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Victoria was holding a sharp metal fountain pen during the corridor dispute earlier today."
 --------------------------------------------------------------------------------
 📜 RUTHANNE — Library Darling | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I came here to celebrate the archive collection! I don't know anything about rare book locks or chemical preservation!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I came to support the archives collection—I don't know anything about rare book locks or chemical preservation!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw Raelin leaving the conservation supply room in a rush right before the front doors opened, looking over her shoulder."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Right before the front doors opened, I saw Raelin leaving the conservation supply room in a rush, looking over her shoulder."
 --------------------------------------------------------------------------------
 📜 LUCY — Aesthetic Curator | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Frame glues and paint solvents are totally different from organic dermal contact toxins!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"My studio supplies are non-hazardous framing glues and border paints—completely separate from vault preservation chemicals!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I saw Christina near the terminal console by the desk around 23:40, looking agitated."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"While adjusting the overhead spotlights around 23:40, I saw Christina standing near the terminal console by the desk looking agitated."
 --------------------------------------------------------------------------------
 📜 VALE — Unfortunate Witness | ROUND 2 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I saw someone moving near the courtyard window sill right before the front doors were unlocked for guests!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I've been in the main hall watching the gallery entrance all evening."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I looked out toward the courtyard garden and saw Sarah taking photos from the garden path—she was holding a camera against the glass, but she definitely never climbed inside the window!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"I looked out toward the courtyard garden and saw Sarah taking photos from the garden path—she stayed outside and never opened or climbed through the window."
 --------------------------------------------------------------------------------
 ```
 
@@ -288,130 +288,130 @@ This document contains all 48 printable dialogue and witness slips (16 character
 --------------------------------------------------------------------------------
 📜 RAELIN — Keeper of Keys | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Check the timeline! Anyone could have entered the gallery through the courtyard window during the 15-minute prep gap."
+💬 WHAT TO SAY / YOUR ALIBI:
+"An unlatched courtyard window points to an unauthorized intruder slipping in from outside while the front doors were locked—anyone could have entered the garden path during the prep gap!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The facility register lists who has key clearances, but anyone with physical access could have entered the gallery during prep."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Multiple people had access to the archives and supply rooms throughout the day. Don't let the real intruder frame archive staff!"
 --------------------------------------------------------------------------------
 📜 CLAIRE — Order Keeper | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Focus on who had physical access to the display lock, not just who was arguing in the hallways earlier today."
+💬 WHAT TO SAY / YOUR ALIBI:
+"Look at physical access and key clearances! Check who had actual custody of the Master Key tonight."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
 "I can testify with 100% certainty that Charlotte was at the intake desk with Georgia from 23:35 to 23:50—she never went near the courtyard window or gallery!"
 --------------------------------------------------------------------------------
 📜 SARAH — Nocturnal Photographer | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"A plastic lens cap can't poison a brass lock. Look for someone who actually handles chemical preservation reagents!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"A plastic lens cap on an exterior sill doesn't poison a lock! Look for who actually handles chemical preservation reagents."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The courtyard hedges are right under the window sill—if someone climbed in or out, they would have had to push through the shrubbery."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The courtyard hedges under the window are dense—if someone climbed in or out, they would have had to push deep into the shrubbery."
 --------------------------------------------------------------------------------
 📜 BROOKLYN — Underground Publisher | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I publish underground pamphlets, but I didn't kill John! He knew someone inside the Circle was secretly manipulating archival entries."
+💬 WHAT TO SAY / YOUR ALIBI:
+"I publish exposés, but I didn't harm John! He knew someone inside the Circle was secretly altering archival records."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
 "John told me earlier this evening that he caught someone handling the Rare Books vault records without authorization."
 --------------------------------------------------------------------------------
 📜 CHARLOTTE — Rare Book Specialist | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Borrowing the master key earlier today doesn't make me a killer! Check the logs—the unlatched window happened at 23:44 while I was at the intake desk with Georgia, and the key in the hedges was Raelin's original ring!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I borrowed Master Key #000 this afternoon for inventory, but I returned it to Raelin at 5:00 PM! The window was unlatched at 23:44 while I was seated at the intake desk with Georgia."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Only the Master Brass Key Ring (#000) can physically unlatch the courtyard gallery window or unlock vault cases. I returned that key at 5:00 PM and only hold Keycard #005 tonight."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Only the original Master Brass Key (#000) can physically unlatch that courtyard window or open vault cases. I only have Keycard #005 tonight."
 --------------------------------------------------------------------------------
 📜 CHRISTINA — Silver-Tongued Debater | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Applying a toxic preservation chemical requires specialized conservator training. Who among us actually handles those compounds?"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Look at the chemical training required! Archival fumigants require specialized CATCH conservator training to handle safely."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Only staff members with conservation clearance have authorized access to the archival chemical preservation kit."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Only staff members with CATCH conservation clearance have authorized access to the Chemical Preservation Kit."
 --------------------------------------------------------------------------------
 📜 VICTORIA — The Annotator | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I was in the lounge before the doors opened. Focus on whoever was unmonitored during the 15-minute prep gap!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"The toxicology report confirms the puncture on John's arm from my gold pen nib was filled with ordinary ink and completely free of poison!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The toxicology report confirms the puncture on John's arm from the gold pen nib had no poison on it whatsoever."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Focus on whoever was unmonitored during the 15-minute prep gap right before the doors opened."
 --------------------------------------------------------------------------------
 📜 ELLIE — Puzzle Tinker | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"The scratched pick wire by the window latch was from my research earlier this week, not the murder!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Lock tumblers don't lie—I examined the mechanical wear patterns on the lock!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The newly scraped tumblers on Case RB-1147 and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern—not pick wires, and definitely not an amateur wax mold copy!"
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The tumblers on Case RB-1147 and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern—not pick wires or wax copies!"
 --------------------------------------------------------------------------------
 📜 GIANNA — Amateur Sleuth | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"We need to look closely at who had the physical keys, the chemical training, and a reason to access that ledger."
+💬 WHAT TO SAY / YOUR ALIBI:
+"We need to cross-reference who had physical custody of the keys, CATCH chemical certification, and an unaccounted time window."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"John gave up drinking caffeinated herbal tea four weeks ago on strict medical advice—he hasn't touched a cup of tea all month."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"John gave up drinking caffeinated herbal tea four weeks ago on strict medical advice—he hasn't touched a cup of tea all month!"
 --------------------------------------------------------------------------------
 📜 HOPE — Literary Prodigy | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"I brought John tea earlier like I always used to, but he told me he stopped drinking tea weeks ago! And I don't have keys to any vault locks in the gallery!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"I admit I brought tea to John's desk earlier, but he told me he quit drinking tea weeks ago! And I don't have keys to any vault locks in the gallery!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The toxicology report showed the lethal poison was found on John's palm and the brass handle of the display case."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The toxicology report confirms the tea cup was untasted, and the lethal poison was found on John's palm and the brass display lock."
 --------------------------------------------------------------------------------
 📜 GEORGIA — Archivist of Secrets | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Check the digital logs! My access card was logged at the central desk the whole time."
+💬 WHAT TO SAY / YOUR ALIBI:
+"Check the digital console logs! My keycard was actively logged at the intake desk the entire time."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Charlotte was sitting right next to me at the intake desk from 23:35 to 23:50—she never left my sight during the prep window."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Charlotte was sitting right beside me at the intake desk continuously from 23:35 to 23:50—she never left my sight during the prep window."
 --------------------------------------------------------------------------------
 📜 KAITLIN — Silent Strategist | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Whoever poisoned the lock needed master access keys. Cross-reference key clearance!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"Whoever poisoned the lock needed both physical master keys and CATCH chemical handling certification."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Look at the Key Clearance Register: only Raelin holds Master Key #000 with master physical clearance to the courtyard window and vault cases."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"Look at the Key Clearance Register: only Raelin holds Master Key #000 tonight with clearance to the courtyard window and vault cases."
 --------------------------------------------------------------------------------
 📜 MADDIE — Conservatory Reader | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"The murder happened at the display case lock. Look for who had vault access!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"The lab report proved the corridor scuffle and torn coat sleeve had nothing to do with poison."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The lab report confirmed the puncture wound on John's arm was completely non-toxic and free of poisons."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The murder happened when John touched the display case lock—focus on who had access to the gallery and vault chemicals!"
 --------------------------------------------------------------------------------
 📜 RUTHANNE — Library Darling | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
+💬 WHAT TO SAY / YOUR ALIBI:
 "I'm just a guest here—I don't have access to staff conservation kits or restricted vault keys!"
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I noticed that the Chemical Preservation Kit on the display table was left unlocked during the entire prep window."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"The Chemical Preservation Kit on the display table was left unlocked during prep, but only CATCH conservators handle the hazardous compounds."
 --------------------------------------------------------------------------------
 📜 LUCY — Aesthetic Curator | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Restricted display cases are locked by the Keeper of Keys, not event decorators! I only handle framing glues and border paints."
+💬 WHAT TO SAY / YOUR ALIBI:
+"Restricted display cases are locked by the Keeper of Keys, not event decorators! I only have lighting key clearance."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"My frame solvents and paint glues are non-hazardous studio supplies—completely separate from the locked chemical preservation kit."
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
+"My frame solvents and paint glues are non-toxic studio supplies—completely separate from the locked chemical preservation kit."
 --------------------------------------------------------------------------------
 📜 VALE — Unfortunate Witness | ROUND 3 SLIP
 --------------------------------------------------------------------------------
-💬 DEFENSE / DIALOGUE:
-"Cross-reference who was near that window with who has official handling authority for Item RB-1147!"
+💬 WHAT TO SAY / YOUR ALIBI:
+"John only collapsed the moment his right palm gripped the brass lock of Item RB-1147."
 
-👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
+👁️ WHAT TO SHARE / WHAT YOU WITNESSED:
 "Master Key #000 was recovered discarded in the courtyard hedges right beneath the window sill where the intruder entered!"
 --------------------------------------------------------------------------------
 ```

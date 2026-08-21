@@ -58,7 +58,8 @@ This master tracker replaces static player clue cards with an active host manage
   * **Maddie:** Saw **Victoria** holding a sharp fountain pen earlier today when arguing in the corridor.
   * **Victoria:** Defends herself, arguing that the hallway tussle and pen strike was non-lethal and that John walked into the hall alive and alert.
 * **Courtyard Window Sightings:**
-  * **Vale & Kaitlin:** Both testify that they saw **Sarah** outside in the courtyard garden taking photos through the glass from the path, and that **Sarah never opened or climbed through the window**.
+  * **Kaitlin:** Saw **Sarah** taking photos from the garden path with her camera held against the window glass.
+  * **Vale:** Testifies that he saw **Sarah** outside taking photos through the glass from the garden path, and that **Sarah never opened or climbed through the window**.
 * **Conservation Supply Sighting:**
   * **Ruthanne:** Saw **Raelin** hurriedly leaving the conservation supply room right before the front doors opened.
 

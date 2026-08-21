@@ -53,12 +53,10 @@ Review your Round 2 scripts, cross-examine those with chemical knowledge, and so
 
 **HOST SCRIPT — ROUND 3 (Detective Jack):**  
 "This is Round 3—our final round of investigation before voting!  
-The lab results are in! Forensic analysis confirms that the puncture wound on the Curator's arm from the fountain pen strike was completely free of toxins—ruling out a venom-tipped stabbing! Furthermore, chemical tests confirmed the desk tea was laced with poison, but witnesses know John quit drinking caffeinated tea weeks ago—ruling out poisoned drink!  
-The lethal dose was a **dermal contact poison** on the brass lock of Item RB-1147—specifically, an organomercury-based archival chemical that is lethally toxic through skin contact!  
-Take your UV flashlights and inspect the Chemical Preservation Kit on our display table! Find which jar glows under UV light!  
-Then, examine the Curator's private letter alongside our physical maker artifacts to uncover his hidden warning!  
-Remember: the Facility Key Register shows TWO people with CATCH certification and Chemical Kit access—so you must check physical key clearances and timeline alibis to find the real culprit!  
-Cross-reference all 6 Proof Pillars, fill out your Voting Ballots, and cast your accusations in the ballot box!"
+The official forensic toxicology results, hardware trace analyses, and the Curator's final private correspondence have just been placed on the Evidence Table!  
+Examine the lab findings closely, test the Chemical Preservation Kit on our display table with your UV blacklights, and use our maker tools to decode John's hidden warning!  
+Cross-examine everyone on their physical key clearances, timeline alibis, and chemical handling certifications. Compare what you uncover across all 6 Proof Pillars!  
+Review your Round 3 slips, fill out your Voting Ballots with your suspect, motive, and murder method, and cast your accusations in the ballot box before the final reveal!"
 
 ---
 
