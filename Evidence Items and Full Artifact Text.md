@@ -52,7 +52,7 @@ Initial Scene Observations:
 • Scene secured immediately by Detective Jack.
 
 Initial Physical Observations & Points of Inquiry at Scene:
-• Forearm Trauma: Coat sleeve fabric tear and sharp forearm puncture/scratch (Left Arm). Discarded vintage fountain pen recovered from hallway waste bin.
+• Forearm Trauma: Coat sleeve fabric tear and forearm puncture wound from a fountain pen strike (Left Arm). Discarded vintage fountain pen recovered from hallway waste bin.
 • Curator's Study Desk: One (1) full ceramic tea cup sitting on desk smelling strongly of bitter almond and herbal infusion.
 • Gallery Archway: Immediate collapse occurred upon physical palm contact with Display Case RB-1147's brass lock handle.
 ```
@@ -64,15 +64,15 @@ Initial Physical Observations & Points of Inquiry at Scene:
 **Physical Setup:** Handwrite on yellow legal pad paper or aged parchment using black ink. Attach to a wooden clipboard on the Curator's desk setup.
 
 ```text
-Audit Summary — October 24 (CONFIDENTIAL)
+CURATOR'S AUDIT SUMMARY & PENDING INQUIRIES — OCTOBER 24 (CONFIDENTIAL)
 
-For seven days, I have quietly cross-referenced the physical preservation registers against the digital terminal logs. The discrepancies are undeniable.
+For seven days, I have conducted an exhaustive audit of the Starlight Archives. Standards of scholarly integrity have been severely compromised from within. Active inquiries under formal review:
 
-Someone inside the Starlight Circle has been abusing master access clearance to enter the restricted vault without leaving an official digital record. A sealed historical archive dossier has been tampered with to conceal an embarrassing, fraudulent family secret from 1926 that would strip a prominent member of their hereditary title.
+• CATALOG TAMPERING: Forged marginalia discovered in restricted folio volumes, and missing catalog index records unaccounted for in central filing.
+• PLAGIARISM & LEAKS: Substantial evidence of verbatim plagiarism in recent publications, leaked society proceedings, and unauthorized surveillance.
+• ACCESS BREACHES: Unlogged holding movements, unauthorized tampering with display cases, and deliberate alterations to sealed historical family records.
 
-The main entrance electronic readers log card keys, but opening the courtyard gallery window using a physical master key leaves no card trace. I know who holds master clearance. I know who had the prep window gap.
-
-I will not allow this institution to be compromised. At 12:00 AM, before Catalog Item RB-1147 is opened to the guests, I will read the unlogged access breach out loud and revoke this individual's keys permanently.
+I will not tolerate deceit under the guise of scholarship. Tonight at 12:00 AM, before the main exhibition commences, I will formally present these charges before the full gathering and revoke the credentials and society standing of every individual involved.
 — J. Curator
 ```
 
@@ -168,23 +168,19 @@ Case Reference: Starlight Archives Incident | Date: October 25 | Status: COMPLET
 
 LAB FINDINGS & ANALYSIS:
 
-1. Left Forearm Scratch & Sleeve Swab Analysis:
-   Swab analysis of the coat sleeve tear and forearm scratch revealed trace black fountain pen ink and non-toxic metal particles from a gold-plated pen nib.
-   >>> TEST RESULT: 100% CLEAN & NON-TOXIC.
-   The forearm scratch was a superficial scrape sustained earlier today and played zero role in the victim's death.
+1. Left Forearm Puncture & Coat Sleeve Swab Analysis:
+   Swab analysis of the coat sleeve tear and forearm puncture wound revealed trace black fountain pen ink and non-toxic metal particles from a gold-plated pen nib.
+   >>> TEST RESULT: 100% NON-TOXIC / NO POISON DETECTED.
+   The puncture wound was caused by a mechanical strike from the fountain pen and was completely free of toxins or poisons.
 
 2. Desk Tea Cup #5 Chemical Analysis:
-   Chemical testing confirmed lethal concentrations of botanical cyanide/almond toxin inside the tea cup.
-   >>> TEST RESULT: 100% UNTASTED & FULL.
-   Forensic medical history confirms the victim ceased consuming all caffeinated herbal teas 4 weeks prior on medical advice. Zero tea compounds or ingested toxins were detected in the digestive tract.
+   Chemical testing of the liquid recovered from Tea Cup #5 confirmed lethal concentrations of dissolved botanical cyanide.
+   >>> TEST RESULT: LETHAL POISON CONFIRMED IN TEA.
+   Chemical analysis confirms the beverage contained a lethal dose of botanical cyanide/almond toxin.
 
 3. Right Palm & Lock Swab Analysis:
-   Swab analysis of the victim's right palm and the brass lock handle of Display Case RB-1147 confirmed heavy concentrations of an organomercury-based fumigation compound — a pale chartreuse archival preservation chemical used to protect rare manuscripts from bookworm and mold damage.
-   >>> COMPOUND PROFILE: This substance is a standard archival fumigation sealant, but it is LETHALLY TOXIC through prolonged dermal absorption. It is classified as a restricted hazardous material requiring specialized safety certification to handle.
-   >>> CRITICAL LAB NOTE: This organomercury compound is NATURALLY UV-FLUORESCENT. Under 395nm UV blacklight, any contaminated liquid, applicator, or surface will GLOW VIBRANT NEON GREEN!
-
-CONCLUSION:
-Cause of death is acute dermal absorption (skin contact) via a lethal archival fumigation compound applied to the brass lock handle of Item RB-1147.
+   Swab analysis of the victim's right palm and the brass lock handle of Display Case RB-1147 confirmed heavy concentrations of an organomercury-based archival preservation chemical — an Ultra Violet light reactive archival preservation chemical.
+   >>> COMPOUND PROFILE: This substance is lethally toxic through prolonged dermal absorption.
 ```
 
 ---
@@ -212,46 +208,22 @@ Tonight, I will prove who tampered with the brass lock before midnight. If you w
 
 ---
 
-### **Evidence Item 11: Conservation Duty Log**
-
-**Physical Setup:** Print on official archive preservation log paper.
-
-```text
-RARE BOOKS GALLERY — OFFICIAL CONSERVATION & PREPARATION REGISTER
-
-Item: Catalog Item RB-1147 (The Starlight Ledger)
-Display Location: Rare Books Gallery Vault Case #1
-Assigned Conservator Duty: Responsible for polishing brass fixtures, applying protective metal wax/maintenance solvents (Jar D), handling hazardous archival preservation compounds (Jar E), and verifying case lock security prior to public reveals.
-
-OFFICIAL DUTY ASSIGNMENT:
-• Primary Conservator for RB-1147 (Vault Cases): RAELIN (Keeper of Keys)
-  — Certification: CATCH (Certification for Archival Toxicology & Chemical Handling)
-  — Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation & Anti-Pest Sealant)
-  — Vault Case Authorization: YES
-• Secondary Conservator (Holding Area Items ONLY): CHARLOTTE (Rare Book Specialist)
-  — Certification: CATCH (Certification for Archival Toxicology & Chemical Handling)
-  — Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation & Anti-Pest Sealant)
-  — Vault Case Authorization: NO — Holding Area items only
-• Prep Schedule Window: 23:30 – 23:45 HRS (15-Minute Unmonitored Gap)
-```
-
 ---
 
-### **Evidence Item 12: Master Toolkit & Courtyard Trace Analysis Report**
+### **Evidence Item 11: Hardware & Physical Trace Analysis Report**
 
-**Physical Setup:** Final forensic lab report printed on official crime lab letterhead.
+**Physical Setup:** Final forensic crime lab report printed on official crime lab letterhead.
 
 ```text
-CRIME SCENE INVESTIGATION — TOOLKIT & COURTYARD TRACE ANALYSIS
+REGIONAL FORENSIC CRIME LAB — PHYSICAL TRACE & HARDWARE REPORT
+Case Reference: Starlight Archives Incident | Lab File: #TRACE-2026-904 | Status: FINAL
 
-Item Tested:
-1. Discarded Master Key #000 (Recovered from Courtyard Hedges near Window Sill / Lens Cap)
-2. Keeper of Keys Maintenance Toolkit & Reagent Jars (Assigned to Raelin)
+1. Recovery & Perimeter Trace Details:
+   • Target Item: Solid-brass master key ring stamped with institutional designation #000.
+   • Recovery Location: Exterior courtyard hedge perimeter, situated directly beneath the unlatched gallery window sill (found adjacent to the recovered camera lens cap).
+   • Physical Condition: Clean brass surface; heavy antique barrel with notched bit configuration. Latent fingerprint dusting inconclusive due to glove handling.
 
-TEST RESULTS:
-1. Microscopic swab of Master Key #000 recovered from the courtyard shrubbery revealed fine brass dust particles matching the newly scraped lock tumblers of Display Case RB-1147.
-2. Chemical and UV blacklight testing of the Chemical Kit confirmed that Jar E (Archival Fumigation & Anti-Pest Sealant) and an associated preservation applicator cloth GLOW NEON GREEN under 395nm UV light, perfectly matching the organomercury fumigation compound swabbed from the victim's palm and the RB-1147 lock handle.
-
-LAB SUMMARY:
-Master Key #000 was used to mechanically bypass the courtyard window. The brass lock handle of Item RB-1147 was coated with Jar E (an organomercury archival fumigation compound lethally toxic through dermal skin absorption), and Master Key #000 was discarded into the hedges during exit.
+2. Microscopic Tumbler Striation Analysis:
+   • Key Bit Examination: High-magnification optical inspection of the key bit notches revealed fresh mechanical friction striations and minute brass shavings adhering to the primary ward cuts.
+   • Tumbler Profile Cross-Reference: Striation patterns along Key Bit #000 correspond directly to the double-flanged cylinder mechanics of the courtyard gallery window latch and the antique brass tumbler assembly of display case RB-1147.
 ```

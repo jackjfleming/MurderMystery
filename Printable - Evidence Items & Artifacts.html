@@ -153,24 +153,22 @@
 
     /* Curator 5x7 Letter Box */
     .letter-5x7-container {
-      width: 5in;
-      height: 7in;
-      margin: 0.5in auto;
-      background: #fdfbf7;
+      width: 5.0in;
+      height: 7.0in;
+      margin: 0.3in auto;
+      background: #fcf8f0;
       border: 2px solid #8b7355;
-      padding: 0.4in;
+      border-radius: 4px;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
       position: relative;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
+      overflow: hidden;
+      padding: 0;
     }
 
-    .letter-content {
-      font-family: 'EB Garamond', Georgia, serif;
-      font-size: 13.5pt;
-      line-height: 1.5;
-      color: #2c2523;
+    .letter-5x7-container svg {
+      width: 100%;
+      height: 100%;
+      display: block;
     }
 
     .footer-note {
@@ -234,12 +232,10 @@
           <strong>Status:</strong> Deceased (Collapsed at Gallery Archway)</p>
         <p style="margin-bottom: 6px;"><strong>Known Evidence Found On / Near The Victim:</strong></p>
         <ul style="padding-left: 20px; font-size: 10pt; line-height: 1.4;">
-          <li><strong>On His Person:</strong> A minor coat sleeve tear and small surface scratch on his left forearm
-            <em>(Preliminary findings: sustained during an argument earlier today)</em>.</li>
+          <li><strong>On His Person:</strong> A coat sleeve tear and puncture wound on his left forearm from a fountain pen strike during an earlier altercation.</li>
           <li><strong>On His Desk:</strong> A ceramic tea cup with saucer smelling of tea and concentrated bitter almond
             infusion.</li>
-          <li><strong>At His Desk Safe:</strong> A confidential handwritten note left for the Starlight Circle,
-            cryptically noting that Item RB-1147 was tampered with before midnight.</li>
+          <li><strong>On His Study Desk:</strong> A sealed handwritten letter addressed to the members of the Starlight Circle regarding tonight's rare book exhibition.</li>
         </ul>
       </div>
     </div>
@@ -305,7 +301,7 @@
           Case RB-1147, and suffered immediate collapse.</p>
         <div style="background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px; font-size:9.5pt;">
           <strong>Initial Physical Observations & Points of Inquiry:</strong><br>
-          • <strong>Forearm Trauma:</strong> Coat sleeve fabric tear and sharp forearm puncture/scratch. Discarded vintage fountain pen recovered from hallway trash.<br>
+          • <strong>Forearm Trauma:</strong> Coat sleeve tear and forearm puncture wound from a fountain pen strike. Discarded vintage fountain pen recovered from hallway trash.<br>
           • <strong>Study Desk:</strong> One (1) full ceramic tea cup on desk smelling strongly of bitter almond and herbal infusion.<br>
           • <strong>Gallery Archway:</strong> Immediate collapse occurred upon physical contact with Case RB-1147's brass lock handle.
         </div>
@@ -313,15 +309,13 @@
 
       <!-- Curator Audit Notes -->
       <div class="dossier-report" style="background:#fef9c3; border-color:#fde047;">
-        <h3 style="font-family:'Cinzel',serif; color:#713f12; margin-bottom:4px;">📜 CURATOR'S HANDWRITTEN AUDIT NOTES
-          (OCTOBER 24)</h3>
-        <p style="font-style: italic; color:#422006; font-size: 11pt; line-height: 1.4;">
-          "For seven days, I have quietly cross-referenced the physical preservation registers against the digital
-          terminal logs. The discrepancies are undeniable. Someone inside the Starlight Circle has been abusing master
-          access clearance to enter the restricted vault without leaving an official digital record. A sealed historical
-          archive dossier has been tampered with to conceal an embarrassing, fraudulent family secret from 1926 that
-          would strip a prominent member of their hereditary title... I will read the unlogged access breach out loud
-          and revoke this individual's keys permanently at 12:00 AM."<br>
+        <h3 style="font-family:'Cinzel',serif; color:#713f12; margin-bottom:4px;">📜 CURATOR'S HANDWRITTEN AUDIT MEMO (OCTOBER 24)</h3>
+        <p style="font-style: italic; color:#422006; font-size: 10pt; line-height: 1.35; margin-bottom:4px;">
+          "For seven days, I have conducted an exhaustive audit of the Starlight Archives. Standards of scholarly integrity have been severely compromised from within. Active inquiries under formal review:<br>
+          • <strong>Catalog Tampering:</strong> Forged marginalia discovered in restricted folio volumes, and missing catalog index records unaccounted for in central filing.<br>
+          • <strong>Plagiarism & Leaks:</strong> Substantial evidence of verbatim plagiarism in recent publications, leaked society proceedings, and unauthorized surveillance.<br>
+          • <strong>Access Breaches:</strong> Unlogged holding movements, unauthorized tampering with display cases, and deliberate alterations to sealed historical family records.<br>
+          Tonight at 12:00 AM, before the main exhibition commences, I will formally present these charges before the full gathering and revoke the credentials of every individual involved."<br>
           <span style="font-weight: bold; float: right;">— J. Curator</span>
         </p>
       </div>
@@ -517,38 +511,32 @@
         <div class="evidence-meta">Round 3 Drop • Regional Forensic Crime Lab</div>
       </div>
 
-      <div class="dossier-report" style="background:#ffffff; border: 2px solid #047857;">
+      <div class="dossier-report" style="background:#ffffff; border: 2px solid #334155;">
         <div class="stamp-lab">CRIME LAB BIOCHEMICAL ANALYSIS • STATUS: COMPLETED</div>
         <p style="margin-bottom: 8px; font-family:'JetBrains Mono',monospace; font-size:9.5pt;">CASE REF: STARLIGHT
           ARCHIVES INCIDENT | LAB FILE: #TOX-2026-881</p>
 
         <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
-          <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">1. Left Forearm Scratch & Sleeve Swab Analysis:</h4>
-          <p style="font-size:10pt;">Swab analysis of the coat sleeve tear and forearm scratch revealed trace black fountain pen ink and non-toxic metal particles from a gold-plated pen nib.<br>
-            <strong>>>> TEST RESULT: 100% CLEAN & NON-TOXIC.</strong><br>
-            <em>The scratch was a superficial scrape sustained earlier today and played zero role in the victim's death.</em>
+          <h4 style="color:#1e293b; font-family:'Cinzel',serif;">1. Left Forearm Puncture & Sleeve Swab Analysis:</h4>
+          <p style="font-size:10pt;">Swab analysis of the coat sleeve tear and forearm puncture wound revealed trace black fountain pen ink and non-toxic metal particles from a gold-plated pen nib.<br>
+            <strong>>>> TEST RESULT: 100% NON-TOXIC / NO POISON DETECTED.</strong><br>
+            <em>The puncture wound was caused by a mechanical strike from the fountain pen and was completely free of toxins or poisons.</em>
           </p>
         </div>
 
         <div style="margin-bottom: 10px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px;">
-          <h4 style="color:#b91c1c; font-family:'Cinzel',serif;">2. Desk Tea Cup #5 Chemical Analysis:</h4>
-          <p style="font-size:10pt;">Chemical testing confirmed lethal concentrations of botanical cyanide/almond toxin
-            inside the tea cup.<br>
-            <strong>>>> TEST RESULT: 100% UNTASTED & FULL.</strong><br>
-            <em>Forensic medical records confirm the victim ceased consuming all caffeinated herbal teas 4 weeks prior
-              on medical advice. Zero tea compounds or ingested toxins were detected in the digestive tract.</em>
+          <h4 style="color:#1e293b; font-family:'Cinzel',serif;">2. Desk Tea Cup #5 Chemical Analysis:</h4>
+          <p style="font-size:10pt;">Chemical testing of the liquid recovered from Tea Cup #5 confirmed lethal concentrations of dissolved botanical cyanide.<br>
+            <strong>>>> TEST RESULT: LETHAL POISON CONFIRMED IN TEA.</strong><br>
+            <em>Chemical analysis confirms the beverage contained a lethal dose of botanical cyanide/almond toxin.</em>
           </p>
         </div>
 
         <div>
-          <h4 style="color:#047857; font-family:'Cinzel',serif;">3. Right Palm & Lock Swab Analysis:</h4>
+          <h4 style="color:#1e293b; font-family:'Cinzel',serif;">3. Right Palm & Lock Swab Analysis:</h4>
           <p style="font-size:10pt;">Swab analysis of the victim's right palm and the brass lock handle of Display Case
-            RB-1147 confirmed heavy concentrations of an <strong>organomercury-based fumigation compound</strong>—a pale
-            chartreuse archival preservation chemical.<br>
-            <strong>>>> COMPOUND PROFILE:</strong> Lethally toxic through prolonged dermal absorption. Restricted
-            hazardous material requiring <strong>CATCH Certification</strong>.<br>
-            <strong>>>> CRITICAL LAB FINDING:</strong> This compound is <strong>NATURALLY UV-FLUORESCENT</strong>! Under
-            395nm UV blacklight, any contaminated liquid or surface will <strong>GLOW VIBRANT NEON GREEN</strong>!
+            RB-1147 confirmed heavy concentrations of an organomercury-based archival preservation chemical—an Ultra Violet light reactive archival preservation chemical.<br>
+            <strong>>>> COMPOUND PROFILE:</strong> Lethally toxic through dermal contact absorption.
           </p>
         </div>
       </div>
@@ -560,92 +548,94 @@
     </div>
   </div>
 
-  <!-- PAGE 6: EVIDENCE ITEM 10 (CURATOR'S 5x7 SECRET LETTER) -->
+  <!-- PAGE 6: EVIDENCE ITEM 10 (CURATOR'S 5x7 LETTER) -->
   <div class="evidence-page">
     <div>
       <div class="evidence-header">
-        <div class="evidence-title">Evidence Item 10: Curator's Secret Letter</div>
+        <div class="evidence-title">Evidence Item 10: Curator's Private Letter</div>
         <div class="evidence-meta">Round 3 Drop • Folio 5" × 7" Format</div>
       </div>
 
-      <!-- Sized 5" x 7" container -->
+      <!-- Sized 5" x 7" container perfectly calibrated for laser-cut aperture plate -->
       <div class="letter-5x7-container">
-        <div
-          style="font-family:'Cinzel',serif; font-size:11pt; color:#8b7355; letter-spacing:2px; text-align:center; border-bottom:1px solid #d5c8b5; padding-bottom:4px; margin-bottom:10px;">
-          THE STARLIGHT ARCHIVES • FROM THE CURATOR'S DESK
-        </div>
+        <svg viewBox="0 0 500 700" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+          <!-- Parchment Border -->
+          <rect x="15" y="15" width="470" height="670" rx="8" ry="8" fill="none" stroke="#d5c8b5" stroke-width="1.5" />
+          <rect x="22" y="22" width="456" height="656" rx="5" ry="5" fill="none" stroke="#e8dec8" stroke-width="0.75" stroke-dasharray="4,4" />
 
-        <div class="letter-content">
-          To the members of the Starlight Circle,<br><br>
-          As we gather tonight, I must remind you that the privileges granted inside the Starlight Archives are sacred.
-          We built this circle on trust. Unfortunately, recent audits reveal that someone manipulated Item RB-1147 to
-          mask their unlogged entry into the vault.<br><br>
-          Tonight, I will prove who tampered with the brass lock before midnight. If you were hoping to cover your
-          tracks, you was sorely mistaken. Everything that was tampered with in the gallery archives will be brought to
-          light.<br><br>
-          <span style="float: right; font-style: italic;">— The Curator</span>
-        </div>
+          <!-- Corner Filigree Accents -->
+          <circle cx="35" cy="35" r="3" fill="#8b7355" opacity="0.6" />
+          <circle cx="465" cy="35" r="3" fill="#8b7355" opacity="0.6" />
+          <circle cx="35" cy="665" r="3" fill="#8b7355" opacity="0.6" />
+          <circle cx="465" cy="665" r="3" fill="#8b7355" opacity="0.6" />
 
-        <div
-          style="font-family:'JetBrains Mono',monospace; font-size:7pt; color:#8b7355; text-align:center; border-top:1px solid #d5c8b5; padding-top:4px; letter-spacing:1px;">
-          STARLIGHT ARCHIVES RESTRICTED FOLIO • REF. SA-1847 • 5×7 STANDARD
-        </div>
+          <!-- Letterhead -->
+          <text x="250" y="58" font-family="'Cinzel', serif" font-size="12" font-weight="bold" letter-spacing="2.5" text-anchor="middle" fill="#8b7355">THE STARLIGHT ARCHIVES</text>
+          <text x="250" y="74" font-family="'Cinzel', serif" font-size="8" letter-spacing="1.5" text-anchor="middle" fill="#a08c72">FROM THE DESK OF THE CURATOR</text>
+          <line x1="120" y1="84" x2="380" y2="84" stroke="#d5c8b5" stroke-width="1" />
+
+          <!-- Letter Body -->
+          <g font-family="'EB Garamond', Georgia, serif" font-size="14.5" fill="#2c2523">
+            <text x="45" y="125">To the members of the Starlight Circle,</text>
+
+            <text x="45" y="165">As we gather tonight, I must remind you that the privileges</text>
+            <text x="45" y="198">granted inside the Starlight Archives are sacred. We built this</text>
+            <text x="45" y="231">circle on trust. Recent audits reveal that someone has secretly</text>
+            <text x="45" y="271">manipulated the glass case of <tspan>Item RB-1147</tspan> to mask their unlogged</text>
+            <text x="45" y="304">entry into the secure rare book repository.</text>
+
+            <text x="45" y="363">Tonight, I will inspect the gallery <tspan>lock</tspan> before midnight.</text>
+            <text x="45" y="413">If you were secretly hoping to cover tracks, you <tspan>was</tspan> mistaken.</text>
+            <text x="45" y="463">Everything that was <tspan>tampered</tspan> with in the archives tonight</text>
+            <text x="45" y="496">will be brought to light before this gathering concludes.</text>
+
+            <text x="445" y="555" text-anchor="end" font-style="italic" font-size="15" fill="#3a302d">— The Curator</text>
+          </g>
+        </svg>
       </div>
     </div>
 
     <div class="footer-note">
       <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-      <span>EVIDENCE ITEM #10 (CIPHER LETTER)</span>
+      <span>EVIDENCE ITEM #10 (CURATOR'S LETTER)</span>
     </div>
   </div>
 
   <!-- PAGE 7: EVIDENCE ITEM 11 & ITEM 12 -->
+  <!-- PAGE 7: EVIDENCE ITEM 11 (HARDWARE & PHYSICAL TRACE ANALYSIS REPORT) -->
   <div class="evidence-page">
     <div>
       <div class="evidence-header">
-        <div class="evidence-title">Evidence Items 11 & 12: Duty Log & Trace Report</div>
-        <div class="evidence-meta">Round 3 Drop • Final Forensic Cross-Reference</div>
+        <div class="evidence-title">Evidence Item 11: Hardware & Physical Trace Analysis Report</div>
+        <div class="evidence-meta">Round 3 Drop • Regional Crime Lab Forensic Physical Trace Unit</div>
       </div>
 
-      <!-- Conservation Duty Log -->
-      <div class="dossier-report" style="margin-bottom: 12px;">
-        <h3 style="font-family:'Cinzel',serif; color:#0f172a; margin-bottom:4px;">📜 EVIDENCE ITEM 11: CONSERVATION DUTY
-          REGISTER</h3>
-        <p style="font-size:10pt; margin-bottom:4px;"><strong>Target Item:</strong> Catalog Item RB-1147 (The Starlight
-          Ledger) | <strong>Location:</strong> Vault Case #1</p>
-        <div style="font-size:9.5pt; background:#fff; border:1px solid #cbd5e1; padding:8px; border-radius:3px;">
-          • <strong>Primary Conservator for RB-1147 (Vault Cases):</strong> <strong>RAELIN (Keeper of Keys)</strong><br>
-          &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
-          &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation
-          Sealant)<br>
-          &nbsp;&nbsp;— Vault Case Authorization: <strong>YES</strong><br>
-          • <strong>Secondary Conservator (Holding Area Items ONLY):</strong> <strong>CHARLOTTE (Rare Book
-            Specialist)</strong><br>
-          &nbsp;&nbsp;— Certification: <strong>CATCH</strong> (Chemical Handling & Archival Toxicology)<br>
-          &nbsp;&nbsp;— Authorized Reagents: Full Chemical Kit (Jars A–E, including Jar E: Archival Fumigation
-          Sealant)<br>
-          &nbsp;&nbsp;— Vault Case Authorization: <strong>NO (Holding Area only)</strong><br>
-          • <strong>Prep Schedule Window:</strong> 23:30 – 23:45 HRS (15-Minute Unmonitored Gap)
+      <div class="dossier-report" style="background:#ffffff; border: 2px solid #334155;">
+        <div class="stamp-lab">CRIME LAB PHYSICAL TRACE & HARDWARE REPORT • STATUS: FINAL</div>
+        <p style="margin-bottom: 8px; font-family:'JetBrains Mono',monospace; font-size:9.5pt;">CASE REF: STARLIGHT ARCHIVES INCIDENT | LAB FILE: #TRACE-2026-904</p>
+
+        <div style="margin-bottom: 14px; border-bottom: 1px solid #e2e8f0; padding-bottom: 12px;">
+          <h4 style="color:#1e293b; font-family:'Cinzel',serif; margin-bottom:6px;">1. Recovery & Perimeter Trace Details:</h4>
+          <ul style="padding-left: 20px; font-size: 10pt; line-height: 1.5;">
+            <li><strong>Target Item:</strong> Solid-brass master key ring stamped with institutional designation <strong>#000</strong>.</li>
+            <li><strong>Recovery Location:</strong> Exterior courtyard hedge perimeter, situated directly beneath the unlatched gallery window sill (found adjacent to the recovered camera lens cap).</li>
+            <li><strong>Physical Condition:</strong> Clean brass surface; heavy antique barrel with notched bit configuration. Latent fingerprint dusting inconclusive due to glove handling.</li>
+          </ul>
         </div>
-      </div>
 
-      <!-- Toolkit Trace Report -->
-      <div class="dossier-report" style="background:#f0fdf4; border-color:#86efac;">
-        <h3 style="font-family:'Cinzel',serif; color:#166534; margin-bottom:4px;">🔬 EVIDENCE ITEM 12: MASTER TOOLKIT &
-          TRACE ANALYSIS</h3>
-        <p style="font-size:9.5pt; color:#14532d; line-height:1.4;">
-          1. <strong>Discarded Master Key #000:</strong> Microscopic swab of Master Key #000 recovered from the courtyard
-          hedges revealed fine brass dust particles matching the newly scraped lock tumblers of Display Case RB-1147.<br>
-          2. <strong>Chemical Kit UV Scan:</strong> Jar E (Archival Fumigation & Anti-Pest Sealant) and an associated
-          preservation applicator cloth <strong>GLOW NEON GREEN</strong> under 395nm UV light, perfectly matching the organomercury
-          fumigation compound swabbed from the victim's right palm and the RB-1147 brass lock handle.
-        </p>
+        <div>
+          <h4 style="color:#1e293b; font-family:'Cinzel',serif; margin-bottom:6px;">2. Microscopic Tumbler Striation Analysis:</h4>
+          <ul style="padding-left: 20px; font-size: 10pt; line-height: 1.5;">
+            <li><strong>Key Bit Examination:</strong> High-magnification optical inspection of the key bit notches revealed fresh mechanical friction striations and minute brass shavings adhering to the primary ward cuts.</li>
+            <li><strong>Tumbler Profile Cross-Reference:</strong> Striation patterns along Key Bit #000 correspond directly to the double-flanged cylinder mechanics of the courtyard gallery window latch and the antique brass tumbler assembly of display case RB-1147.</li>
+          </ul>
+        </div>
       </div>
     </div>
 
     <div class="footer-note">
       <span>STARLIGHT ARCHIVES EVIDENCE REPOSITORY</span>
-      <span>EVIDENCE ITEMS #11 & #12</span>
+      <span>EVIDENCE ITEM #11 (TRACE ANALYSIS)</span>
     </div>
   </div>
 
