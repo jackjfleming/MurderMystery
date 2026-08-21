@@ -199,7 +199,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 VICTORIA — The Annotator | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Fountain pens are for annotating books, not murder! John only had a tiny surface scratch from an argument—he walked into this room on his own two feet!"
+"Fountain pens are for annotating books, not murder! The altercation earlier was an argument, and John walked into this room on his own two feet!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "While reading in the main hall during prep, I saw Lucy on a step-stool adjusting the spotlights directly above the Curator's study desk."
@@ -215,7 +215,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 GIANNA — Amateur Sleuth | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Don't get distracted by the tea cup or the arm scratch—look for what John actually touched in the gallery!"
+"I study archive rumors and record audio notes, not chemical toxins! If you found a wire fragment in the reading room, it's just audio equipment—not a weapon!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
 "During the prep window, I walked past the breakroom and saw Hope brewing an herbal tea that had a strong, pungent smell of bitter almonds!"
@@ -255,10 +255,10 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 RUTHANNE — Library Darling | ROUND 2 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"I don't know anything about rare book locks or chemical preservation!"
+"I came here to celebrate the archive collection! I don't know anything about rare book locks or chemical preservation!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I noticed glowing markings on the books near the evidence table—we should use the UV blacklights to scan their spines!"
+"I saw Raelin leaving the conservation supply room in a rush right before the front doors opened, looking over her shoulder."
 --------------------------------------------------------------------------------
 📜 LUCY — Aesthetic Curator | ROUND 2 SLIP
 --------------------------------------------------------------------------------
@@ -282,7 +282,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 
 # 📜 **ROUND 3 SCRIPT SLIPS (Print & Cut)**
 
-*Instructions for Whitney: Hand these slips to each guest at the start of Round 3 along with Evidence Packet 3 (Toxicology Report, Curator's Letter + Laser Overlay Mask, Conservation Duty Log, Master Toolkit Report, Voting Ballots).*
+*Instructions for Whitney: Hand these slips to each guest at the start of Round 3 along with Evidence Packet 3 (Toxicology Report, Curator's Private Letter & Celestial Aperture Matrix, Master Toolkit & Trace Report, Voting Ballots).*
 
 ```text
 --------------------------------------------------------------------------------
@@ -292,7 +292,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "Check the timeline! Anyone could have entered the gallery through the courtyard window during the 15-minute prep gap."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The Conservation Duty Log shows the maintenance schedule, but anyone with physical access could have tampered with the case."
+"The facility register lists who has key clearances, but anyone with physical access could have entered the gallery during prep."
 --------------------------------------------------------------------------------
 📜 CLAIRE — Order Keeper | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -313,10 +313,10 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 BROOKLYN — Underground Publisher | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Look at the secret note found on the desk—it proves the Curator knew the display lock was tampered with in advance!"
+"I publish underground pamphlets, but I didn't kill John! He knew someone inside the Circle was secretly manipulating archival entries."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The wooden overlay mask fits over John's handwritten letter—place the cutout slots over the letter to read what John decoded!"
+"John told me earlier this evening that he caught someone handling the Rare Books vault records without authorization."
 --------------------------------------------------------------------------------
 📜 CHARLOTTE — Rare Book Specialist | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -329,18 +329,18 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 CHRISTINA — Silver-Tongued Debater | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"You need specialized chemical knowledge to apply a contact poison safely. Who here has that training?"
+"Applying a toxic preservation chemical requires specialized conservator training. Who among us actually handles those compounds?"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The lab report says the poison on the lock is naturally UV-fluorescent—use the UV flashlights to check the jars in the Chemical Kit!"
+"Only staff members with conservation clearance have authorized access to the archival chemical preservation kit."
 --------------------------------------------------------------------------------
 📜 VICTORIA — The Annotator | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"My alibi is verified. Focus on whoever was unmonitored during the 15-minute window before arrival!"
+"I was in the lounge before the doors opened. Focus on whoever was unmonitored during the 15-minute prep gap!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The toxicology report completely cleared the arm scratch—the hallway tussle had nothing to do with his death!"
+"The toxicology report confirms the puncture on John's arm from the gold pen nib had no poison on it whatsoever."
 --------------------------------------------------------------------------------
 📜 ELLIE — Puzzle Tinker | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -353,18 +353,18 @@ This document contains all 48 printable dialogue and witness slips (16 character
 📜 GIANNA — Amateur Sleuth | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"We need to match motive, access, AND chemical capability to find the real killer!"
+"We need to look closely at who had the physical keys, the chemical training, and a reason to access that ledger."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The lab confirmed the desk tea was 100% full and untasted—John gave up caffeinated tea weeks ago, so the poisoned drink theory is completely out!"
+"John gave up drinking caffeinated herbal tea four weeks ago on strict medical advice—he hasn't touched a cup of tea all month."
 --------------------------------------------------------------------------------
 📜 HOPE — Literary Prodigy | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"The report says the desk tea cup was full and untasted! I didn't have access to the gallery vault lock!"
+"I brought John tea earlier like I always used to, but he told me he stopped drinking tea weeks ago! And I don't have keys to any vault locks in the gallery!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The toxicology report proves the murder happened through dermal contact on the lock handle, not through drinks or food!"
+"The toxicology report showed the lethal poison was found on John's palm and the brass handle of the display case."
 --------------------------------------------------------------------------------
 📜 GEORGIA — Archivist of Secrets | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -372,7 +372,7 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "Check the digital logs! My access card was logged at the central desk the whole time."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"I sat next to Charlotte at the intake desk for the entire 15-minute prep gap—Charlotte is completely cleared on timeline!"
+"Charlotte was sitting right next to me at the intake desk from 23:35 to 23:50—she never left my sight during the prep window."
 --------------------------------------------------------------------------------
 📜 KAITLIN — Silent Strategist | ROUND 3 SLIP
 --------------------------------------------------------------------------------
@@ -388,23 +388,23 @@ This document contains all 48 printable dialogue and witness slips (16 character
 "The murder happened at the display case lock. Look for who had vault access!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"The arm scratch was completely non-toxic and clean—our hallway argument had nothing to do with his death."
+"The lab report confirmed the puncture wound on John's arm was completely non-toxic and free of poisons."
 --------------------------------------------------------------------------------
 📜 RUTHANNE — Library Darling | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"I'm just a guest here—I don't have master access keys to restricted gallery cases!"
+"I'm just a guest here—I don't have access to staff conservation kits or restricted vault keys!"
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"Check Jar E in the Chemical Kit under the blacklight—it glows vibrant neon green, exactly matching the poison on John's palm!"
+"I noticed that the Chemical Preservation Kit on the display table was left unlocked during the entire prep window."
 --------------------------------------------------------------------------------
 📜 LUCY — Aesthetic Curator | ROUND 3 SLIP
 --------------------------------------------------------------------------------
 💬 DEFENSE / DIALOGUE:
-"Restricted display cases are locked by the Keeper of Keys, not event decorators!"
+"Restricted display cases are locked by the Keeper of Keys, not event decorators! I only handle framing glues and border paints."
 
 👁️ OBSERVATION TO SHARE (Tell this to other guests this round!):
-"My frame solvents and paint glues didn't match the lab toxicology—only the organomercury compound in Jar E matched the lock swab."
+"My frame solvents and paint glues are non-hazardous studio supplies—completely separate from the locked chemical preservation kit."
 --------------------------------------------------------------------------------
 📜 VALE — Unfortunate Witness | ROUND 3 SLIP
 --------------------------------------------------------------------------------

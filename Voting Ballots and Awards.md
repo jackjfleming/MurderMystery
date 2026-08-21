@@ -25,7 +25,7 @@ GUEST NAME: ____________________________  CHARACTER: ___________________________
    [ ] Ellie (Puzzle Tinker)              [ ] Vale (Unfortunate Witness)
 
 2. WHAT WAS THE TRUE MURDER METHOD? (Check ONE):
-   [ ] Corridor Altercation / Trauma from the fountain pen scratch
+   [ ] Corridor Altercation / Trauma from the fountain pen stabbing
    [ ] Ingested Poison / Fatal herbal toxin in desk tea cup
    [ ] Dermal Contact Poison / Lethal organic toxin coated on Case RB-1147 lock
 
@@ -62,7 +62,7 @@ GUEST NAME: ____________________________  CHARACTER: ___________________________
 |         ____________________________________________________________         |
 |                                                                              |
 |    For flawlessly aligning the 6 Proof Pillars, seeing through the red       |
-|    herrings of the arm scratch and the poisoned tea, and correctly           |
+|    herrings of the fountain pen stabbing and the poisoned tea, and correctly|
 |    identifying the true killer, delivery method, and 1926 ferret motive!     |
 |                                                                              |
 |    DATED: October 24, 2026                                                   |

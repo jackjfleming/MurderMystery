@@ -35,6 +35,6 @@ John served as the chief overseer of the Starlight Archives' restricted vault an
 > * **The Final Movement:** Arrived at the archives shortly before guests were admitted. He engaged in a minor hallway altercation right before stepping through the hall, clutched an injured arm, touched the brass lock of Item RB-1147 at the gallery archway, and collapsed instantly.
 
 **KNOWN EVIDENCE FOUND ON / NEAR THE VICTIM:**
-> * **On His Person:** A minor coat sleeve tear and small surface scratch on his left forearm *(Preliminary findings: sustained during an argument earlier today)*.  
+> * **On His Person:** A coat sleeve tear and puncture wound on his left forearm *(Preliminary findings: sustained during a heated altercation earlier today where he was struck with a fountain pen)*.  
 > * **On His Desk:** A ceramic tea cup with saucer smelling of tea and concentrated bitter almond infusion.  
-> * **At His Desk Safe:** A confidential handwritten note left for the Starlight Circle, cryptically noting that Item RB-1147 was tampered with before midnight.
+> * **On His Study Desk:** A sealed handwritten letter addressed to the members of the Starlight Circle regarding tonight's rare book collection.
