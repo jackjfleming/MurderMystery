@@ -189,9 +189,9 @@ Cause of death is acute dermal absorption (skin contact) via a lethal archival f
 
 ---
 
-### **Evidence Item 10: Curator's Secret Letter & Laser-Cut Overlay Mask (P3)**
+### **Evidence Item 10: Curator's Secret Letter & Laser-Cut Celestial Aperture Plate**
 
-**Physical Setup:** Print the letter below on parchment paper. Cut a 5"×7" 3mm wooden or dark acrylic **Decryption Mask** on your xTool P3 with 4 cutout window slots. When overlaid, only the target words show through.
+**Physical Setup:** Print the letter below on parchment paper. Cut a 5"×7" 3mm wooden or dark acrylic plate using [Laser Overlay Cipher.svg](file:///Users/jfleming/Library/CloudStorage/GoogleDrive-jackj.fleming@gmail.com/My%20Drive/Starlight%20Archive%20Murder%20Mystery/Laser%20Overlay%20Cipher.svg) (Front: *Celestial Aperture Matrix*) and [Laser Overlay Cipher - Reverse Side.svg](file:///Users/jfleming/Library/CloudStorage/GoogleDrive-jackj.fleming@gmail.com/My%20Drive/Starlight%20Archive%20Murder%20Mystery/Laser%20Overlay%20Cipher%20-%20Reverse%20Side.svg) (Back: *1847 Celestial Astrolabe Planisphere & Star Chart*). When overlaid on the curator's letter, the four aperture slits reveal only the target words.
 
 ```text
 To the members of the Starlight Circle,
