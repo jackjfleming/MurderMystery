@@ -49,7 +49,7 @@ The mystery presents three distinct, competing investigative theories that playe
 │   (sharp fountain pen).   │   Lucy (seen near desk).     │   gap, maintenance duty).    │
 │ • Disproven by:           │ • Disproven by:              │ • Confirmed by:              │
 │   Toxicology (Round 2/3): │   Toxicology (Round 3):      │   Toxicology & Swabs (R3):   │
-│   Scratch and pen ink are │   Tea was 100% untasted;     │   Lock swab matches Jar E    │
+│   Pen puncture & ink are  │   Tea was 100% untasted;     │   Lock swab matches Jar E    │
 │   100% clean & non-toxic. │   John quit tea weeks ago.   │   fumigation compound (UV).  │
 └───────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```

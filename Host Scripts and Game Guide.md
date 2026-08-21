@@ -49,15 +49,15 @@ Review your Round 2 scripts, cross-examine those with chemical knowledge, and so
 
 ## **📜 Round 3 Host Script: The Overlay Cipher, Jar E UV Glow & Final Ballots**
 
-**Host Setup:** Whitney drops Round 3 Evidence (Toxicology Report, Curator's Secret Letter, Conservation Log, Master Toolkit Report). Hand out the **xTool P3 Laser-Cut Overlay Masks**, **Round 3 Script Slips**, and **Voting Ballots**.
+**Host Setup:** Whitney drops Round 3 Evidence (Toxicology Report, Curator's Private Letter, Master Toolkit & Trace Report). Hand out the **Round 3 Script Slips** and **Voting Ballots**.
 
 **HOST SCRIPT — ROUND 3 (Detective Jack):**  
 "This is Round 3—our final round of investigation before voting!  
-The lab results are in! Forensic analysis confirms that the scratch on the Curator's arm was completely clean and non-toxic—ruling out the hallway altercation! Furthermore, the desk tea cup was found 100% full and untasted because John quit caffeinated tea weeks ago—ruling out poisoned drink!  
-The lethal dose was a **dermal contact poison** on the brass lock of Item RB-1147—specifically, an organomercury-based archival fumigation compound that is lethally toxic through skin contact! Crucially, the crime lab notes that this compound is **naturally UV-fluorescent**!  
+The lab results are in! Forensic analysis confirms that the puncture wound on the Curator's arm from the fountain pen strike was completely free of toxins—ruling out a venom-tipped stabbing! Furthermore, chemical tests confirmed the desk tea was laced with poison, but witnesses know John quit drinking caffeinated tea weeks ago—ruling out poisoned drink!  
+The lethal dose was a **dermal contact poison** on the brass lock of Item RB-1147—specifically, an organomercury-based archival chemical that is lethally toxic through skin contact!  
 Take your UV flashlights and inspect the Chemical Preservation Kit on our display table! Find which jar glows under UV light!  
-Then, take the laser-cut wooden overlay mask and place it over the Curator's handwritten note to decrypt his secret message!  
-Remember: the Conservation Log shows TWO people with CATCH certification and Chemical Kit access—so you must check physical key clearances and timeline alibis to find the real culprit!  
+Then, examine the Curator's private letter alongside our physical maker artifacts to uncover his hidden warning!  
+Remember: the Facility Key Register shows TWO people with CATCH certification and Chemical Kit access—so you must check physical key clearances and timeline alibis to find the real culprit!  
 Cross-reference all 6 Proof Pillars, fill out your Voting Ballots, and cast your accusations in the ballot box!"
 
 ---
@@ -96,17 +96,26 @@ The person who wiped the lock to protect her family's 37-ferret secret is...
 
 ---
 
-## **📋 Parent Host Whispering Prompts (Jack & Whitney Cheat-Sheet)**
+## **📋 Parent Host Whispering Prompts & Investigation Outcomes (Jack & Whitney Cheat-Sheet)**
 
-If the energy slows down or a guest seems shy, Jack or Whitney can casually walk over and whisper one of these conversational prompts:
+If the energy slows down or a guest seems shy / stuck, Jack or Whitney can casually walk over and whisper one of these conversational prompts, keeping the investigation flowing across the Three Tracks:
 
-| Suspect / Guest | Round | Host Whispering Prompt |
-| :--- | :---: | :--- |
-| **Hope** | R1/R2 | *"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"* |
-| **Victoria / Maddie** | R1/R2 | *"Notice John's sleeve? Ask Maddie what they were shouting about in the hallway, or ask Victoria why she threw away a fountain pen!"* |
-| **Sarah** | R2 | *"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"* |
-| **Ellie** | R2/R3 | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"* |
-| **Lucy / Christina** | R2 | *"Lucy was adjusting lighting and Christina was at the console. Ask them who they saw walking near the Curator's desk!"* |
-| **Charlotte** | R2/R3 | *"Charlotte had the master key earlier today and has CATCH certification! Ask her where she was during the prep window and when she returned the key!"* |
-| **Raelin** | R3 | *"Both Raelin and Charlotte know Jar E! But which one possessed Master Key #000 tonight and was missing during the 15-minute prep gap?"* |
-| **General Guest** | R3 | *"Shine your 395nm UV light on the Chemical Kit jars on the table—look which jar glows neon green!"* |
+| Suspect / Guest | Role & Track | Target Investigation Outcome | Host Whispering Prompt |
+| :--- | :--- | :--- | :--- |
+| **1. Raelin** | Keeper of Keys (`#000`)<br>*(Track 3 • CULPRIT)* | Primary culprit; satisfies all 6 Proof Pillars (Master Key #000 + CATCH chemical certification + 15-min prep gap 23:30–23:45). | *"Both Raelin and Charlotte know Jar E! But which one possessed Master Key #000 tonight and was missing during the 15-minute prep gap?"* |
+| **2. Claire** | Order Keeper (`#002`)<br>*(Track 3 • EXONERATED)* | Deflects "The Biscuit Incident"; logged at front desk (23:30 onward); holds card key only. | *"Ask Claire how physical master keys differ from electronic RFID cards when opening window latches!"* |
+| **3. Sarah** | Photographer (Guest Pass)<br>*(Track 3 • RED HERRING)* | Deflects dropped lens cap; cleared by Vale & Kaitlin who confirm Sarah stayed on garden path and never opened window. | *"Did you see the camera lens cap on the courtyard window? Go ask Sarah what she was photographing outside!"* |
+| **4. Brooklyn** | Underground Publisher<br>*(General • EXONERATED)* | Hides Tumblr initiation exposé; holds public reading pass only; printing ink is non-toxic. | *"Ask Brooklyn what other secrets John was holding over members to understand everyone's motives!"* |
+| **5. Charlotte** | Rare Book Specialist (`#005`)<br>*(Track 3 • RED HERRING)* | Prime chemical red herring (CATCH certified); returned Master Key #000 at 5:00 PM; cleared by front desk alibi with Georgia (23:35–23:50). | *"Charlotte had the master key earlier today and has CATCH certification! Ask her where she was during the prep window and when she returned the key!"* |
+| **6. Christina** | Silver-Tongued Debater<br>*(Track 2 • EXONERATED)* | Hides leaked election recording; cleared by reviewing debate notes near console; no keys. | *"Christina was seen near the console—ask her what she was reviewing and who she saw walking near John's study desk!"* |
+| **7. Victoria** | The Annotator<br>*(Track 1 • RED HERRING)* | Panicked and jabbed John with fountain pen; prime physical red herring; cleared by toxicology proving pen puncture was 100% non-toxic. | *"Notice John's torn sleeve and puncture? Ask Victoria why she threw away a fountain pen, then check the toxicology report!"* |
+| **8. Ellie** | Puzzle Tinker (`#008`)<br>*(Track 3 • EXPERT)* | Explains lock picking days ago; expert deduction proves lock was turned by original Master Key #000 (not pick wires); zero chemical training. | *"Ellie is the puzzle tinker. Ask her if someone picked that lock or if they used a physical master key, or if someone could have made a wax copy!"* |
+| **9. Gianna** | Amateur Sleuth<br>*(Track 2 • SLEUTH)* | Hides Wicked audio recordings; smelled bitter almond in breakroom (Hope); pushes players to investigate 15-min prep gap (23:30–23:45). | *"Ask Gianna what she smelled in the breakroom earlier, or what leads she discovered about the 15-minute prep gap!"* |
+| **10. Hope** | Literary Prodigy<br>*(Track 2 • RED HERRING)* | Spiked desk tea with bitter almond extract; prime tea red herring; cleared because John quit caffeinated tea weeks ago and cup was untouched. | *"Psst—someone mentioned smelling bitter almonds near the desk. Ask Hope what kind of tea she was making in the breakroom!"* |
+| **11. Georgia** | Archivist of Secrets<br>*(Track 3 • ALIBI WITNESS)* | Hides gum-stuck index cards; provides ironclad alibi confirming Charlotte was with her at intake desk (23:35–23:50); zero chemical training. | *"Ask Georgia who was sitting with her at the front intake desk during the critical 15-minute prep window!"* |
+| **12. Kaitlin** | Silent Strategist<br>*(Track 3 • EYEWITNESS)* | Hides "Midnight Quill" alias; eyewitness confirming Sarah stayed on garden path; directs attention to who held physical master keys. | *"Ask Kaitlin what she observed outside in the courtyard garden from the reading alcove!"* |
+| **13. Maddie** | Conservatory Reader<br>*(Track 1 • WITNESS)* | Explains ripped coat sleeve was accidental grab during argument; testifies John entered alive, alert, shouting, and on his own two feet. | *"Notice John's torn sleeve? Ask Maddie what they were shouting about in the hallway before he entered!"* |
+| **14. Ruthanne** | Library Darling<br>*(Track 3 • EYEWITNESS)* | Hides fake charity book drive receipt; crucial eyewitness who saw Raelin hurriedly leaving conservation supply room right before doors opened. | *"Ask Ruthanne who she saw rushing out of the conservation supply room right before the front doors opened!"* |
+| **15. Lucy** | Aesthetic Curator (`#011`)<br>*(Track 2 • EXONERATED)* | Hides Amazon print barcode; explains step-stool was for lighting adjustment; Lighting Key has no vault access; solvents are non-toxic. | *"Lucy was on a step-stool near John's desk—ask her what she was adjusting and whether her lighting key opens display locks!"* |
+| **16. Vale** | Unfortunate Witness<br>*(Track 3 • SCENE WITNESS)* | Feared safe dossier; crucial eyewitness anchoring that John only collapsed upon touching Case RB-1147's brass lock, and spotted window motion. | *"Ask Vale exactly what happened the moment John reached the gallery archway, and what Vale noticed at the courtyard window!"* |
+| **General Hint** | All Guests *(Round 3)* | Guides guests to the physical evidence test on the central Evidence Table. | *"Shine your 395nm UV light on the Chemical Kit jars on the table—look which jar glows neon green!"* |

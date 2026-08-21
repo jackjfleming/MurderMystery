@@ -7,7 +7,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 ## **💡 Host Reference: The Three Competing Tracks**
 
 1. **🖋️ Track A (Corridor Altercation / Fountain Pen Stabbing Red Herring):** Maddie (grabbed sleeve in corridor) & Victoria (deliberately jabbed John with sharp fountain pen, dropped pen in trash).  
-   *Exoneration:* Forensics confirms the arm scratch was a superficial wound and 100% clean and non-toxic.
+   *Exoneration:* Forensics confirms the forearm puncture wound from the fountain pen was 100% non-toxic and free of poison.
 2. **☕ Track B (Poisoned Tea Cup):** Hope (admitted botanical poison attempt), Christina & Lucy (seen near desk setup).  
    *Exoneration:* Forensics confirms the tea cup was 100% full and untasted (John ceased drinking caffeinated tea 4 weeks prior on medical advice).
 3. **🧪 Track C (Dermal Contact Poison on Display Lock):** Raelin (official conservator for RB-1147; applied Jar E Archival Fumigation Compound to lock handle).  
@@ -24,9 +24,9 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | **YES (Critical)** | Facing public ruin and title revocation over an embarrassing 1926 family fraud secret (Arthur's 37 ferrets revealed in the finale). | Character Secret / Audit Notes (#3) / Round Slips |
 | **2. Secret Knowledge** | **YES (Critical)** | Knew John's week-long audit was complete and that he planned to expose her breach at midnight. | Character Backstory & Secret / Audit Notes (#3) |
 | **3. Physical Access** | **YES (Critical)** | Holds physical Master Key (#000) capable of unlatching the courtyard gallery window and opening vault display case RB-1147. | Key Clearance Register (#4) / Terminal Record (#1) |
-| **4. Mechanical Capability** | **YES (Critical)** | Primary vault conservator authorized to handle Jar E (*Archival Fumigation & Anti-Pest Sealant*) — a hazardous organomercury compound lethal through skin contact. Holds CATCH Certification (Certification for Archival Toxicology & Chemical Handling). | Conservation Duty Log (#11) / Chemical Kit |
+| **4. Mechanical Capability** | **YES (Critical)** | Primary vault conservator authorized to handle Jar E (*Archival Fumigation & Anti-Pest Sealant*) — a hazardous organomercury compound lethal through skin contact. Holds CATCH Certification (Certification for Archival Toxicology & Chemical Handling). | Key Clearance Register (#4) / Chemical Kit |
 | **5. Verified Time Window** | **YES (Critical)** | Unaccounted-for 15-minute gap (23:30–23:45) right before front doors unlocked for guest check-in. | Terminal Access Record (#1) |
-| **6. Physical Trace Evidence** | **YES (Critical)** | Discarded Master Key #000 in courtyard hedges + Jar E glowing neon green under UV matching lock swab. | Master Toolkit Report (#12) / Toxicology Report (#9) |
+| **6. Physical Trace Evidence** | **YES (Critical)** | Discarded Master Key #000 in courtyard hedges + Jar E glowing neon green under UV matching lock swab. | Hardware Trace Report (#11) / Chemical Kit Prop (Jar E) |
 
 **EXONERATION STATUS:** **NOT EXONERATED (THE GUILTY PARTY).** Raelin satisfies every single pillar without contradiction.
 
@@ -39,7 +39,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John threatened to expose "The Biscuit Incident" (ate emergency rations overnight). | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew John was auditing conduct files earlier in the week. | Character Backstory |
 | **3. Physical Access** | **NO** | Carries Card Key #002 (doors only); lacks physical master key to unlatch the courtyard window. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | No Chemical Kit access and no CATCH certification. | Conservation Duty Log (#11) / Key Clearance Register (#4) |
+| **4. Mechanical Capability** | **NO** | No Chemical Kit access and no CATCH certification. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | **NO** | Logged in at the front desk greeting early arrivers from 23:30 onward. | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | **NO** | Zero physical swabs or trace evidence found at scene. | Toxicology Report (#9) |
 
@@ -69,7 +69,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John served a cease-and-desist over her exposé on the Circle's 2016 Tumblr initiation ritual. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Obtained leaked administrative notes regarding vault secrets. | Character Secret |
 | **3. Physical Access** | **NO** | Public reading pass only; no key clearance to restricted wings. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | No chemical preservation or lock-handling expertise. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | No chemical preservation or lock-handling expertise. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Wandering reading stacks alone before arrival. | Character Backstory |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Printing press ink smudges found on public stack desks. | Character Dialogue / Brooklyn Script Slip (R2) |
 
@@ -84,7 +84,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John was filing black-market artifact theft charges against her. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew John discovered missing inventory items. | Character Backstory |
 | **3. Physical Access** | YES (Red Herring) | Borrowed Master Key #000 earlier this afternoon for holding inventory (fueling suspicions of access or key duplication), but returned it to Raelin at 5:00 PM. | Character Backstory / Raelin & Charlotte Script Slips (R2) |
-| **4. Mechanical Capability** | **YES** | Holds CATCH Certification (Certification for Archival Toxicology & Chemical Handling) with full Chemical Kit access (Jars A–E). | Key Clearance Register (#4) / Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **YES** | Holds CATCH Certification (Certification for Archival Toxicology & Chemical Handling) with full Chemical Kit access (Jars A–E). | Key Clearance Register (#4) / Chemical Kit |
 | **5. Verified Time Window** | **NO** | Logged in working at the intake desk with Georgia (23:35–23:50). | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Uncataloged archive tag found in gallery corridor. | Incident Dossier (#2) |
 
@@ -99,7 +99,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John held an audio recording proving she leaked secret society votes. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew John possessed the tape recording. | Character Backstory |
 | **3. Physical Access** | YES | Near central console terminal & desk tea cup (Track B). | Key Clearance Register (#4) / Witness Sightings (Georgia & Lucy) |
-| **4. Mechanical Capability** | **NO** | Rhetoric and debate background; zero chemical preservation skills. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | Rhetoric and debate background; zero chemical preservation skills. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Unlogged activity around central console terminal (23:40). | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Aborted console system log & dropped tape ribbon fragment. | Terminal Access Record (#1) |
 
@@ -144,7 +144,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | Caught planting listening devices near Curator's office (46.5 hrs of *Defying Gravity*). | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Wiretapped office; knew John was auditing access logs. | Character Secret |
 | **3. Physical Access** | **NO** | Guest access pass only; no key clearance. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | Audio wiretapping skills; zero Chemical Kit access or CATCH certification. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | Audio wiretapping skills; zero Chemical Kit access or CATCH certification. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Wandering public stacks "following a lead." | Character Script |
 | **6. Physical Trace Evidence** | YES (Red Herring) | Dropped recording wire fragment found in reading room. | Incident Dossier (#2) |
 
@@ -174,7 +174,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John discovered missing index records stuck under her desk with gum. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew index files documented historic access breaches. | Character Secret |
 | **3. Physical Access** | YES | Index access pass; near central desk. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | Paper archivist; no Chemical Kit access or CATCH certification. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | Paper archivist; no Chemical Kit access or CATCH certification. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | **NO** | Logged at central desk working with Charlotte (23:35–23:50). | Terminal Access Record (#1) |
 | **6. Physical Trace Evidence** | **NO** | Zero physical trace evidence found at scene. | Toxicology Report (#9) |
 
@@ -189,7 +189,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John discovered she wrote anonymous zine columns attacking her own committee decisions. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Knew committee influence was over. | Character Secret |
 | **3. Physical Access** | **NO** | Standard reading room pass only; no key clearance. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | Political strategist; no chemical or artifact handling capability. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | Political strategist; no chemical or artifact handling capability. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Hidden in reading alcove observing guests. | Character Script |
 | **6. Physical Trace Evidence** | **NO** | Zero physical trace evidence found at scene. | Toxicology Report (#9) |
 
@@ -204,11 +204,11 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | Heated verbal argument with John earlier today over banned manuscripts. | Character Backstory / Script |
 | **2. Secret Knowledge** | YES | Grabbed John's coat sleeve during argument, tearing his sleeve. | Character Secret / Incident Dossier |
 | **3. Physical Access** | YES | In hallway corridor near John right before he walked in. | Incident Dossier (#2) |
-| **4. Mechanical Capability** | **NO** | No Chemical Kit access, CATCH certification, or contact toxin knowledge. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | No Chemical Kit access, CATCH certification, or contact toxin knowledge. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Corridor timeline gap right before John walked into gallery. | Character Script |
 | **6. Physical Trace Evidence** | YES (Track A Red Herring) | Torn sleeve fabric matching John's coat arm (Track A). | Incident Dossier (#2) / Maddie Dialogue Slip |
 
-**EXONERATION FACTOR:** Toxicology Report (#9) proves the arm scratch was 100% clean/non-toxic; the coat tear was merely from an argument earlier today.
+**EXONERATION FACTOR:** Toxicology Report (#9) proves the fountain pen puncture wound was 100% non-toxic; the altercation earlier today was non-lethal.
 
 ---
 
@@ -219,7 +219,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | John found proof her 2,000-book charity drive was 23 garage books with photoshopped zeros. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | John hinted privately earlier this week that records didn't match. | Character Backstory |
 | **3. Physical Access** | **NO** | Standard guest pass only; no key clearance. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | Public relations background; zero chemical or lock expertise. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | Public relations background; zero chemical or lock expertise. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Unaccounted for ("freshening up in restroom"). | Character Script |
 | **6. Physical Trace Evidence** | **NO** | Zero physical trace evidence found at scene. | Toxicology Report (#9) |
 
@@ -249,7 +249,7 @@ This master reference guide breaks down all 16 suspects for the Starlight Archiv
 | **1. Motive** | YES | Accidentally saw John hiding the dossier; feared being fired. | Character Secret / Script Lines |
 | **2. Secret Knowledge** | YES | Saw someone lurking near courtyard window sill right before arrival. | Character Secret / Script Lines |
 | **3. Physical Access** | **NO** | Archive assistant pass only; no key clearance to gallery case. | Key Clearance Register (#4) |
-| **4. Mechanical Capability** | **NO** | No Chemical Kit access, CATCH certification, or lock-handling expertise. | Conservation Duty Log (#11) |
+| **4. Mechanical Capability** | **NO** | No Chemical Kit access, CATCH certification, or lock-handling expertise. | Key Clearance Register (#4) |
 | **5. Verified Time Window** | YES | Near hallway entrance right as John arrived. | Character Script |
 | **6. Physical Trace Evidence** | **NO** | Zero physical trace evidence found at scene. | Toxicology Report (#9) |
 

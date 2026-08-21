@@ -10,8 +10,8 @@ This master tracker replaces static player clue cards with an active host manage
 
 ### 📦 Physical Evidence Drop (Handed out by Whitney at Start of Round 1)
 1. **Evidence Item 1:** Electronic Terminal Access Record *(Shows 15-min unlogged prep window 23:30–23:45 and courtyard window sensor trigger at 23:44)*
-2. **Evidence Item 2:** Preliminary Incident Dossier *(Establishes victim profile, archway collapse, and the 3 initial tracks: arm scratch, desk tea cup, display lock)*
-3. **Evidence Item 3:** Curator's Handwritten Audit Notes *(Mentions investigation into unlogged access breaches and 1926 family secret)*
+2. **Evidence Item 2:** Preliminary Incident Dossier *(Establishes victim profile, archway collapse, and the 3 initial tracks: forearm puncture wound, desk tea cup, display lock)*
+3. **Evidence Item 3:** Curator's Handwritten Audit Notes *(Outlines John's active inquiries into multiple Circle infractions—forged notes, missing index records, plagiarism, and unlogged access—with threats of midnight revocations)*
 4. **Evidence Item 4:** Key & Access Authorization Register *(Master institutional facility register detailing RFID levels, vault cases, mechanical bypasses, and chemical/CATCH clearances across all 16 members)*
 5. **Physical Showcase:** Chemical Preservation Kit (Jars A–E on vintage wooden tray on evidence table)
 6. **Player Materials:** Round 1 Dialogue & Witness Slips
@@ -29,7 +29,7 @@ This master tracker replaces static player clue cards with an active host manage
 ---
 
 ### 🎯 Round 1 Host Milestone Checklist
-- [ ] **Are players exploring all 3 Tracks?** (Stabbing/scratch vs. Poisoned tea vs. Display lock).
+- [ ] **Are players exploring all 3 Tracks?** (Fountain pen stabbing vs. Poisoned tea vs. Display lock).
 - [ ] **Did players notice the 15-minute gap (23:30–23:45) in the Terminal Log?**
 - [ ] **Do players understand that standard card keys don't open the courtyard window?**
 
@@ -56,11 +56,11 @@ This master tracker replaces static player clue cards with an active host manage
   * **Georgia:** Saw **Christina** nervously typing and reviewing debate notes at the console right next to John's tea cup.
 * **Corridor Altercation & Fountain Pen Sightings:**
   * **Maddie:** Saw **Victoria** holding a sharp fountain pen earlier today when arguing in the corridor.
-  * **Victoria:** Defends herself, stating the scratch was a minor tussle and that John was fine when he entered.
+  * **Victoria:** Defends herself, arguing that the hallway tussle and pen strike was non-lethal and that John walked into the hall alive and alert.
 * **Courtyard Window Sightings:**
   * **Vale & Kaitlin:** Both testify that they saw **Sarah** outside in the courtyard garden taking photos through the glass from the path, and that **Sarah never opened or climbed through the window**.
-* **UV Spine Discovery:**
-  * **Ruthanne:** Prompts guests to scan the book spines with blacklights, unscrambling **D-E-R-M-A-L**.
+* **Conservation Supply Sighting:**
+  * **Ruthanne:** Saw **Raelin** hurriedly leaving the conservation supply room right before the front doors opened.
 
 ---
 
@@ -80,28 +80,29 @@ This master tracker replaces static player clue cards with an active host manage
 ## 📜 **Round 3: Toxicology, Laser Overlay Cipher & Final Ballots**
 
 ### 📦 Physical Evidence Drop (Handed out by Whitney at Start of Round 3)
-1. **Evidence Item 9:** Forensic Toxicology Report *(Eliminates corridor strike & desk tea; confirms dermal contact poison on lock via naturally UV-fluorescent organomercury fumigant)*
-2. **Evidence Item 10:** Curator's Handwritten Letter & xTool P3 Laser-Cut Decryption Mask *(Overlays to read: "Item RB-1147 lock was tampered")*
-3. **Evidence Item 11:** Conservation Duty Log *(Identifies Raelin and Charlotte as CATCH-certified conservators)*
-4. **Evidence Item 12:** Master Toolkit & Courtyard Trace Analysis Report *(Master Key #000 recovered from hedges; Jar E glows neon green under UV)*
-5. **Voting Ballots:** Handed out for guests to vote for Killer, Motive, and Weapon.
-6. **Player Materials:** Round 3 Dialogue & Witness Slips
+1. **Evidence Item 9:** Forensic Toxicology Report *(Eliminates corridor strike & desk tea; confirms dermal contact poison on lock via Ultra Violet light reactive organomercury chemical)*
+2. **Evidence Item 10:** Curator's Private Letter & Laser-Cut Celestial Aperture Matrix *(Overlays to read: "Item RB-1147 lock was tampered")*
+3. **Evidence Item 11:** Hardware & Physical Trace Analysis Report *(Master Key #000 recovered from hedges; microscopic striations match courtyard window & case RB-1147)*
+4. **Voting Ballots:** Handed out for guests to vote for Killer, Motive, and Weapon.
+5. **Player Materials:** Round 3 Dialogue & Witness Slips
 
 ---
 
 ### 👁️ Player Witness Observations Circulating in Round 3
-* **Scientific Eliminations:**
-  * **Victoria & Maddie:** Highlight that the toxicology report proves the arm scratch was 100% clean and non-toxic (Hallway attack eliminated).
-  * **Hope & Gianna:** Highlight that the tea cup was 100% full and untasted because John quit caffeinated tea weeks ago (Poisoned drink eliminated).
-* **Chemical Kit & UV Blacklight:**
-  * **Christina & Ruthanne:** Prompt guests to scan the Chemical Kit with UV flashlights—**Jar E (Archival Fumigation & Anti-Pest Sealant)** glows vibrant neon green, matching the poison on John's palm!
-* **Decryption Mask:**
-  * **Brooklyn:** Shows guests how to place the wooden overlay mask over John's letter to read: *"Item RB-1147 lock was tampered"*.
+* **Fountain Pen Injury:**
+  * **Victoria & Maddie:** Testify that the lab report confirmed the puncture wound on John's arm was completely non-toxic and free of poisons.
+* **Tea Elimination via Personal Knowledge:**
+  * **Hope & Gianna:** Testify that John gave up drinking caffeinated herbal tea four weeks ago on strict medical advice and hadn't touched tea all month.
+* **Chemical Preservation Kit Access:**
+  * **Christina & Ruthanne:** Testify that the chemical kit on the display table was left unlocked during prep, and that only staff with conservation clearance are authorized to handle those compounds.
+* **Vault Tampering & Motive:**
+  * **Brooklyn:** Testifies that John caught someone secretly manipulating vault records earlier in the evening.
+* **Master Key & Window Evidence:**
+  * **Ellie & Vale:** Ellie testifies that the tumblers on Case RB-1147 and the courtyard window were turned by the original Master Key (#000); Vale testifies that Master Key #000 was found discarded in the hedges directly beneath the window.
 * **Dual CATCH Conservator Resolution:**
-  * **Charlotte:** Argues she returned Master Key #000 at 5:00 PM, only holds Keycard #005 tonight, and was seated at the intake desk the whole time.
-  * **Claire & Georgia:** Both testify that Charlotte was seated at the intake desk with them continuously from 23:35 to 23:50 (Charlotte exonerated on timeline).
-  * **Kaitlin & Vale:** Point out that only **Raelin** possessed Master Key #000 tonight and has an unaccounted 15-minute prep gap.
-  * **Ellie:** Confirms Case RB-1147 tumblers and the courtyard window were turned by the original Master Key (#000) with its unique antique wear pattern, not pick wires or wax mold copies.
+  * **Charlotte:** Testifies she returned Master Key #000 at 5:00 PM, only holds Keycard #005 tonight, and was seated at the intake desk.
+  * **Claire & Georgia:** Both testify that Charlotte was seated with them at the intake desk continuously from 23:35 to 23:50 (corroborated alibi).
+  * **Kaitlin:** Points out that only **Raelin** held Master Key #000 tonight and has an unaccounted 15-minute prep gap.
 
 ---
 
